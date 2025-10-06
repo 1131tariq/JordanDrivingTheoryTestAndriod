@@ -1,0 +1,678 @@
+[
+    {
+        "text_ar": "عند وجود ھذه الشاخصة فإنه یجب:",
+        "text_en": "When this sign is present, you must:",
+        "options_ar": [
+            "على السائق العمل على تخفیض سرعة مركبته لكي یستطیع اجتیاز الحفر بأمان.",
+            "على السائق العمل على تخفیض سرعة مركبته لكي یستطیع اجتیاز المطب بأمان.",
+            "على السائق العمل على زیادة سرعة مركبته لكي لایشعر بقوة المطب."
+        ],
+        "options_en": [
+            "The driver must reduce the speed of their vehicle to be able to pass over the potholes safely.",
+            "The driver must reduce the speed of their vehicle to be able to pass over the speed bump safely.",
+            "The driver must increase the speed of their vehicle so as not to feel the force of the speed bump."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.1"
+    },
+    {
+        "text_ar": "عند وجود ھذه الشاخصة یجب على المشاة:",
+        "text_en": "When this sign is present, pedestrians must:",
+        "options_ar": [
+            "المرور لكن بحذر.",
+            "المرور لأنھم یملكون الأولویة.",
+            "عدم المرور .",
+            "لاشيء مما ذكر"
+        ],
+        "options_en": [
+            "Cross, but with caution.",
+            "Cross because they have the right of way.",
+            "Not cross.",
+            "None of the above"
+        ],
+        "correctIndex": 2,
+        "imgName": "2.2"
+    },
+    {
+        "text_ar": "طریقة تحمیل المركبة المبینة في الصورة:",
+        "text_en": "The way the vehicle shown in the image is loaded is:",
+        "options_ar": [
+            "صحیحة كون السائق یحمل حمولة خفیفة.",
+            "غیر صحیحة كون السائق لم یستخدم وسائل السلامة.",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "Correct because the driver is carrying a light load.",
+            "Incorrect because the driver did not use safety measures.",
+            "None of the above"
+        ],
+        "correctIndex": 1,
+        "imgName": "2.3"
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الشاخصة فإن:",
+        "text_en": "When you see this sign, then:",
+        "options_ar": [
+            "السرعة القصوى للشاحنات ٩٠ كم/ساعة وللمركبات الصغیرة ١٠٠ كم/ساعة.",
+            "السرعة القصوى للشاحنات ١٠٠ كم/ساعة وللمركبات الصغیرة ٨٠ كم/ساعة.",
+            "السرعة القصوى للشاحنات ٩٠ كم/ساعة وللمركبات الصغیرة ٨٠ كم/ساعة.",
+            "السرعة الدنیا للشاحنات ٩٠ كم/ساعة وللمركبات الصغیرة ١٠٠ كم/ساعة."
+        ],
+        "options_en": [
+            "The maximum speed for trucks is 90 km/h and for small vehicles is 100 km/h.",
+            "The maximum speed for trucks is 100 km/h and for small vehicles is 80 km/h.",
+            "The maximum speed for trucks is 90 km/h and for small vehicles is 80 km/h.",
+            "The minimum speed for trucks is 90 km/h and for small vehicles is 100 km/h."
+        ],
+        "correctIndex": 0,
+        "imgName": "2.4"
+    },
+    {
+        "text_ar": "من وظائف الاطارات الرئیسیة:",
+        "text_en": "Among the main functions of tires is:",
+        "options_ar": [
+            "امتصاص الصدمات من الطریق",
+            "رفع الأحمال",
+            "نقل عملیة الدفع والفرملة على الطریق",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Absorbing shocks from the road",
+            "Lifting loads",
+            "Transmitting propulsion and braking to the road",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "الخطوط الموجودة على الطریق ھي:",
+        "text_en": "The lines on the road are:",
+        "options_ar": [
+            "خطوط عوائق أرضیة یسمح للمركبات بالمرور فوقھا.",
+            "خطوط عوائق أرضیة تمنع المركبات من المرور فوقھا.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Ground obstacles that vehicles are allowed to pass over.",
+            "Ground obstacles that prevent vehicles from passing over them.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.6"
+    },
+    {
+        "text_ar": "عند قیاس ضغط الھواء في الإطار یجب أن تكون درجة الحرارة:",
+        "text_en": "When measuring the air pressure in a tire, the temperature should be:",
+        "options_ar": [
+            "منخفضة",
+            "مرتفعة"
+        ],
+        "options_en": [
+            "Low",
+            "High"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "استخدام حزام الأمان ھو:",
+        "text_en": "The use of a seatbelt is:",
+        "options_ar": [
+            "إختیاري .",
+            "إلزامي على الطرق الخارجیة فقط .",
+            "حریة شخصیة للمستخدم وحسب مزاجه .",
+            "إلزامي ویساعد المستخدم على تخفیف حدة الإصابة في حال وقوع حادث مروري شریطة استخدامه بالطریقة الصحیحة."
+        ],
+        "options_en": [
+            "Optional.",
+            "Mandatory on external roads only.",
+            "A personal freedom for the user, depending on their mood.",
+            "Mandatory and helps the user reduce the severity of injury in the event of a traffic accident, provided it is used correctly."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "الوسادة الھوائیة (Air Bag):",
+        "text_en": "The Airbag:",
+        "options_ar": [
+            "وحدھا كافیة لتوفیر الحمایة اللازمة لإنقاذ حیاة السائق في حالة وقوع حادث مروري .",
+            "سلبیة , وقد تؤدي إلى إیذاء السائق.",
+            "استعمال حزام الأمان ووجود الوسادة الھوائیة توفر أكبر قدر ممكن من الوقایة في حالة وقوع حادث مروري"
+        ],
+        "options_en": [
+            "Alone is sufficient to provide the necessary protection to save the driver's life in the event of a traffic accident.",
+            "Is negative and may harm the driver.",
+            "Using a seatbelt along with an airbag provides the greatest possible protection in the event of a traffic accident."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "استخدام حزام الأمان داخل المركبة:",
+        "text_en": "The use of a seatbelt inside a vehicle:",
+        "options_ar": [
+            "خاص بالأردن .",
+            "خاص داخل المدن.",
+            "خاص فقط على الطرق الخارجیة .",
+            "منتشر في كافة أنحاء العالم بما فیھا الأردن ."
+        ],
+        "options_en": [
+            "Is specific to Jordan.",
+            "Is specific to within cities.",
+            "Is specific to external roads only.",
+            "Is widespread throughout the world, including Jordan."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "تناول السوائل أثناء القیادة یؤدي إلى تشتیت انتباه السائق وبالتالي زیادة نسبة احتمالیة الإشتراك في الحوادث.",
+        "text_en": "Drinking liquids while driving leads to driver distraction and thus increases the likelihood of being involved in accidents.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من وظائف الاطارات الرئیسیة:",
+        "text_en": "Among the main functions of tires is:",
+        "options_ar": [
+            "تغییر إتجاه الحركة والمحافظة علیھا",
+            "رفع الأحمال",
+            "جمیع ماذكر"
+        ],
+        "options_en": [
+            "Changing and maintaining the direction of movement",
+            "Lifting loads",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "عند رؤیة ھاتین الشاخصتین فإنه:",
+        "text_en": "When you see these two signs, then:",
+        "options_ar": [
+            "یسمح الدوران ویمنع الإنعطاف للیسار.",
+            "یمنع الدوران ویسمح الإنعطاف للیسار.",
+            "یمنع الإنعطاف للیسار ویمنع الدوران",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "U-turns are allowed and left turns are prohibited.",
+            "U-turns are prohibited and left turns are allowed.",
+            "Left turns are prohibited and U-turns are prohibited.",
+            "None of the above"
+        ],
+        "correctIndex": 2,
+        "imgName": "2.13"
+    },
+    {
+        "text_ar": "یجب على سائقي الشاحنات:",
+        "text_en": "Truck drivers must:",
+        "options_ar": [
+            "عدم المسیر على المسرب الایسر والاوسط.",
+            "عدم المسیر على المسرب الایمن.",
+            "عدم مرور الشاحنات نھائیا في ھذا الطریق.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Not drive in the left and middle lanes.",
+            "Not drive in the right lane.",
+            "Trucks are not allowed to pass on this road at all.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "2.14"
+    },
+    {
+        "text_ar": "عند وجود ھذه الشاخصة فإنه:",
+        "text_en": "When this sign is present, then:",
+        "options_ar": [
+            "یسمح بمرور الشاحنات في اوقات المساء فقط.",
+            "یمنع مرور الشاحنات.",
+            "یمنع مرور المركبات."
+        ],
+        "options_en": [
+            "Trucks are allowed to pass only in the evening.",
+            "Trucks are prohibited from passing.",
+            "Vehicles are prohibited from passing."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.15"
+    },
+    {
+        "text_ar": "تعتبر ھذه الشاخصة من الشواخص:",
+        "text_en": "This sign is considered a:",
+        "options_ar": [
+            "الإرشادیة .",
+            "التحذیریة.",
+            "الالزامیة ."
+        ],
+        "options_en": [
+            "Directional sign.",
+            "Warning sign.",
+            "Mandatory sign."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.16"
+    },
+    {
+        "text_ar": "من الأھداف الرئیسیة لرجال السیر ھو:",
+        "text_en": "Among the main goals of traffic police is:",
+        "options_ar": [
+            "حمایة السائق من ایذاء نفسه او ایذاء الاخرین.",
+            "ضمان فعالیة النظام المروري وضمان تفاعل عناصره بالطریقة الصحیحة.",
+            "توعیة مستخدمي الطریق.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Protecting the driver from harming themselves or others.",
+            "Ensuring the effectiveness of the traffic system and the proper interaction of its components.",
+            "Educating road users.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "عند رؤیة ھاتین الشاخصتین فإنه:",
+        "text_en": "When you see these two signs, then:",
+        "options_ar": [
+            "یجب ان تنعطف الى الیمین.",
+            "یجب ان تنعطف الي الیسار.",
+            "یسمح الإنعطاف للیسار.",
+            "یجب ان تسیر الى الامام."
+        ],
+        "options_en": [
+            "You must turn right.",
+            "You must turn left.",
+            "Left turns are allowed.",
+            "You must go straight ahead."
+        ],
+        "correctIndex": 3,
+        "imgName": "2.18"
+    },
+    {
+        "text_ar": "في حالة وقوع حادث مروري فإن استخدام حزام الأمان بالصورة الصحیحة یساعد على:",
+        "text_en": "In the event of a traffic accident, using the seatbelt correctly helps to:",
+        "options_ar": [
+            "یزید من الإصابة والأذى للمستخدم .",
+            "لا فائدة من استخدامه.",
+            "انقاذ حیاة مستخدمة"
+        ],
+        "options_en": [
+            "Increase the user's injuries and harm.",
+            "Be useless.",
+            "Save the user's life"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "عندما ترى ھذه الشاخصة وانت تقود مركبتك فإنه یجب علیك:",
+        "text_en": "When you see this sign while driving your vehicle, you must:",
+        "options_ar": [
+            "التمھل و التوقف عند وجود مشاة یعبرون الطریق.",
+            "إكمال الطریق دون توقف لأنه طریق رئیسي.",
+            "یجب علیك تخفیف السرعة دون التوقف ."
+        ],
+        "options_en": [
+            "Slow down and stop when there are pedestrians crossing the road.",
+            "Continue on without stopping because it is a main road.",
+            "You must reduce your speed without stopping."
+        ],
+        "correctIndex": 0,
+        "imgName": "2.20"
+    },
+    {
+        "text_ar": "استخدام حزام الأمان في المركبات:",
+        "text_en": "The use of seatbelts in vehicles:",
+        "options_ar": [
+            "یساعد على حمایة المستخدم.",
+            "تدخّل في حریة المستخدم .",
+            "یعیق حركة المستخدم.",
+            "جمیع ما ذكر أعلاه."
+        ],
+        "options_en": [
+            "Helps protect the user.",
+            "Is an interference with the user's freedom.",
+            "Hinders the user's movement.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند وجود ھذه الشاخصة فإنه:",
+        "text_en": "When this sign is present, then:",
+        "options_ar": [
+            "على السائق عدم التوقف إلا إذا كان یقوم بعملیة تحمیل وتنزیل الركاب.",
+            "على السائق عدم الوقوف والتوقف نھائیاً.",
+            "یسمح بالتوقف دون الوقوف.",
+            "لا شئ مما ذكر."
+        ],
+        "options_en": [
+            "The driver must not stop unless they are loading or unloading passengers.",
+            "The driver must not park or stop at all.",
+            "Stopping is allowed but parking is not.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.22"
+    },
+    {
+        "text_ar": "إن توقف الباص في ھذا المكان ھو :",
+        "text_en": "The bus stopping in this location is:",
+        "options_ar": [
+            "ممنوع لأنه على طریق رئیسي.",
+            "ممنوع لأنه تحت جسر مشاة.",
+            "مسموح لوجود شاخصة تدل على ذلك.",
+            "خاطئ كونه لم یلتزم بالوقوف بالموقف."
+        ],
+        "options_en": [
+            "Prohibited because it is on a main road.",
+            "Prohibited because it is under a pedestrian bridge.",
+            "Allowed because there is a sign indicating so.",
+            "Wrong because it did not stop at the designated bus stop."
+        ],
+        "correctIndex": 3,
+        "imgName": "2.23"
+    },
+    {
+        "text_ar": "عند رؤیتك لھذه الأزرار فإنه:",
+        "text_en": "When you see these buttons, then:",
+        "options_ar": [
+            "یسمح لك بالمرور علیھا.",
+            "یسمح لك بالمرور علیھا لكن بشروط.",
+            "لا یسمح لك بالمرور علیھا."
+        ],
+        "options_en": [
+            "You are allowed to drive over them.",
+            "You are allowed to drive over them, but with conditions.",
+            "You are not allowed to drive over them."
+        ],
+        "correctIndex": 2,
+        "imgName": "2.24"
+    },
+    {
+        "text_ar": "حزام الأمان في المركبات:",
+        "text_en": "Seatbelts in vehicles are:",
+        "options_ar": [
+            "إلزامي حسب قانون السیر الأردني.",
+            "غیر إلزامي .",
+            "لا یساعد على حمایة المستخدم.",
+            "كل ما ذكر أعلاه."
+        ],
+        "options_en": [
+            "Mandatory according to Jordanian traffic law.",
+            "Not mandatory.",
+            "Do not help protect the user.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من أھم وسائل الحمایة المتوفرة في السیارة:",
+        "text_en": "Among the most important safety features available in a car are:",
+        "options_ar": [
+            "حزام الأمان.",
+            "مسند الرأس.",
+            "الوسادة الھوائیة ( Air bag )",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "The seatbelt.",
+            "The headrest.",
+            "The airbag.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "من خلال الصورة المبینة فإن المركبة بحمولتھا:",
+        "text_en": "Based on the image shown, the vehicle with its load:",
+        "options_ar": [
+            "تتخذ الاحتیاطات اللازمة لتثبیت الحمولة و تغطیتھا.",
+            "لا تتخذ الاحتیاطات اللازمة لأنھا لاتضع العواكس المطلوبة.",
+            "لا تتخذ الاحتیاطات اللازمة لتثبیت الحمولة و تغطیتھا لأن حمولتھا تشكل خطرا على الآخرین."
+        ],
+        "options_en": [
+            "Takes the necessary precautions to secure and cover the load.",
+            "Does not take the necessary precautions because it does not have the required reflectors.",
+            "Does not take the necessary precautions to secure and cover the load because its load poses a danger to others."
+        ],
+        "correctIndex": 2,
+        "imgName": "2.27"
+    },
+    {
+        "text_ar": "عند الاقتراب من ھذه الشاخصة:",
+        "text_en": "When approaching this sign:",
+        "options_ar": [
+            "یجب التوقف والسماح للمركبات بالمرور.",
+            "یجب إعطاء الأولویة للمركبات بالمرور.",
+            "أ+ب.",
+            "لاشيء مما ذكر."
+        ],
+        "options_en": [
+            "You must stop and allow vehicles to pass.",
+            "You must give priority to vehicles passing.",
+            "A + B.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "2.28"
+    },
+    {
+        "text_ar": "إذا اقتربت مركبه من النفق المبین وكان ھناك مشاة یقطعون الشارع فإنه یجب على سائق المركبة ان:",
+        "text_en": "If a vehicle approaches the tunnel shown and there are pedestrians crossing the street, the driver must:",
+        "options_ar": [
+            "یتابع المرور بمركبته دون توقف لوجود شاخصة تمنع مرور المشاة.",
+            "یسمح للمشاة بالمرور حتى اذا وجدت شاخصة تمنع مرور المشاة."
+        ],
+        "options_en": [
+            "Continue driving without stopping because there is a sign that prohibits pedestrians from crossing.",
+            "Allow pedestrians to cross even if there is a sign that prohibits them from crossing."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.29"
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الشاخصة فإنه:",
+        "text_en": "When you see this sign, then:",
+        "options_ar": [
+            "یسمح لك بالوقوف.",
+            "لا یسمح لك بالوقوف .",
+            "یسمح بالوقوف لذوي الاحتیاجات الخاصة فقط.",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "You are allowed to park.",
+            "You are not allowed to park.",
+            "Parking is allowed for people with special needs only.",
+            "None of the above"
+        ],
+        "correctIndex": 0,
+        "imgName": "2.30"
+    },
+    {
+        "text_ar": "عند رؤیتك لھذه الشاخصة فأنھ یجب علیك :",
+        "text_en": "When you see this sign, you must:",
+        "options_ar": [
+            "المرور بحذر إذا كان إرتفاع مركبتك اكثر من ٤٫٧ متر.",
+            "عدم المرور إذا كان إرتفاع مركبتك اقل ٤٫٧ متر.",
+            "عدم المرور إذا كان إرتفاع مركبتك اكثر من ٤٫٧ متر.",
+            "عدم المرور إذا كان عرض مركبتك اكثر من ٤٫٧ متر."
+        ],
+        "options_en": [
+            "Proceed with caution if your vehicle's height is more than 4.7 meters.",
+            "Do not pass if your vehicle's height is less than 4.7 meters.",
+            "Do not pass if your vehicle's height is more than 4.7 meters.",
+            "Do not pass if your vehicle's width is more than 4.7 meters."
+        ],
+        "correctIndex": 2,
+        "imgName": "2.31"
+    },
+    {
+        "text_ar": "الإجراء الذي یجب أن تتخذه عند رؤیة ھذه الشاخصة ھو:",
+        "text_en": "The action you must take when you see this sign is:",
+        "options_ar": [
+            "إستعمال الزامور في جمیع الاحوال.",
+            "إستعمال الزامور عند الضرورة فقط.",
+            "عدم إستعمال الزامور."
+        ],
+        "options_en": [
+            "Use the horn in all cases.",
+            "Use the horn only when necessary.",
+            "Do not use the horn."
+        ],
+        "correctIndex": 2,
+        "imgName": "2.32"
+    },
+    {
+        "text_ar": "تعتبر ھذه الشواخص :",
+        "text_en": "These signs are considered:",
+        "options_ar": [
+            "إرشادیة.",
+            "إلزامیة.",
+            "تحذیریة."
+        ],
+        "options_en": [
+            "Directional.",
+            "Mandatory.",
+            "Warning."
+        ],
+        "correctIndex": 0,
+        "imgName": "2.33"
+    },
+    {
+        "text_ar": "عند رؤیة ھاتین الشاخصتین فإن:",
+        "text_en": "When you see these two signs, then:",
+        "options_ar": [
+            "الالتفاف مسموح والانعطاف إلى الیسار ممنوع",
+            "السیر الى الأمام إلزامي.",
+            "الانعطاف للیمین ممنوع"
+        ],
+        "options_en": [
+            "U-turns are allowed and left turns are prohibited.",
+            "Proceeding straight is mandatory.",
+            "Right turns are prohibited."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.34"
+    },
+    {
+        "text_ar": "على الراكب الجالس بجوار السائق:",
+        "text_en": "The passenger sitting next to the driver must:",
+        "options_ar": [
+            "إستخدام حزام الأمان إذا اراد ذلك .",
+            "عدم استخدام حزام الامان اذا كان یقید حریته.",
+            "استخدام حزام الأمان لانه ملزم قانونیاً.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Use the seatbelt if they wish to.",
+            "Not use the seatbelt if it restricts their freedom.",
+            "Use the seatbelt because it is legally mandatory.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الشاخصة فإنه:",
+        "text_en": "When you see this sign, then:",
+        "options_ar": [
+            "یجب علیك ان تتجه الى الیمین بشكل إجباري كون المسیر الى الامام ممنوع.",
+            "التقدم نحو النفق لكن بحذر كبیر.",
+            "الرجوع إلى الخلف واتخاذ طریق أخر"
+        ],
+        "options_en": [
+            "You must turn right as going straight is prohibited.",
+            "Proceed towards the tunnel with great caution.",
+            "Go back and take another road."
+        ],
+        "correctIndex": 0,
+        "imgName": "2.36"
+    },
+    {
+        "text_ar": "عند رؤیتك لھذه الشاخصة فأنھ یجب علیك:",
+        "text_en": "When you see this sign, you must:",
+        "options_ar": [
+            "ان تخفف من سرعة المركبة لانك تقترب من تقاطع طرق على شكل (+).",
+            "ان تزید من سرعة المركبة لانك تقترب من تقاطع طرق .",
+            "ان تخفف من سرعة المركبة لانك تقترب من دوار.",
+            "ان تزید من سرعة المركبة لانك تقترب من دوار."
+        ],
+        "options_en": [
+            "Reduce your vehicle's speed because you are approaching a '+' shaped intersection.",
+            "Increase your vehicle's speed because you are approaching an intersection.",
+            "Reduce your vehicle's speed because you are approaching a roundabout.",
+            "Increase your vehicle's speed because you are approaching a roundabout."
+        ],
+        "correctIndex": 0,
+        "imgName": "2.37"
+    },
+    {
+        "text_ar": "من خلال الشاخصة المبینة فإن:",
+        "text_en": "Based on the sign shown, then:",
+        "options_ar": [
+            "یمنع الانعطاف إلى الیمین.",
+            "یمنع الانعطاف إلى الیسار.",
+            "یسمح الانعطاف إلى الیمین.",
+            "یسمح الانعطاف إلى الیسار ."
+        ],
+        "options_en": [
+            "Right turns are prohibited.",
+            "Left turns are prohibited.",
+            "Right turns are allowed.",
+            "Left turns are allowed."
+        ],
+        "correctIndex": 1,
+        "imgName": "2.38"
+    },
+    {
+        "text_ar": "من خلال الصورة المبینة فإنة یجب علیك:",
+        "text_en": "Based on the image shown, you must:",
+        "options_ar": [
+            "المرور بحذر لأنك تقترب من منطقة عمل على بعد ٥٠ م.",
+            "المرور بحذر لأنك تقترب من منطقة عمل.",
+            "ان لاتزید من سرعة مركبتك عن ٥٠ كم/ساعة.",
+            "ب+ج."
+        ],
+        "options_en": [
+            "Proceed with caution because you are approaching a work zone 50 meters away.",
+            "Proceed with caution because you are approaching a work zone.",
+            "Not increase your vehicle's speed over 50 km/h.",
+            "B + C."
+        ],
+        "correctIndex": 3,
+        "imgName": "2.39"
+    },
+    {
+        "text_ar": "قانون السیر الأردني یلزم السائق:",
+        "text_en": "Jordanian traffic law obligates the driver to:",
+        "options_ar": [
+            "استخدام حزام الأمان خارج المدن فقط .",
+            "استخدام حزام الأمان داخل المدن فقط .",
+            "استخدام حزام الأمان باستمرار أثناء القیادة"
+        ],
+        "options_en": [
+            "Use a seatbelt outside cities only.",
+            "Use a seatbelt inside cities only.",
+            "Use a seatbelt continuously while driving."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    }
+]

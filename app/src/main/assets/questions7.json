@@ -1,0 +1,692 @@
+[
+    {
+        "text_ar": "تستخدم الأزرار الصفراء للدلالة على:",
+        "text_en": "Yellow buttons are used to indicate:",
+        "options_ar": [
+            "حواف الطریق .",
+            "المسارب.",
+            "إعطاء الأولویه",
+            "لاشيء مما ذكر"
+        ],
+        "options_en": [
+            "Roadside edges.",
+            "Lanes.",
+            "Giving priority.",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "علامة الرصیف تعني:",
+        "text_en": "The curb sign means:",
+        "options_ar": [
+            "ممنوع الوقوف لجمیع المركبات",
+            "الوقوف فقط للمركبات العمومیة و النقل",
+            "لتأكید الرؤیا فقط"
+        ],
+        "options_en": [
+            "No Parking for All Vehicles",
+            "Public and Transportation Vehicles Only",
+            "For Visibility Only"
+        ],
+        "correctIndex": 2,
+        "imgName": "7.2"
+    },
+    {
+        "text_ar": "السیارت المصممه لنقل ما لایزید على تسعة اشخاص بمن فیھم السائق تصنف من فئة:",
+        "text_en": "Vehicles designed to transport no more than nine people, including the driver, are classified as:",
+        "options_ar": [
+            "سیارات الركوب",
+            "مركبات النقل المشترك",
+            "مركبات الشحن",
+            "لا شي مما ذكر"
+        ],
+        "options_en": [
+            "passenger cars",
+            "shared transportation vehicles",
+            "freight vehicles",
+            "none of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "السماح بالتجاوز.",
+            "ممنوع التجاوز.",
+            "خط الوقوف.",
+            "لا شئ مما ذكر."
+        ],
+        "options_en": [
+            "Overtaking allowed.",
+            "Overtaking prohibited.",
+            "Stop line.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "7.4"
+    },
+    {
+        "text_ar": "تستخدم الأزرار البیضاء للدلالة على:",
+        "text_en": "The white buttons are used to indicate:",
+        "options_ar": [
+            "حواف الطریق .",
+            "المسارب.",
+            "إعطاء الأولویه",
+            "لاشيء مما ذكر"
+        ],
+        "options_en": [
+            "Roadside edges.",
+            "Lanes.",
+            "Giving priority.",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "المركبه المصممة لنقل ما یزید على ثلاثین راكبا ھي:",
+        "text_en": "A vehicle designed to carry more than thirty passengers is:",
+        "options_ar": [
+            "سیارة الركوب المتوسطه.",
+            "الحافلة.",
+            "سیارة النقل المشترك.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Average passenger vehicle.",
+            "Bus.",
+            "Shared transit vehicle.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "رخصة السوق من الفئة السابعة تصنف بأنھا:",
+        "text_en": "A Class 7 driving license is classified as:",
+        "options_ar": [
+            "رخصة قیادة مركبة معوقین",
+            "رخصة سوق لقیادة مركبة وزنھا الاجمالي عشرون طنا او اكثر او قاطرة ومقطورة او راس قاطرة ونصف مقطورة",
+            "رخصة سوق لقیادة سیارة الركوب التي یزید عدد ركابھا على ثلاثین راكبا بمن فیھم السائق",
+            "ب + ج"
+        ],
+        "options_en": [
+            "Disabled Vehicle Driving License",
+            "Driving License to drive a vehicle with a gross weight of twenty tons or more, or a trailer and a trailer, or a trailer and a semi-trailer",
+            "Driving License to drive a passenger car with more than thirty passengers, including the driver",
+            "B ​​+ C"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "ممنوع الوقوف.",
+            "مواقف مركبات موازیة للطریق.",
+            "مواقف مركبات بشكل زاویة على الطریق.",
+            "لا شئ مما ذكر."
+        ],
+        "options_en": [
+            "No parking.",
+            "Parallel parking.",
+            "Angular parking.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "7.8"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "his land mark means",
+        "options_ar": [
+            "مواقف للمركبات بشكل زاویة على الطریق.",
+            "مواقف للمركبات موازیة للطریق.",
+            "ممنوع الوقوف."
+        ],
+        "options_en": [
+            "Parking at an angle to the road.",
+            "Parking parallel to the road.",
+            "No parking."
+        ],
+        "correctIndex": 0,
+        "imgName": "7.9"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "ممنوع الوقوف.",
+            "مواقف مركبات موازیة للطریق.",
+            "مواقف مركبات بشكل زاویة على الطریق.",
+            "لا شئ مما ذكر."
+        ],
+        "options_en": [
+            "No parking.",
+            "Parallel parking.",
+            "Angular parking.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "7.10"
+    },
+    {
+        "text_ar": "علامة الرصیف تعني:",
+        "text_en": "The curb sign means:",
+        "options_ar": [
+            "ممنوع الوقوف لجمیع المركبات",
+            "الوقوف فقط للمركبات العمومیة و النقل",
+            "لتأكید الرؤیا فقط",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "No Parking for All Vehicles",
+            "Parking Only for Public and Transport Vehicles",
+            "For Visibility Only",
+            "None of the Above"
+        ],
+        "correctIndex": 1,
+        "imgName": "7.11"
+    },
+    {
+        "text_ar": "تقتصر وظائف العلامات الأرضیة على الوظائف التنظیمیة فقط.",
+        "text_en": "The functions of ground markings are limited to regulatory functions only.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "المركبة ذات الاستعمال الخاص ھي:",
+        "text_en": "The private use vehicle is:",
+        "options_ar": [
+            "مركبة النقل .",
+            "مركبة الرفع.",
+            "مركبة جر.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Transport vehicle.",
+            "Lifting vehicle.",
+            "Tow vehicle.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "المركبات المصممة لنقل الأشخاص و البضائع معا ھي:",
+        "text_en": "Vehicles designed to transport both people and goods are:",
+        "options_ar": [
+            "سیارات ركوب المتوسطه.",
+            "الحافلات.",
+            "مركبات النقل المشترك",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Medium passenger cars.",
+            "Buses.",
+            "Shared transit vehicles",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "ممنوع الوقوف.",
+            "مواقف مركبات موازیة للطریق.",
+            "مواقف مركبات بشكل زاویة على الطریق.",
+            "لا شئ مما ذكر."
+        ],
+        "options_en": [
+            "No parking.",
+            "Parallel parking.",
+            "Angular parking.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "7.15"
+    },
+    {
+        "text_ar": "مركبة النقل المشترك مصممة لنقل البضائع والأشخاص معا",
+        "text_en": "A shared transport vehicle designed to transport both goods and people.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "his land mark means",
+        "options_ar": [
+            "خط قف.",
+            "نھایة الطریق.",
+            "خط الأولویة.",
+            "ممر مشاة."
+        ],
+        "options_en": [
+            "Stop line.",
+            "End of road.",
+            "Priority line.",
+            "Pedestrian crosswalk."
+        ],
+        "correctIndex": 2,
+        "imgName": "7.17"
+    },
+    {
+        "text_ar": "المركبة الالیة المصممة لاستخدامھا في الاشغال الانشائیة بما في ذلك الاشغال المتعلقة بالطرق ھي:",
+        "text_en": "The motor vehicle designed for use in construction works, including road-related works, is:",
+        "options_ar": [
+            "سیارة الشحن.",
+            "الحافلة.",
+            "سیارة النقل المشترك.",
+            "مركبة الاشغال."
+        ],
+        "options_en": [
+            "Freight vehicle.",
+            "Bus.",
+            "Public transport vehicle.",
+            "Work vehicle."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "الحافلة مصممة لنقل ما یزید عن ..........:",
+        "text_en": "The bus is designed to carry more than ..........:",
+        "options_ar": [
+            "عشرة ركاب.",
+            "عشرون راكب.",
+            "ثلاثون راكبا.",
+            "اربعون راكبا.",
+            "خمسون راكبا."
+        ],
+        "options_en": [
+            "Ten passengers.",
+            "Twenty passengers.",
+            "Thirty passengers.",
+            "Forty passengers.",
+            "Fifty passengers."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "رخصة السوق من الفئة الثانیة ( ١ + 2 ) بأنھا:",
+        "text_en": "Class 2 (1 + 2) driving license as follows:",
+        "options_ar": [
+            "رخصة سوق لجمیع انواع الدراجات الالیة .",
+            "رخصة سوق لقیادة مركبة اشغال.",
+            "رخصة سوق لقیادة مركبة زراعیة.",
+            "ب + ج ."
+        ],
+        "options_en": [
+            "Driver's license for all types of motorcycles.",
+            "Driver's license to drive a work vehicle.",
+            "Driver's license to drive an agricultural vehicle.",
+            "B ​​+ C."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "المركبة المصممة لنقل البضائع ھي:",
+        "text_en": "The vehicle designed to transport goods is:",
+        "options_ar": [
+            "مركبة الشحن",
+            "الحافلة.",
+            "سیارة النقل المشترك.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Freight vehicle",
+            "Bus",
+            "Public transport vehicle",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "رخصة السوق من الفئة الأولى ( ١ ) ھي:",
+        "text_en": "The first class (1) driving license is:",
+        "options_ar": [
+            "رخصة سوق لجمیع انواع الدراجات الالیة .",
+            "رخصة سوق لقیادة مركبة اشغال.",
+            "رخصة سوق لقیادة مركبة زراعیة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Driver's license for all types of motorcycles.",
+            "Driver's license to drive a work vehicle.",
+            "Driver's license to drive an agricultural vehicle.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "سیارة الركوب المتوسطة مصممة لنقل بمن فیھم السائق.",
+        "text_en": "A medium passenger car designed to carry passengers, including the driver.",
+        "options_ar": [
+            "ما لا یقل عن عشرة ولا یزید عن عشرین.",
+            "ما لا یقل عن خمسة عشر ولا یزید عن عشرین.",
+            "ما لا یقل عن عشرة و لا یزید عن الثلاثین.",
+            "ما لایقل عن خمسة عشر و لا یزید عن الثلاثین."
+        ],
+        "options_en": [
+            "Not less than ten and not more than twenty.",
+            "Not less than fifteen and not more than twenty.",
+            "Not less than ten and not more than thirty.",
+            "Not less than fifteen and not more than thirty."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "من وظائف العلامات الأرضیة:",
+        "text_en": "The functions of ground markers include:",
+        "options_ar": [
+            "وظائف إرشادیة.",
+            "وظائف تحذیریة.",
+            "وظائف تنظیمیة.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Guidance functions.",
+            "Cautionary functions.",
+            "Regulatory functions.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "رخصة السوق من الفئة الرابعة تصنف بأنھا:",
+        "text_en": "A Class 4 driving license is classified as:",
+        "options_ar": [
+            "رخصة سوق لجمیع انواع الدراجات الالیة .",
+            "رخصة سوق لقیادة مركبة اشغال.",
+            "رخصة سوق لقیادة مركبة زراعیة.",
+            "رخصة سوق لقیادة مركبة لا یزید وزنھا الإجمالي على سبعة أطنان ونصف الطن"
+        ],
+        "options_en": [
+            "Driver's license for all types of motorcycles.",
+            "Driver's license to drive a work vehicle.",
+            "Driver's license to drive an agricultural vehicle.",
+            "Driver's license to drive a vehicle with a gross weight not exceeding seven and a half tons."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "سیارة الركوب مصممة لنقل ما لا یزید عن",
+        "text_en": "A passenger vehicle designed to carry no more than",
+        "options_ar": [
+            "خمسة أشخاص بمن فیھم السائق",
+            "سبعة أشخاص بمن فیھم السائق",
+            "تسعة أشخاص بمن فیھم السائق",
+            "عشرة أشخاص بمن فیھم السائق"
+        ],
+        "options_en": [
+            "Five people, including the driver",
+            "Seven people, including the driver",
+            "Nine people, including the driver",
+            "Ten people, including the driver"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "تقتصر وظائف العلامات الأرضیة على الوظائف التحذیریة فقط.",
+        "text_en": "The functions of ground markings are limited to warning functions only.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "تتناسب الأزرار مع الخطوط المستخدمة علیھا:",
+        "text_en": "The buttons match the fonts used on them:",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "لا یوجد علامات أرضیة تسمى خطوط الحواف",
+        "text_en": "There are no ground markings called edge lines.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "المركبه المصممة لنقل ما لا یقل عن عشرة ركاب و لا یزید على ثلاثین راكبا بمن فیھم السائق ھي:",
+        "text_en": "A vehicle designed to carry no less than ten passengers and no more than thirty passengers, including the driver, is:",
+        "options_ar": [
+            "سیارة الركوب المتوسطه.",
+            "الحافلة.",
+            "سیارات النقل المشترك.",
+            "سیارات الركوب الصغیرة العمومیة"
+        ],
+        "options_en": [
+            "Medium passenger vehicle.",
+            "Bus.",
+            "Shared transit vehicles.",
+            "Small public passenger vehicles"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "مركبة النقل او الرفع او الجر الیة مجھزة بمعدات ثابتة وبصورة دائمة و لا یمكن استعمالھا الا في الاغراض المصممة لھا تسمى :",
+        "text_en": "A transport, lifting or towing vehicle equipped with fixed and permanent equipment that can only be used for the purposes for which it was designed is called:",
+        "options_ar": [
+            "سیارة الشحن.",
+            "الحافلة.",
+            "سیارة النقل المشترك.",
+            "مركبة ذات الاستعمال الخاص."
+        ],
+        "options_en": [
+            "Freight vehicle.",
+            "Bus.",
+            "Public transport vehicle.",
+            "Private use vehicle."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "خط قف.",
+            "نھایة الطریق.",
+            "خط الأولویة.",
+            "ممر مشاة."
+        ],
+        "options_en": [
+            "Stop line.",
+            "End of road.",
+            "Priority line.",
+            "Pedestrian crosswalk."
+        ],
+        "correctIndex": 0,
+        "imgName": "7.32"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "خط حافة الطریق.",
+            "خط مسارب الطریق.",
+            "اتجاھات الطریق.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Road edge line.",
+            "Road lane line.",
+            "Road directions.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "7.33"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "خط قف.",
+            "نھایة الطریق.",
+            "خط الأولویة.",
+            "ممر مشاة."
+        ],
+        "options_en": [
+            "Stop line.",
+            "End of road.",
+            "Priority line.",
+            "Pedestrian crosswalk."
+        ],
+        "correctIndex": 3,
+        "imgName": "7.34"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This land mark means",
+        "options_ar": [
+            "قبل ممرات المشاة ویمنع الوقوف علیه.",
+            "قبل ممرات المشاة ویسمح الوقوف علیه.",
+            "عند مواقف السیارات.",
+            "لاشيء مما ذكر."
+        ],
+        "options_en": [
+            "Before pedestrian crossings, and parking is prohibited.",
+            "Before pedestrian crossings, and parking is permitted.",
+            "At parking lots.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "7.35"
+    },
+    {
+        "text_ar": "تقتصر وظائف العلامات الأرضیة على الوظائف الإرشادیة فقط.",
+        "text_en": "The functions of ground markings are limited to guidance functions only.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "مركبة الشحن مصممة لنقل:",
+        "text_en": "The cargo vehicle is designed to transport:",
+        "options_ar": [
+            "الاشخاص.",
+            "البضائع.",
+            "الاشخاص و البضائع.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "People.",
+            "Goods.",
+            "People and goods.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "علامة الرصیف تعني:",
+        "text_en": "The curb sign means:",
+        "options_ar": [
+            "ممنوع الوقوف لجمیع المركبات.",
+            "الوقوف فقط للمركبات العمومیة و النقل",
+            "لتأكید الرؤیا فقط",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "No Parking for All Vehicles.",
+            "Parking Only for Public and Transport Vehicles.",
+            "For Visibility Only.",
+            "None of the Above"
+        ],
+        "correctIndex": 0,
+        "imgName": "7.38"
+    },
+    {
+        "text_ar": "لا یوجد علامات أرضیة تسمى خطوط الطول",
+        "text_en": "There are no land marks called meridians.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "رخصة السوق من الفئة الخامسة تصنف بأنھا:",
+        "text_en": "A Class 5 driving license is classified as:",
+        "options_ar": [
+            "رخصة سوق لجمیع انواع الدراجات الالیة .",
+            "رخصة سوق لقیادة مركبة اشغال.",
+            "رخصة سوق لقیادة مركبة زراعیة",
+            "رخصة قیادة حافلة متوسطة أو مركبة یزید وزنھا الإجمالي عن سبعة أطنان ونصف الطن"
+        ],
+        "options_en": [
+            "Driver's license for all types of motorcycles.",
+            "Driver's license to drive a work vehicle.",
+            "Driver's license to drive an agricultural vehicle.",
+            "Driver's license to drive a medium-sized bus or a vehicle with a gross weight exceeding seven and a half tons."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    }
+]

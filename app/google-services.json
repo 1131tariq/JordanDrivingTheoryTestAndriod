@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095407632947",
+    "project_id": "jordandrivingtheorytestandriod",
+    "storage_bucket": "jordandrivingtheorytestandriod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095407632947:android:97c8e6cfc20d2cccbcd946",
+        "android_client_info": {
+          "package_name": "com.thehubstudios.jordandrivingtheorytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLajbGEr4svHaQrbo-rPp8NEr588EFCHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

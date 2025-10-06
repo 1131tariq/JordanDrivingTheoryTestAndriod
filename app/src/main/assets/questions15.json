@@ -1,0 +1,699 @@
+[
+    {
+        "text_ar": "على سائق المركبة عند رؤیته لھذه الشاخصة:",
+        "text_en": "When a driver sees this sign, they must:",
+        "options_ar": [
+            "سلوك ھذا الطریق عند التأكد من خلوه من الدراجات الھوائیة.",
+            "عدم سلوك ھذا الطریق كونه مخصص للدراجات الھوائیة.",
+            "لا شئ مما ذكر."
+        ],
+        "options_en": [
+            "Use this road after ensuring it is clear of air bikes.",
+            "Do not use this road as it is dedicated to air bikes.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.1"
+    },
+    {
+        "text_ar": "على سائقي الدراجات:",
+        "text_en": "Cyclists must:",
+        "options_ar": [
+            "تفقد معدات دراجاتھم قبل بدایة كل رحلة.",
+            "فقد معدات دراجاتھم بشكل اسبوعي.",
+            "تفقد معدات دراجاتھم بشكل شھري.",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "Check their bike equipment before each trip.",
+            "Check their bike equipment weekly.",
+            "Check their bike equipment monthly.",
+            "None of the above."
+        ],
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على سائق الدراجة قبل ان یبدأ القیادة:",
+        "text_en": "Before starting to ride, a cyclist should:",
+        "options_ar": [
+            "إرتداء أي نوع من اللباس یغطي جسده.",
+            "إرتداء اللباس الصحیح والمناسب.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Wear any clothing covering the body.",
+            "Wear proper and appropriate clothing.",
+            "None of the above."
+        ],
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك والسماح للمركبات الأخرى الموجودة في الاتجاه الآخر بالمرور.",
+            "تخفیف السرعة ومتابعة سیرك وعدم السماح للمركبات الأخرى الموجودة في الاتجاه الآخر بالمرور لأن اولویة المرور لك.",
+            "ملاحظة وضع الطریق وبناءا علیھ تسیر او تعطي الأولویة للمركبات القادمة.",
+            "لاشئ مماذكر."
+        ],
+        "options_en": [
+            "Reduce your speed and allow vehicles from the opposite direction to pass.",
+            "Slow down and continue; you have the right of way over the opposite vehicles.",
+            "Observe the road situation and proceed or give way accordingly.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.4"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "التوقف في حال خلو الطریق من المركبات والمشاة.",
+            "عدم التوقف إلا إذا كنت تقوم بتحمیل وتنزیل الركاب أو تحمیل وتنزیل البضائع.",
+            "عدم الوقوف والتوقف نھائیاً كون توقفك ووقوفك یؤدى لإعاقة حركة المرور."
+        ],
+        "options_en": [
+            "Stop if the road is clear of vehicles and pedestrians.",
+            "Do not stop unless loading/unloading passengers or goods.",
+            "Never stop as stopping will block traffic."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.5"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك والالتزام بالمسرب الایمن وإعطاء الأولویة للمركبات التي تملك حق الأولویة.",
+            "تخفیض سرعة مركبتك والالتزام بالمسرب الأیسر وإعطاء الأولویة للمركبات التي تملك حق الأولویة.",
+            "تخفیض سرعة مركبتك والالتزام بالمسرب المناسب وإعطاء الأولویة للمركبات التي تملك حق الأولویة.",
+            "لاشئ مماذكر."
+        ],
+        "options_en": [
+            "Reduce your speed, stay in the safe lane, and give priority to vehicles with the right of way.",
+            "Reduce your speed, stay in the left lane, and give priority to vehicles with the right of way.",
+            "Reduce your speed, stay in the appropriate lane, and give priority to vehicles with the right of way.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.6"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "ملائمة سرعة مركبتك مع ھذا المنحدر والالتزام بحدود السرعة المقررة واستعمال الغیارات العكسیة.",
+            "ملائمة سرعة مركبتك مع ھذا المرتفع والالتزام بحدود السرعة المقررة والتزام الجانب الأیمن من الطریق.",
+            "ملائمة سرعة مركبتك مع ھذا المنحدر والالتزام بحدود السرعة المقررة واستعمال المكابح.",
+            "ملائمة سرعة مركبتك مع ھذا المرتفع والالتزام بحدود السرعة المقررة والتزام الجانب الأیسر من الطریق."
+        ],
+        "options_en": [
+            "Adjust your vehicle's speed to the slope, comply with speed limits, and use reverse gears.",
+            "Adjust your vehicle's speed to the hill, comply with speed limits, and stay on the right side of the road.",
+            "Adjust your vehicle's speed to the slope, comply with speed limits, and use brakes.",
+            "Adjust your vehicle's speed to the hill, comply with speed limits, and stay on the left side of the road."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.7"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك لكي تستطیع اجتیاز ھذا الانخفاض بأمان.",
+            "تخفیض سرعة مركبتك، لكي تستطیع اجتیاز المطب بأمان.",
+            "زیادة سرعة مركبتك، لكي تستطیع اجتیاز المطب بأمان.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Reduce your speed to safely pass this dip.",
+            "Reduce your speed to safely pass the speed bump.",
+            "Increase your speed to safely pass the speed bump.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.8"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "عدم الدوران كون ذلك ممنوع ومن الممكن ان یواجھك مخاطر ناتجة عن عدم اتساع التقاطع.",
+            "الدوران بعد التأكد من خلو الطریق من المركبات الأخرى.",
+            "الدوران خلال اوقات المساء فقط."
+        ],
+        "options_en": [
+            "Do not turn as it is prohibited and may pose dangers due to narrow intersection.",
+            "Turn after ensuring the road is clear of other vehicles.",
+            "Turn only during evening hours."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.9"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند اقترابك من التقاطع ورؤیتك للخط العرضي المتصل:",
+        "text_en": "The correct action when approaching an intersection with a solid stop line is:",
+        "options_ar": [
+            "متابعة السیر دون التوقف",
+            "تخفیض السرعة والتوقف قبل الخط وإعطاء الأولویة للمركبات صاحبة حق الأولویة",
+            "التوقف عند الضرورة قبل استئناف السیر"
+        ],
+        "options_en": [
+            "Continue driving without stopping.",
+            "Slow down and stop before the line to give way to vehicles with right of way.",
+            "Stop if necessary before resuming driving."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.10"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك والانعطاف نحو الیسار.",
+            "تخفیض سرعة مركبتك والانعطاف نحو الیسار.",
+            "زیادة سرعة مركبتك والانعطاف نحو الیمین.",
+            "تخفیض سرعة مركبتك والانعطاف نحو الیمین."
+        ],
+        "options_en": [
+            "Increase speed and turn left.",
+            "Reduce speed and turn left.",
+            "Increase speed and turn right.",
+            "Reduce speed and turn right."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.11"
+    },
+    {
+        "text_ar": "إن إرتداء الخوذة عند قیادة الدراجات ضروري لأنھا:",
+        "text_en": "Wearing a helmet when riding a bicycle is necessary because:",
+        "options_ar": [
+            "تزید من فرص تجنب الإصابات الخطیرة بشكل كبیر.",
+            "تزید من رؤیة المركبات الاخرى لك.",
+            "تعطي الشعور الكافي للسائق بالأمان.",
+            "جمیع ماذكر صحیح."
+        ],
+        "options_en": [
+            "It greatly increases the chances of avoiding serious injuries.",
+            "It increases visibility to other vehicles.",
+            "It gives the rider a sufficient sense of safety.",
+            "All of the above."
+        ],
+        "correctIndex": 3,
+        "imageURL": null
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "سلوك ھذا الطریق بعد التأكد من خلوه من المركبات القادمة.",
+            "عدم سلوك ھذا الطریق كونه باتجاه واحد",
+            "لا شىء مما ذكر."
+        ],
+        "options_en": [
+            "Take this road after ensuring it is clear of oncoming vehicles.",
+            "Do not take this road as it is one-way.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.13"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك لغایة ٣٠ كیلومتر/ساعة لتتمكن من الوقوف قبل الممر لإعطاء الأولویة للمشاة في حال وجودھم.",
+            "تخفیض سرعة مركبتك لغایة ٤٠ كیلومتر/ساعة والعمل على الوقوف قبل الممر لإعطاء الأولویة",
+            "تخفیض سرعة مركبتك ٥٠ كیلومتر/ساعة والعمل على الوقوف قبل الممر لإعطاء الأولویة",
+            "تخفیض سرعة مركبتك ٦٠ كیلومتر/ساعة والعمل على الوقوف قبل الممر لإعطاء الأولویة"
+        ],
+        "options_en": [
+            "Reduce speed to 30 km/h to be able to stop before the crosswalk and give priority to pedestrians if present.",
+            "Reduce speed to 40 km/h and stop before the crosswalk to give priority.",
+            "Reduce speed to 50 km/h and stop before the crosswalk to give priority.",
+            "Reduce speed to 60 km/h and stop before the crosswalk to give priority."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.14"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك والانعطاف نحو الیسار.",
+            "تخفیض سرعة مركبتك والانعطاف نحو الیسار.",
+            "زیادة سرعة مركبتك والانعطاف نحو الیمین.",
+            "تخفیض سرعة مركبتك والانعطاف نحو الیمین."
+        ],
+        "options_en": [
+            "Increase speed and turn left.",
+            "Reduce speed and turn left.",
+            "Increase speed and turn right.",
+            "Reduce speed and turn right."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.15"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "التوقف في حال خلو الطریق من المركبات والمشاة.",
+            "عدم التوقف إلا إذا كنت تقوم بتحمیل وتنزیل الركاب أو تحمیل وتنزیل البضائع.",
+            "عدم الوقوف والتوقف نھائیاً كون توقفك ووقوفك یؤدى لإعاقة حركة المرور."
+        ],
+        "options_en": [
+            "Stop if the road is clear of vehicles and pedestrians.",
+            "Do not stop unless loading/unloading passengers or goods.",
+            "Never stop as it will block traffic."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.16"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "سلوك ھذا الطریق بحذر كونه یوجد دوار.",
+            "عدم سلوك ھذا الطریق كونه مخصص لحركة المشاه فقط.",
+            "لا شىء مما ذكر ."
+        ],
+        "options_en": [
+            "Drive carefully on this road as there is a roundabout.",
+            "Do not take this road as it is for pedestrians only.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.17"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك دون الإلتزام بحدود السرعة .",
+            "الوقوف التام بمركبتك.",
+            "تخفیض سرعة مركبتك.",
+            "متابعة مسیرك دون توقف والإلتزام بحدود السرعة."
+        ],
+        "options_en": [
+            "Increase your speed without adhering to the speed limit.",
+            "Bring your vehicle to a complete stop.",
+            "Reduce your speed.",
+            "Continue driving without stopping and adhere to the speed limit."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.18"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "توقیف مركبتك والسماح للمركبات الأخرى الموجودة في الاتجاه الآخر بالمرور.",
+            "تخفیف السرعة ومتابعة المسیر كون أولویة المرور لك",
+            "ملاحظة وضع الطریق وبناءا علیھ تسیر او تعطي الأولویة للمركبات القادمة.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Stop your vehicle and allow vehicles from the other direction to pass.",
+            "Reduce speed and continue as you have the right of way.",
+            "Observe the road situation and proceed or give way accordingly.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.19"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیسر من الطریق وعدم التجاوز.",
+            "تخفیض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیسر من الطریق وإمكانیة التجاوز.",
+            "تخفیض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیمن من الطریق وعدم التجاوز.",
+            "زیادة سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیمن من الطریق وعدم التجاوز."
+        ],
+        "options_en": [
+            "Reduce your speed, adhere to the speed limit, keep to the left lane, and do not overtake.",
+            "Reduce your speed, adhere to the speed limit, keep to the left lane, and overtaking is allowed.",
+            "Reduce your speed, adhere to the speed limit, keep to the right lane, and do not overtake.",
+            "Increase your speed, adhere to the speed limit, keep to the right lane, and do not overtake."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.20"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك قبل الوصول إلى التقاطع وإعطاء الاولویة للمركبات الاخرى.",
+            "الوقوف التام بمركبتك قبل الوصول إلى التقاطع وإعطاء الاولویة للمركبات صاحبة حق الأولویة .",
+            "تخفیض سرعة مركبتك قبل الوصول إلى التقاطع وإعطاء الاولویة للمركبات الاخرى.",
+            "جمیع ماذكر صحیح."
+        ],
+        "options_en": [
+            "Increase your speed before reaching the intersection and give way to other vehicles.",
+            "Completely stop before reaching the intersection and give priority to vehicles with right of way.",
+            "Reduce speed before reaching the intersection and give way to other vehicles.",
+            "All of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.21"
+    },
+    {
+        "text_ar": "عند وجود ھذا الخط یجب علیك:",
+        "text_en": "When this line is present, you must:",
+        "options_ar": [
+            "متابعة السیر دون التوقف",
+            "التوقف عنده قبل استئناف السیر",
+            "التوقف عند الضرورة قبل استئناف السیر"
+        ],
+        "options_en": [
+            "Continue driving without stopping",
+            "Stop at it before resuming driving",
+            "Stop if necessary before resuming driving"
+        ],
+        "correctIndex": 2,
+        "imgName": "15.22"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "الالتزام بحدود السرعة المقررة والالتزام بالجانب الأیمن من الطریق.",
+            "الالتزام بحدود السرعة المقررة والالتزام بالجانب الأیسر من الطریق.",
+            "زیادة سرعتك عن حدود السرعة المقررة والالتزام بالجانب الأیمن من الطریق.",
+            "زیادة سرعتك عن حدود السرعة المقررة والالتزام بالجانب الأیسر من الطریق."
+        ],
+        "options_en": [
+            "Adhere to the speed limit and keep to the right side of the road.",
+            "Adhere to the speed limit and keep to the left side of the road.",
+            "Exceed the speed limit and keep to the right side of the road.",
+            "Exceed the speed limit and keep to the left side of the road."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.23"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "علیك سلوك ھذا الطریق بحذر شدید اذا كان إرتفاع مركبتك یزید عن الرقم المدون.",
+            "علیك سلوك طریق آخر.",
+            "علیك سلوك طریق آخر اذا كان إرتفاع مركبتك یزید عن الرقم المدون."
+        ],
+        "options_en": [
+            "You must drive this road carefully if your vehicle height exceeds the indicated number.",
+            "You must take another road.",
+            "You must take another road if your vehicle height exceeds the indicated number."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.24"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "ملائمة سرعة مركبتك مع ھذا المنحدر والالتزام بحدود السرعة المقررة واستعمال الغیارات العكسیة.",
+            "ملائمة سرعة مركبتك مع ھذا المرتفع والالتزام بحدود السرعة المقررة والتزام الجانب الأیمن من الطریق.",
+            "ملائمة سرعة مركبتك مع ھذا المنحدر والالتزام بحدود السرعة المقررة واستعمال المكابح.",
+            "ملائمة سرعة مركبتك مع ھذا المنحدر وزیادة السرعة عن المقررة واستعمال الغیارات العكسیة."
+        ],
+        "options_en": [
+            "Adjust your vehicle speed to the slope, adhere to the speed limit, and use reverse gears.",
+            "Adjust your vehicle speed to the hill, adhere to the speed limit, and stay on the right side of the road.",
+            "Adjust your vehicle speed to the slope, adhere to the speed limit, and use brakes.",
+            "Adjust your vehicle speed to the slope, exceed the speed limit, and use reverse gears."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.25"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك وإعطاء الأولویة للمركبات الأخرى على التقاطع ثم الدوران.",
+            "زیادة سرعة مركبتك وأخذ حق الأولویة على التقاطع ثم الدوران.",
+            "الذھاب إلى تقاطع أخر یكون فیھ الدوران مسموح.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Reduce your speed, give way to other vehicles at the intersection, then turn.",
+            "Increase your speed and take the right of way at the intersection, then turn.",
+            "Go to another intersection where turning is allowed.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.26"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك دون الإلتزام بحدود السرعة .",
+            "الوقوف التام بمركبتك.",
+            "تخفیض سرعة مركبتك وإعطاء الأولویة للمركبات صاحبة حق الأولویة .",
+            "متابعة مسیرك دون توقف والإلتزام بحدود السرعة."
+        ],
+        "options_en": [
+            "Increase your speed without adhering to the speed limit.",
+            "Come to a complete stop.",
+            "Reduce your speed and give priority to vehicles with right of way.",
+            "Continue driving without stopping and adhere to the speed limit."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.27"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "علیك سلوك ھذا الطریق بحذر شدید اذا كان عرض مركبتك یزید عن الرقم المدون.",
+            "علیك سلوك طریق آخر.",
+            "علیك سلوك طریق آخر اذا كان عرض مركبتك یزید عن الرقم المدون."
+        ],
+        "options_en": [
+            "You must drive this road carefully if your vehicle width exceeds the indicated number.",
+            "You must take another road.",
+            "You must take another road if your vehicle width exceeds the indicated number."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.28"
+    },
+    {
+        "text_ar": "ان إرتداء الخوذة المناسبة یعمل على:",
+        "text_en": "Wearing the proper helmet helps to:",
+        "options_ar": [
+            "زیادة إصابات الرأس والرقبة في حال وقوع حادث.",
+            "تقلیل إصابات الرأس والرقبة بشكل كبیر جداً في حال وقوع حادث.",
+            "لا علاقة له بحمایة الرأس والرقبة في حال وقوع حادث.",
+            "تقلیل المساحة المرئیة امام السائق."
+        ],
+        "options_en": [
+            "Increase head and neck injuries in case of an accident.",
+            "Greatly reduce head and neck injuries in case of an accident.",
+            "Has no effect on protecting the head and neck in case of an accident.",
+            "Reduce the driver's visible area."
+        ],
+        "correctIndex": 1,
+        "imageURL": null
+    },
+    {
+        "text_ar": "تكون فرصة تجنب الإصابات الخطیرة كبیرة جداً لسائقي الدراجات إذا قاموا بإرتداء:",
+        "text_en": "Cyclists have a much higher chance of avoiding serious injuries if they wear:",
+        "options_ar": [
+            "واقیة الرأس ( الخوذة) المناسبة.",
+            "نظارات طبیة.",
+            "قبعة تغطي الرأس بشكل كامل.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "A proper helmet.",
+            "Prescription glasses.",
+            "A cap covering the head completely.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imageURL": null
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك قبل الوصول إلى التقاطع وإعطاء الاولویة للمركبات الأخرى.",
+            "الوقوف التام بمركبتك قبل الوصول إلى التقاطع وإعطاء الاولویة للمركبات الأخرى.",
+            "تخفیض سرعة مركبتك قبل الوصول إلى التقاطع وإعطاء الاولویة للمركبات صاحبة حق الأولویة .",
+            "جمیع ما ذكر صحیح."
+        ],
+        "options_en": [
+            "Increase your speed before reaching the intersection and give way to other vehicles.",
+            "Come to a complete stop before the intersection and give way to other vehicles.",
+            "Reduce your speed before reaching the intersection and give way to vehicles with right of way.",
+            "All of the above are correct."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.31"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك لتجنب الحصى وترك مسافة أمان كافیة بینك وبین المركبات الأخرى والسماح بالتجاوز.",
+            "زیادة سرعة مركبتك و المسافة بینك وبین المركبات الأخرى وعدم القیام بالتجاوز.",
+            "تخفیض سرعة مركبتك وترك مسافة أمان كافیة بینك وبین المركبات الأخرى والسماح بالتجاوز.",
+            "تخفیض سرعة مركبتك وترك مسافة أمان كافیة بینك وبین المركبات الأخرى وعدم القیام بالتجاوز."
+        ],
+        "options_en": [
+            "Increase your speed to avoid gravel and leave sufficient safe distance between you and other vehicles, allowing overtaking.",
+            "Increase your speed and maintain distance between you and other vehicles without overtaking.",
+            "Reduce your speed and leave sufficient safe distance between you and other vehicles, allowing overtaking.",
+            "Reduce your speed and leave sufficient safe distance between you and other vehicles, without overtaking."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.32"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیسر من الطریق وعدم التجاوز.",
+            "تخفیض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیسر من الطریق وإمكانیة التجاوز.",
+            "زیادة سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیمن من الطریق وعدم التجاوز.",
+            "تخفیض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الأیمن من الطریق وعدم التجاوز."
+        ],
+        "options_en": [
+            "Reduce your speed, adhere to the speed limit, keep to the left lane, and do not overtake.",
+            "Reduce your speed, adhere to the speed limit, keep to the left lane, with possibility to overtake.",
+            "Increase your speed, adhere to the speed limit, keep to the right lane, and do not overtake.",
+            "Reduce your speed, adhere to the speed limit, keep to the right lane, and do not overtake."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.33"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك، لتتناسب مع سرعة المنعطف والسماح بالتجاوز.",
+            "تخفیض سرعة مركبتك، لتتناسب مع سرعة المنعطف وعدم التجاوز.",
+            "تخفیض سرعة مركبتك، لتتناسب مع سرعة المنعطف والسماح بالتجاوز.",
+            "إیقاف مركبتك ثم التحرك ببطء نحو المنعطف لدخوله بأمان ومنع التجاوز."
+        ],
+        "options_en": [
+            "Increase your speed to match the curve speed and allow overtaking.",
+            "Reduce your speed to match the curve speed and do not overtake.",
+            "Reduce your speed to match the curve speed and allow overtaking.",
+            "Stop your vehicle, then slowly move towards the curve to enter safely and prevent overtaking."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.34"
+    },
+    {
+        "text_ar": "تكون فرصة تجنب الإصابات الخطیرة كبیرة جداً لسائقي الدراجات إذا قاموا بإرتداء:",
+        "text_en": "Cyclists have a much higher chance of avoiding serious injuries if they wear:",
+        "options_ar": [
+            "واقیة الرأس ( الخوذة) المناسبة.",
+            "نظارات طبیة.",
+            "قبعة تغطي الرأس بشكل كامل.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "A proper helmet.",
+            "Prescription glasses.",
+            "A cap covering the head completely.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imageURL": null
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك لغایة ٣٠ كیلومتر/ساعة لتتمكن من الوقوف لإعطاء الأولویة لطلاب المدارس .",
+            "تخفیض سرعتھ لغایة ٤٠ كیلومتر/ساعة والعمل على الوقوف لإعطاء الأولویة لطلاب المدارس .",
+            "تخفیض سرعتھ لغایة ٥٠ كیلومتر/ساعة والعمل على الوقوف لإعطاء الأولویة لطلاب المدارس .",
+            "تخفیض سرعتھ لغایة ٦٠ كیلومتر/ساعة والعمل على الوقوف قبل الممر لإعطاء الأولویة لطلاب المدارس"
+        ],
+        "options_en": [
+            "Reduce your speed to 30 km/h to stop and give priority to school students.",
+            "Reduce your speed to 40 km/h and stop to give priority to school students.",
+            "Reduce your speed to 50 km/h and stop to give priority to school students.",
+            "Reduce your speed to 60 km/h and stop before the crosswalk to give priority to school students."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.36"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك، لتتناسب مع سرعة المنعطف والسماح بالتجاوز.",
+            "تخفیض سرعة مركبتك، لتتناسب مع سرعة المنعطفات وعدم التجاوز.",
+            "تخفیض سرعة مركبتك، لتتناسب مع سرعة المنعطف والسماح بالتجاوز.",
+            "إیقاف مركبتك ثم التحرك ببطء نحو المنعطف لدخوله بأمان ومنع التجاوز."
+        ],
+        "options_en": [
+            "Increase your speed to match the curve speed and allow overtaking.",
+            "Reduce your speed to match the curve speed and do not overtake.",
+            "Reduce your speed to match the curve speed and allow overtaking.",
+            "Stop your vehicle, then slowly move towards the curve to enter safely and prevent overtaking."
+        ],
+        "correctIndex": 2,
+        "imgName": "15.37"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك والالتزام بمسربك وعدم التجاوز.",
+            "زیادة سرعة مركبتك والالتزام بمسربك وعدم التجاوز.",
+            "تخفیض سرعة مركبتك وتغییر مسربك الى المسرب المناسب وعدم التجاوز.",
+            "تخفیض سرعة مركبتك وتغییر مسربك الى المسرب المناسب والسماح بالتجاوز."
+        ],
+        "options_en": [
+            "Reduce your speed, stay in your lane, and do not overtake.",
+            "Increase your speed, stay in your lane, and do not overtake.",
+            "Reduce your speed, change to the appropriate lane, and do not overtake.",
+            "Reduce your speed, change to the appropriate lane, and allow overtaking."
+        ],
+        "correctIndex": 0,
+        "imgName": "15.38"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة :",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "زیادة سرعة مركبتك لتستطیع تجنب (الجمل).",
+            "تخفیض سرعة مركبتك لتستطیع تجنب ( الجمل).",
+            "المحافظة على نفس السرعة.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Increase your speed to avoid (the camel).",
+            "Reduce your speed to avoid (the camel).",
+            "Maintain the same speed.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.39"
+    },
+    {
+        "text_ar": "الإجراء الصحیح عند رؤیتك لھذه الشاخصة أثناء القیادة:",
+        "text_en": "The correct action when seeing this sign while driving is:",
+        "options_ar": [
+            "تخفیض سرعة مركبتك لكي تستطیع اجتیاز ھذا الانخفاض بأمان.",
+            "تخفیض سرعة مركبتك، لكي تستطیع اجتیاز المطب بأمان.",
+            "زیادة سرعة مركبتك، لكي تستطیع اجتیاز المطب بأمان.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Reduce your speed to safely pass this dip.",
+            "Reduce your speed to safely pass the speed bump.",
+            "Increase your speed to safely pass the speed bump.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "15.40"
+    }
+]
+ 

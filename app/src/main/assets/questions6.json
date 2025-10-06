@@ -1,0 +1,714 @@
+[
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "ممنوع الوقوف والتوقف.",
+            "ممنوع الوقوف.",
+            "مسموح الوقوف.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No stopping and no parking.",
+            "No stopping.",
+            "Parking is allowed.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.1"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "مناطق سیاحیة",
+            "مناطق علاجیه",
+            "مناطق اثریة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Tourist areas",
+            "Therapeutic areas",
+            "Archaeological areas",
+            "All of the above."
+        ],
+        "correctIndex": 3,
+        "imgName": "6.2"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه دائري (دوار).",
+            "شاخصة إرشادیة \"امامك دوار\".",
+            "شاخصة تحذیریة \"امامك دوار\".",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Circular direction (roundabout).",
+            "An informative sign: \"Roundabout ahead.\"",
+            "A warning sign: \"Roundabout ahead.\"",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.3"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع التجاوز.",
+            "نھایة منطقة منع التجاوز.",
+            "ممنوع التجاوز للشاحنات.",
+            "نھایة منطقة المنع."
+        ],
+        "options_en": [
+            "No overtaking.",
+            "End of no-overtaking zone.",
+            "No overtaking for trucks.",
+            "End of the prohibited zone."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.4"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This ground marking means",
+        "options_ar": [
+            "السماح بالتجاوز.",
+            "السماح بالتجاوز من الیمین .",
+            "السماح بالتجاوز من الیسار.",
+            "یمنع التجاوز من الجھتین"
+        ],
+        "options_en": [
+            "Overtaking is allowed.",
+            "Overtaking is allowed from the right.",
+            "Overtaking is allowed from the left.",
+            "Overtaking from both sides is prohibited."
+        ],
+        "correctIndex": 3,
+        "imgName": "6.5"
+    },
+    {
+        "text_ar": "ھذه العلامة الارضیه تعني",
+        "text_en": "This ground marking means",
+        "options_ar": [
+            "السماح بالتجاوز من جھة الخط المتقطع.",
+            "السماح بالتجاوز من جھة الخط المتصل.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Overtaking is allowed from the side with the dashed line.",
+            "Overtaking is allowed from the side with the solid line.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.6"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "السرعة الدنیا المسموح بھا",
+            "نھایة حد السرعة المدون في الشاخصة.",
+            "السرعات القصوى للمركبات.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "The minimum permitted speed.",
+            "End of the speed limit shown on the sign.",
+            "Maximum speeds for vehicles.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.7"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري إلى الیسار.",
+            "اتجاه إجباري الى الیمین.",
+            "الاولویة للمتجه الى الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction to the left.",
+            "Mandatory direction to the right.",
+            "Priority for traffic heading left.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.8"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة منطقة منع التجاوز للشاحنات.",
+            "نھایة منطقة منع التجاوز.",
+            "ممنوع التجاوز للشاحنات.",
+            "نھایة منطقة المنع."
+        ],
+        "options_en": [
+            "End of the no-overtaking zone for trucks.",
+            "End of the no-overtaking zone.",
+            "No overtaking for trucks.",
+            "End of the prohibited zone."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.9"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "انعطاف إجباري نحو الیمین.",
+            "انعطاف إجباري نحو الیسار",
+            "اولویة المتجة الى الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory turn to the right.",
+            "Mandatory turn to the left.",
+            "Priority for traffic heading left.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.10"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "طریق رئیسي.",
+            "نھایة الأوتوستراد.",
+            "بدایة الأوتوستراد",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Main road.",
+            "End of the highway.",
+            "Beginning of the highway.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.11"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "انعطاف إجباري نحو الیمین.",
+            "انعطاف إجباري نحو الیسار.",
+            "الاولویة للمتجھ الى الیمین",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory turn to the right.",
+            "Mandatory turn to the left.",
+            "Priority for traffic heading right.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.12"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "انتبة امامك نادي فروسیة.",
+            "ممر إلزامي للخیول.",
+            "یمنع مرور الخیول",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Attention, there is an equestrian club ahead.",
+            "Mandatory horse lane.",
+            "Horse traffic is prohibited.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.13"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "مكان وقوف للدرجات .",
+            "ممنوع دخول الدرجات.",
+            "ممر للدراجات الھوائیة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Bicycle parking spot.",
+            "Bicycles are not allowed.",
+            "Bicycle lane.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.14"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "محطة وقود.",
+            "مخیم سیاحي.",
+            "مطعم.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Gas station.",
+            "Tourist camp.",
+            "Restaurant.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.15"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "السرعة القصوى.",
+            "نھایة حد السرعة المدون في الشاخصة.",
+            "السرعة الدنیا المسموح بھا.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Maximum speed.",
+            "End of the speed limit shown on the sign.",
+            "The minimum permitted speed.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.16"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري إلى الیسار.",
+            "اتجاه إجباري الى الیمین.",
+            "الاولویة الاتجاه الى الیمین",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction to the left.",
+            "Mandatory direction to the right.",
+            "Priority for traffic heading right.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.17"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "ممر إلزامي للمشاة .",
+            "یمنع مرور المشاة",
+            "اولویة المرور للمشاة",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory pedestrian lane.",
+            "Pedestrian traffic is prohibited.",
+            "Pedestrians have the right of way.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.18"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إختیاري نحو الیمین",
+            "اتجاه اختیاري نحو الیسار",
+            "اتجاه إجباري نحو الیمین",
+            "اتجاه إجباري نحو الیسار"
+        ],
+        "options_en": [
+            "Optional direction to the right",
+            "Optional direction to the left",
+            "Mandatory direction to the right",
+            "Mandatory direction to the left"
+        ],
+        "correctIndex": 2,
+        "imgName": "6.19"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "ممنوع الوقوف.",
+            "موقف مخصص لذوي الاحتیاجات الخاصة.",
+            "موقف.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No parking.",
+            "Parking for people with special needs.",
+            "Parking.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.20"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع استعمال الزامور.",
+            "یسمح استخدام الزامور.",
+            "توجد فرقة موسیقیة",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Use of horn is prohibited.",
+            "Use of horn is permitted.",
+            "There is a musical band.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.21"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "انعطاف إجباري نحو الیمین أو الیسار.",
+            "اتجاه اجباري للیمین.",
+            "اتجاه اجباري للیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory turn to the right or left.",
+            "Mandatory direction to the right.",
+            "Mandatory direction to the left.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.22"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "طریق رئیسي.",
+            "نھایة الأوتوستراد.",
+            "بدایة الأوتوستراد",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Main road.",
+            "End of the highway.",
+            "Beginning of the highway.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.23"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة منطقة منع التجاوز للشاحنات.",
+            "نھایة منطقة منع التجاوز.",
+            "ممنوع التجاوز للشاحنات.",
+            "نھایة منطقة المنع."
+        ],
+        "options_en": [
+            "End of the no-overtaking zone for trucks.",
+            "End of the no-overtaking zone.",
+            "No overtaking for trucks.",
+            "End of the prohibited zone."
+        ],
+        "correctIndex": 3,
+        "imgName": "6.24"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "ممنوع الوقوف والتوقف.",
+            "ممنوع الوقوف.",
+            "مسموح الوقوف لفترة معینة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No stopping and no parking.",
+            "No stopping.",
+            "Parking is allowed for a specific period.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.25"
+    },
+    {
+        "text_ar": "ھذه الشاخصة تعني:",
+        "text_en": "This sign means:",
+        "options_ar": [
+            "توزین إجباري للشاحنات",
+            "توزین اختیاري للشاحنات",
+            "نقطة تفتیش للشاحنات",
+            "لاشيء مما ذكر"
+        ],
+        "options_en": [
+            "Mandatory weighing for trucks",
+            "Optional weighing for trucks",
+            "Checkpoint for trucks",
+            "None of the above"
+        ],
+        "correctIndex": 0,
+        "imgName": "6.26"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "فندق.",
+            "اشارة ارشادیة",
+            "مستشفى.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Hotel.",
+            "Informative sign",
+            "Hospital.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.27"
+    },
+    {
+        "text_ar": "تدل ھذه الشاخصة على مخرج المنحدرات للطوارىء:",
+        "text_en": "This sign indicates an emergency escape ramp for steep slopes:",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "6.28"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري نحو الیمین أو الیسار.",
+            "اتجاه اجباري للیمین.",
+            "اتجاه اجباري للیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction to the right or left.",
+            "Mandatory direction to the right.",
+            "Mandatory direction to the left.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.29"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري لمسرب واحد.",
+            "اتجاه إجباري للیمین.",
+            "اتجاه إجباري نحو الأمام.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction for a single lane.",
+            "Mandatory direction to the right.",
+            "Mandatory direction straight ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.30"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري إلى الیسار.",
+            "إجباریة الدوران.",
+            "ممنوع الدوران.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction to the left.",
+            "Mandatory turning.",
+            "No U-turn.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.31"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إختیاري نحو الیمین",
+            "اتجاه اختیاري نحو الیسار",
+            "اتجاه إجباري نحو الیمین",
+            "اتجاه إجباري نحو الیسار"
+        ],
+        "options_en": [
+            "Optional direction to the right",
+            "Optional direction to the left",
+            "Mandatory direction to the right",
+            "Mandatory direction to the left"
+        ],
+        "correctIndex": 3,
+        "imgName": "6.32"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري للأمام أوالیمین .",
+            "اتجاه اجباري للیمین.",
+            "اتجاه اجباري الى الامام.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction straight ahead or to the right.",
+            "Mandatory direction to the right.",
+            "Mandatory direction straight ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.33"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "مركز إسعاف أولي.",
+            "شاخصة ارشادیه لوجود مسجد.",
+            "مستشفى.",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "First aid center.",
+            "An informative sign for a mosque.",
+            "Hospital.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.34"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "وقوف.",
+            "منطقة جمركیة.",
+            "ممنوع المرور دون توقف (جمارك)",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Stop.",
+            "Customs area.",
+            "No passage without stopping (customs).",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.35"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة السرعة الدنیا المسموح بھا",
+            "نھایة حد السرعة المدون في الشاخصة.",
+            "السرعات القصوى للمركبات.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "End of the minimum permitted speed.",
+            "End of the speed limit shown on the sign.",
+            "Maximum speeds for vehicles.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "6.36"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "مقھى.",
+            "مخیم سیاحي.",
+            "مطعم.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Cafe.",
+            "Tourist camp.",
+            "Restaurant.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.37"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "مقھى.",
+            "اشارة ارشادیة لبائع ادوات منزلیة..",
+            "مطعم."
+        ],
+        "options_en": [
+            "Cafe.",
+            "An informative sign for a home goods seller.",
+            "Restaurant."
+        ],
+        "correctIndex": 2,
+        "imgName": "6.38"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الالزامیة تعني",
+        "text_en": "This mandatory sign means",
+        "options_ar": [
+            "اتجاه إجباري للأمام أو الیسار.",
+            "اتجاه اجباري للیسار.",
+            "اتجاه اجباري الى الامام.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mandatory direction straight ahead or to the left.",
+            "Mandatory direction to the left.",
+            "Mandatory direction straight ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.39"
+    },
+    {
+        "text_ar": "ھذه الشاخصة الارشادیة تعني",
+        "text_en": "This informative sign means",
+        "options_ar": [
+            "موقف لذوي الاحتیاجات الخاصه",
+            "موقف عام.",
+            "موقف مشترك لذوي الاحتیاجات والمركبات الاخرى",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Parking for people with special needs",
+            "General parking.",
+            "Shared parking for people with special needs and other vehicles",
+            "All of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "6.40"
+    }
+]

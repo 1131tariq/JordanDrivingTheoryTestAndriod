@@ -1,0 +1,631 @@
+[
+    {
+        "text_ar": "توضع إشارة المرور في الأماكن التالیة:",
+        "text_en": "Traffic signs are placed in the following locations:",
+        "options_ar": [
+            "تقاطع الطرقات",
+            "أماكن أعمال الطرقات",
+            "ممرات المشاة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Intersections",
+            "Roadwork areas",
+            "Pedestrian crossings",
+            "All of the above."
+        ],
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "تحمیل الركاب بھذه الطریقة صحیح:",
+        "text_en": "Is loading passengers in this manner correct:",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 1,
+        "imgName": "3.2"
+    },
+    {
+        "text_ar": "الخطوط البیضاء المبینة في الصورة تعني :",
+        "text_en": "The white lines shown in the image mean:",
+        "options_ar": [
+            "ممنوع التجاوز.",
+            "مسموح التجاوز بحذر شدید.",
+            "مسموح التجاوز من الیمین فقط.",
+            "مسموح التجاوز من الیسار فقط."
+        ],
+        "options_en": [
+            "Overtaking is forbidden.",
+            "Overtaking is allowed with extreme caution.",
+            "Overtaking is only allowed from the right.",
+            "Overtaking is only allowed from the left."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.3"
+    },
+    {
+        "text_ar": "ماذا تعني هذه الشاخصة؟",
+        "text_en": "What does this sign mean?",
+        "options_ar": [
+            "على السائق الحذر والانتباه من وجود تساقط للحجارة من جھة الیمین.",
+            "على السائق الحذر والانتباه من وجود تساقط للحجارة من جھة الیسار.",
+            "على السائق الحذر والانتباه من وجود تساقط للحجارة من جھتي الطریق."
+        ],
+        "options_en": [
+            "The driver must be careful and aware of falling rocks from the right.",
+            "The driver must be careful and aware of falling rocks from the left.",
+            "The driver must be careful and aware of falling rocks from both sides of the road."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.4"
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الإشارة یجب علیك:",
+        "text_en": "When you see this sign, you must:",
+        "options_ar": [
+            "السیر الى الامام.",
+            "التوقف وقوفا تاما.",
+            "الاستعداد للمسیر.",
+            "الاستعداد للتوقف."
+        ],
+        "options_en": [
+            "Go straight.",
+            "Stop completely.",
+            "Get ready to go.",
+            "Get ready to stop."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.5"
+    },
+    {
+        "text_ar": "اللون الأخضر المتقطع للمشاةفي الإشارات الضوئیة یعني أن الإشارة على وشك التحول إلى الأحمر ،وھنا لا یجوز للمشاة المرور إلا إذا كانوا بداخل ممر المشاة ، ویجب أن یكملوا طریقھم إلى الجانب الآخر.",
+        "text_en": "The flashing green light for pedestrians on traffic lights means the signal is about to turn red, and pedestrians are not allowed to cross unless they are already in the crosswalk, and they must continue their way to the other side.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.6"
+    },
+    {
+        "text_ar": "توضع ھذه الإشارة على المسارب ,وتسمح بالمرور للمسرب الموضوعة علیه.",
+        "text_en": "This sign is placed on lanes and allows passage for the lane it is placed on.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.7"
+    },
+    {
+        "text_ar": "في الإشارات الضوئیة ممكن أن تستبدل الألوان بأسھم من نفس اللون لكن على خلفیة سوداء اللون ، وعندما تضيء تكون لھا نفس أھمیة الإشارة الضوئیة العادیة لكن المنع أو السماح یكون للاتجاه أو الاتجاھات المبینة بالسھم أو الأسھم .",
+        "text_en": "On traffic lights, colors can be replaced with arrows of the same color but on a black background. When they light up, they have the same importance as a normal traffic light, but the prohibition or permission applies to the direction(s) indicated by the arrow(s).",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.8"
+    },
+    {
+        "text_ar": "وجود ھذه الشاخصة یعني:",
+        "text_en": "The presence of this sign means:",
+        "options_ar": [
+            "على السائق الانتباه والحذر من وجود منعطف حاد أمامه.",
+            "على السائق الانتباه والحذر من وجود أخطار مختلفة أمامه.",
+            "على السائق الانتباه والحذر من وجود منحدر خطر أمامه.",
+            "أ+ب"
+        ],
+        "options_en": [
+            "The driver must be careful and aware of a sharp curve ahead.",
+            "The driver must be careful and aware of various dangers ahead.",
+            "The driver must be careful and aware of a dangerous slope ahead.",
+            "A + B"
+        ],
+        "correctIndex": 1,
+        "imgName": "3.9"
+    },
+    {
+        "text_ar": "عند مشاھدة ھذه الإشارة فإنه:",
+        "text_en": "When you see this sign:",
+        "options_ar": [
+            "یسمح بالانعطاف للیمین.",
+            "یمنع الإنعطاف للیمین.",
+            "یسمح بالتقدم للأمام",
+            "أ+ج"
+        ],
+        "options_en": [
+            "Turning right is allowed.",
+            "Turning right is forbidden.",
+            "Going straight is allowed.",
+            "A + C"
+        ],
+        "correctIndex": 3,
+        "imgName": "3.10"
+    },
+    {
+        "text_ar": "عند ظھور اللون الاصفر في الاشارة الضوئیة بعد اللون الاحمر فھذا یعنى ان الاشارة على وشك التغیر للضوء الاخضر و علیك الاستعداد للمسیر.",
+        "text_en": "When the yellow light appears in the traffic signal after the red light, it means that the signal is about to change to the green light and you must get ready to go.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.11"
+    },
+    {
+        "text_ar": "ما یقوم به سائق المركبة:",
+        "text_en": "What the vehicle driver is doing:",
+        "options_ar": [
+            "صحیح لعدم وجود شاخصة تمنع ذلك.",
+            "خاطئ لأنھا تعیق المرور."
+        ],
+        "options_en": [
+            "Is correct because there is no sign that forbids it.",
+            "Is wrong because it obstructs traffic."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.12"
+    },
+    {
+        "text_ar": "الاشارة الضوئیه ھي عبارة عن ادوات تحكم مروري تستخدم للسیطرة على حركة المركبات والمشاه.",
+        "text_en": "A traffic light is a traffic control device used to control the movement of vehicles and pedestrians.",
+        "options_ar": [
+            "نعم.",
+            "لا"
+        ],
+        "options_en": [
+            "Yes.",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على سائق المركبة المشار إلیھا:",
+        "text_en": "The driver of the indicated vehicle must:",
+        "options_ar": [
+            "الإلتزام بیسار لطریق.",
+            "الإلتزام بیمین الطریق .",
+            "السیر امام مركبة الإطفاء لفسح الطریق لھا."
+        ],
+        "options_en": [
+            "Keep to the left side of the road.",
+            "Keep to the right side of the road.",
+            "Drive in front of the fire truck to clear the way for it."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.14"
+    },
+    {
+        "text_ar": "تقف المركبة المبینة بالصورة:",
+        "text_en": "The vehicle shown in the image is parked:",
+        "options_ar": [
+            "بشكل صحیح.",
+            "بشكل خاطئ."
+        ],
+        "options_en": [
+            "Correctly.",
+            "Incorrectly."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.15"
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الشاخصة على السائق:",
+        "text_en": "When seeing this sign, the driver must:",
+        "options_ar": [
+            "ان یسیر بسرعة ( ٤٠ ) كم/كحد اقصى.",
+            "ان یسیر بسرعة ( ٤٠ ) كم/كحد ادنى.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Drive at a maximum speed of (40) km/h.",
+            "Drive at a minimum speed of (40) km/h.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.16"
+    },
+    {
+        "text_ar": "وجود الضوء الاخضر في الاشارة الضوئیة على التقاطع لا یعنى الحق في المرور اذا لم یكن التقاطع خالي من المركبات الاخرى",
+        "text_en": "The presence of a green light at an intersection does not mean a right of way if the intersection is not clear of other vehicles.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.17"
+    },
+    {
+        "text_ar": "الشاخصة التحذیریة التي امامك بالصورة تعني",
+        "text_en": "The warning sign in front of you in the image means",
+        "options_ar": [
+            "على السائق القادم من الیمین الانتباه كونه یدخل الى اتجاه الطریق الرئیسي.",
+            "على السائق القادم من الطریق الرئیسي عدم الانتباه إلى الشاخصة.",
+            "على السائق القادم من الطریق الرئیسي متابعة مسیره بصورة طبیعیة.",
+            "لا شيء مما ذكر"
+        ],
+        "options_en": [
+            "The driver coming from the right must pay attention as he is entering the direction of the main road.",
+            "The driver coming from the main road should not pay attention to the sign.",
+            "The driver coming from the main road should continue his way normally.",
+            "None of the above"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.18"
+    },
+    {
+        "text_ar": "وقوف المركبة بھذه الطریقة:",
+        "text_en": "Parking the vehicle in this manner:",
+        "options_ar": [
+            "صحیح لعدم وجود شرطي سیر.",
+            "صحیح لأنھا تبعد اقل من نصف متر عن الرصیف.",
+            "خاطئ لوجود شاخصة تمنع ذلك.",
+            "صحیح كون المركبة تقف قبل الشاخصة"
+        ],
+        "options_en": [
+            "Is correct because there is no traffic policeman.",
+            "Is correct because it is less than half a meter from the curb.",
+            "Is wrong because there is a sign that forbids it.",
+            "Is correct as the vehicle is parked before the sign."
+        ],
+        "correctIndex": 2,
+        "imgName": "3.19"
+    },
+    {
+        "text_ar": "مایقوم به المشاة:",
+        "text_en": "What the pedestrians are doing:",
+        "options_ar": [
+            "صحیح لوجود معبر المشاة.",
+            "خاطيء لعدم وجود شاخصة تسمح بذلك."
+        ],
+        "options_en": [
+            "Is correct due to the presence of a pedestrian crossing.",
+            "Is wrong because there is no sign that allows it."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.20"
+    },
+    {
+        "text_ar": "ظھور ھذه الإشارة یعني:",
+        "text_en": "The appearance of this signal means:",
+        "options_ar": [
+            "السماح للمشاة بعبور الطریق.",
+            "منع المشاة من عبور الطریق.",
+            "عدم السماح للمشاة بالشروع في عبور الطریق واتمام العبور بعد البدء فیه."
+        ],
+        "options_en": [
+            "Allowing pedestrians to cross the road.",
+            "Forbidding pedestrians from crossing the road.",
+            "Not allowing pedestrians to start crossing the road but to complete the crossing after starting it."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.21"
+    },
+    {
+        "text_ar": "تشتمل الاشارة الضوئیة الخاصه للسماح بعبور المشاة على:",
+        "text_en": "The traffic light for allowing pedestrians to cross includes:",
+        "options_ar": [
+            "اشارة ضوئیة تظھر شخص مشاه یمشي باللون الاحمر.",
+            "اشارة ضوئیة تظھر شخص مشاه یمشي باللون الاخضر.",
+            "اشارة ضوئیة تظھر شخص مشاه واقف باللون الاخضر.",
+            "جمیع ما ذكر صحیح."
+        ],
+        "options_en": [
+            "A traffic light showing a pedestrian walking in red.",
+            "A traffic light showing a pedestrian walking in green.",
+            "A traffic light showing a pedestrian standing in green.",
+            "All of the above are correct."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "الضوء الاحمر في الاشارة الضوئیة یعني ممنوع المرور وعلى المركبات الوقوف قبل خط التوقف إن وجد",
+        "text_en": "The red light in the traffic signal means no passage and vehicles must stop before the stop line if there is one.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.23"
+    },
+    {
+        "text_ar": "وجود البسطات بھذا الشكل:",
+        "text_en": "The presence of stalls in this manner:",
+        "options_ar": [
+            "مسموح به لأنه یقدم خدمة للناس.",
+            "ممنوع لأنه لایلتزم بالأسعار المحددة",
+            "ممنوع لأنه یتعدى على حرم الطریق."
+        ],
+        "options_en": [
+            "Is allowed because it provides a service to people.",
+            "Is forbidden because it does not adhere to the set prices.",
+            "Is forbidden because it encroaches on the road's right-of-way."
+        ],
+        "correctIndex": 2,
+        "imgName": "3.24"
+    },
+    {
+        "text_ar": "توضع ھذه الاشارة على مسارب الطرق وتمنع المرور في المسرب الموضوعه علیه",
+        "text_en": "This sign is placed on road lanes and forbids passage in the lane it is placed on.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.25"
+    },
+    {
+        "text_ar": "عند رؤیة الإشارة الضوئیة بھذا اللون یجب علیك:",
+        "text_en": "When you see the traffic signal in this color, you must:",
+        "options_ar": [
+            "السیر الى الامام بحذر.",
+            "التوقف بصورة تامة.",
+            "الاستعداد للتقدم.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Proceed with caution.",
+            "Stop completely.",
+            "Get ready to proceed.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.26"
+    },
+    {
+        "text_ar": "وجود ھذه الشاخصة یعني:",
+        "text_en": "The presence of this sign means:",
+        "options_ar": [
+            "على السائق الإسراع لوجود طریق زلقة أمامه",
+            "على السائق الحذر والانتباه من وجود طریق ترابیة أمامه.",
+            "على السائق الحذر والانتباه من وجود طریق زلقة أمامه"
+        ],
+        "options_en": [
+            "The driver must speed up because of a slippery road ahead.",
+            "The driver must be careful and aware of a dirt road ahead.",
+            "The driver must be careful and aware of a slippery road ahead."
+        ],
+        "correctIndex": 2,
+        "imgName": "3.27"
+    },
+    {
+        "text_ar": "سیر المركبة (التكسي) المبینه بالصورة:",
+        "text_en": "The movement of the vehicle (taxi) shown in the image:",
+        "options_ar": [
+            "مسموح",
+            "ممنوع."
+        ],
+        "options_en": [
+            "Is allowed",
+            "Is forbidden."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.28"
+    },
+    {
+        "text_ar": "وقوف المركبة بھذه الطریقة:",
+        "text_en": "Parking the vehicle in this manner:",
+        "options_ar": [
+            "صحیح لعدم وجود شرطي سیر.",
+            "خاطئ لأنھا تبعد اكثر من نصف متر عن الرصیف.",
+            "خاطئ لوجود شاخصة تمنع ذلك."
+        ],
+        "options_en": [
+            "Is correct because there is no traffic policeman.",
+            "Is wrong because it is more than half a meter away from the curb.",
+            "Is wrong because there is a sign that forbids it."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.29"
+    },
+    {
+        "text_ar": "ھذه الشاخصة تعني:",
+        "text_en": "This sign means:",
+        "options_ar": [
+            "ممنوع مرور الشاحنات على المسرب الایسر .",
+            "ممنوع مرور الشاحنات على المسرب الایمن.",
+            "ممنوع مرور الباصات على المسرب الایسر .",
+            "أ+ج"
+        ],
+        "options_en": [
+            "Trucks are not allowed to pass on the left lane.",
+            "Trucks are not allowed to pass on the right lane.",
+            "Buses are not allowed to pass on the left lane.",
+            "A + C"
+        ],
+        "correctIndex": 3,
+        "imgName": "3.30"
+    },
+    {
+        "text_ar": "يسمح الضوء الأصفر الوامض للسائق بالمرور بحذر شديد بعد إعطاء الأولوية للمشاة أو المركبات التي لها حق المرور.",
+        "text_en": "The flashing yellow light allows the driver to pass with extreme caution after giving priority to pedestrians or vehicles with the right of way.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.31"
+    },
+    {
+        "text_ar": "اللون الاحمر في الاشارة الضوئیة للمشاة یعني منع المشاة من عبور الطریق.",
+        "text_en": "The red color in the pedestrian traffic light means prohibiting pedestrians from crossing the road.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.32"
+    },
+    {
+        "text_ar": "المركبة المبینة في الصورة:",
+        "text_en": "The vehicle shown in the image:",
+        "options_ar": [
+            "متوقفة بشكل خاطئ لوجود شاخصة تمنع الوقوف والتوقف.",
+            "متوقفة بشكل خاطئ لوقوفھا على الرصیف.",
+            "المركبة متوقفة بشكل صحیح لعدم وجود شاخصة تمنع ذلك."
+        ],
+        "options_en": [
+            "Is parked incorrectly due to the presence of a sign that prohibits stopping and parking.",
+            "Is parked incorrectly because it is parked on the sidewalk.",
+            "The vehicle is parked correctly because there is no sign that prohibits it."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.33"
+    },
+    {
+        "text_ar": "عند مشاھدة ھذه الإشارة فإنه:",
+        "text_en": "When you see this sign:",
+        "options_ar": [
+            "یسمح بالانعطاف للیمین.",
+            "یمنع الإنعطاف للیمین.",
+            "یمنع التقدم للأمام",
+            "أ+ج"
+        ],
+        "options_en": [
+            "Turning right is allowed.",
+            "Turning right is forbidden.",
+            "Proceeding straight is forbidden.",
+            "A + C"
+        ],
+        "correctIndex": 3,
+        "imgName": "3.34"
+    },
+    {
+        "text_ar": "اللون الأخضر للمشاة في الإشارات الضوئیة یعني السماح لھم بالمسیر.",
+        "text_en": "The green color for pedestrians in traffic lights means they are allowed to proceed.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "correctIndex": 0,
+        "imgName": "3.35"
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الشاخصة:",
+        "text_en": "When seeing this sign:",
+        "options_ar": [
+            "على السائق عدم التجاوز عند مشاھدته لھذه الشاخصة.",
+            "على السائق التجاوز عند مشاھدته لھذه الشاخصة ولكن بحذر شدید.",
+            "على السائق إعطاء الاولویة للمركبات القادمة عند مشاھدته لھذه الشاخصة."
+        ],
+        "options_en": [
+            "The driver must not overtake when seeing this sign.",
+            "The driver may overtake when seeing this sign but with extreme caution.",
+            "The driver must give priority to oncoming vehicles when seeing this sign."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.36"
+    },
+    {
+        "text_ar": "سائق المركبة المبینة في الصورة والتي وضع علیھا دائرة في اللون الاحمر:",
+        "text_en": "The driver of the vehicle shown in the image that is circled in red:",
+        "options_ar": [
+            "یتصرف بشكل صحیح.",
+            "یتصرف بشكل خاطئ."
+        ],
+        "options_en": [
+            "Is acting correctly.",
+            "Is acting incorrectly."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.37"
+    },
+    {
+        "text_ar": "المسرب الذي یتخذه سائق المركبة:",
+        "text_en": "The lane the vehicle driver is taking:",
+        "options_ar": [
+            "صحیح.",
+            "خاطيء"
+        ],
+        "options_en": [
+            "Is correct.",
+            "Is wrong."
+        ],
+        "correctIndex": 1,
+        "imgName": "3.38"
+    },
+    {
+        "text_ar": "عند رؤیة ھذه الشاخصة على السائق:",
+        "text_en": "When seeing this sign, the driver must:",
+        "options_ar": [
+            "تخفیف سرعته والتوقف على التقاطع وإعطاء حق الأولویة حسب قواعد أولویات المرور.",
+            "یجب على السائق الانتباه من انه یتجه نحو تقاطع طرق محكوم بإشارات ضوئیة.",
+            "یجب على السائق الانتباه من انه یتجه نحو تقاطع طرق محكوم بشواخص مروریة.",
+            "یجب على السائق الانتباه من انه یتجه نحو تقاطع طرق غیر متكافئ."
+        ],
+        "options_en": [
+            "Slow down and stop at the intersection and give the right of way according to the rules of traffic priorities.",
+            "The driver must be aware that he is heading towards an intersection controlled by traffic lights.",
+            "The driver must be aware that he is heading towards an intersection controlled by traffic signs.",
+            "The driver must be aware that he is heading towards an unequal intersection."
+        ],
+        "correctIndex": 0,
+        "imgName": "3.39"
+    },
+    {
+        "text_ar": "ما یقوم بھ سائق المركبة رقم 1:",
+        "text_en": "What the driver of vehicle number 1 is doing:",
+        "options_ar": [
+            "صحیح لعدم وجود مركبات من ھذا الجانب من الطریق.",
+            "صحیح لعدم وجود وجود شاخصة تمنع ذلك.",
+            "ممنوع لسیره بعكس إتجاه السیر.",
+            "ممنوع لإقترابھا من الجزیرة الوسطیة."
+        ],
+        "options_en": [
+            "Is correct because there are no vehicles on this side of the road.",
+            "Is correct because there is no sign that forbids it.",
+            "Is forbidden because he is driving against the direction of traffic.",
+            "Is forbidden because it is approaching the median island."
+        ],
+        "correctIndex": 2,
+        "imgName": "3.40"
+    }
+]

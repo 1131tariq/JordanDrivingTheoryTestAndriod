@@ -1,0 +1,683 @@
+[
+    {
+        "text_ar": "الضوء الاحمر المخصص للمشاة في الاشارة الضوئیة یعني:",
+        "text_en": "The red light for pedestrians at the traffic light means:",
+        "options_ar": [
+            "السماح للمشاة بعبور الطریق",
+            "عدم الشروع في عبور الطریق واتمام العبور بعد البدء فیه",
+            "منع المشاة من عبور الطریق",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Allowing pedestrians to cross the road",
+            "Not starting to cross the road and completing the crossing after starting it",
+            "Preventing pedestrians from crossing the road",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الثالثة.",
+            "الفئة الرابعة",
+            "الفئة الخامسة.",
+            "الفئة السادسة ( 2 )",
+            "الفئة السادسة ( 1 )"
+        ],
+        "options_en": [
+            "Fourth Category",
+            "Fifth Category",
+            "Sixth Category (2)",
+            "Sixth Category (1)"
+        ],
+        "correctIndex": 3,
+        "imgName": "8.2"
+    },
+    {
+        "text_ar": "یحق للمشاة عبور الطریق بتباطؤ وبخط متعرج بین جانبي الطریق.",
+        "text_en": "Pedestrians have the right to cross the road slowly and in a zigzag line between the two sides of the road.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الاولى .",
+            "الفئة الثانیة.",
+            "الفئة الثالثة.",
+            "الفئة السابعة"
+        ],
+        "options_en": [
+            "First Class.",
+            "Second Class.",
+            "Third Class.",
+            "Seventh Class"
+        ],
+        "correctIndex": 2,
+        "imgName": "8.4"
+    },
+    {
+        "text_ar": "الرخصة من الفئة الثانیة ( ٢) تصنف بأنھا:",
+        "text_en": "A Class 2 license is classified as:",
+        "options_ar": [
+            "رخصة سوق لجمیع أنواع الدراجات الآلیة .",
+            "رخصة سوق لقیادة مركبة أشغال.",
+            "رخصة سوق لقیادة مركبة زراعیة.",
+            "ب + ج ."
+        ],
+        "options_en": [
+            "Driver's license for all types of motorcycles.",
+            "Driver's license to drive a construction vehicle.",
+            "Driver's license to drive an agricultural vehicle.",
+            "B + C."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "یجب على المشاة عدم العبور الا من المكان المخصص لعبورھم اذا كان على مسافة تقل عن مائة متر من مكان وقوفھم.",
+        "text_en": "Pedestrians must not cross except at the designated crossing point if it is less than 100 meters from their standing position.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "الضوء الاخضر المتقطع المخصص لعبور المشاة في الاشارة الضوئیة یعني:",
+        "text_en": "The green intermittent light for pedestrians at a traffic light means:",
+        "options_ar": [
+            "السماح للمشاة بعبور الطریق",
+            "عدم الشروع في عبور الطریق واتمام العبور بعد البدء فیه",
+            "منع المشاة من عبور الطریق",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Allow pedestrians to cross the road",
+            "Do not begin crossing the road and continue crossing after beginning",
+            "Prohibit pedestrians from crossing the road",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "المشاة ھم:",
+        "text_en": "Pedestrians are:",
+        "options_ar": [
+            "الذین یسیرون على اقدامھم.",
+            "سائقوا الدراجات الھوائیة .",
+            "أي شخص یدفع أو یجر عربة اطفال اوعربة مریض او مقعد او عربة ید.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Those who walk.",
+            "Cyclists.",
+            "Anyone pushing or pulling a baby stroller, wheelchair, wheelchair, or pushchair.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "الرخصة الدولیة الصادرة من نادي السیارات الملكي تسمح لحاملھا بقیادة مركبة",
+        "text_en": "The international license issued by the Royal Automobile Club allows its holder to drive a vehicle.",
+        "options_ar": [
+            "داخل الأردن",
+            "خارج الأردن",
+            "أ+ب صحیحان"
+        ],
+        "options_en": [
+            "Inside Jordan",
+            "Outside Jordan",
+            "A+B are correct"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "الرخصةمن الفئة الثانیة ( ١) تصنف بأنھا:",
+        "text_en": "A Class 2 (1) license is classified as:",
+        "options_ar": [
+            "رخصة سوق لجمیع أنواع الدراجات الآلیة .",
+            "رخصة سوق لقیادة مركبة أشغال.",
+            "رخصة سوق لقیادة مركبة زراعیة.",
+            "ب + ج ."
+        ],
+        "options_en": [
+            "Driver's license for all types of motorcycles.",
+            "Driver's license to drive a construction vehicle.",
+            "Driver's license to drive an agricultural vehicle.",
+            "B + C."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "عند اقتراب السائق من تقاطع طرق علیه ان:",
+        "text_en": "When a driver approaches an intersection, he must:",
+        "options_ar": [
+            "یخفف السرعة .",
+            "یزید السرعة .",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "Slow down.",
+            "Increase speed.",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من واجبات المشاة:",
+        "text_en": "Pedestrian duties include:",
+        "options_ar": [
+            "عبور الطریق دون تباطؤ وباقصر خط مستقیم بین جانبي الطریق",
+            "عدم قطع الطریق من جانب الى اخر قبل التأكد من خلوه من المركبات",
+            "عدم الوقوف على الطریق لایقاف مركبة لاي غرض الا اذا تطلب ذلك عمله الوظیفي",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Crossing the road without slowing down and using the shortest straight line between the two sides",
+            "Not crossing the road from one side to the other before ensuring it is clear of vehicles",
+            "Not stopping on the road to stop a vehicle for any purpose unless required by the job",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من أولویات المرور للمشاة:",
+        "text_en": "Pedestrian traffic priorities:",
+        "options_ar": [
+            "ذوي الاحتیاجات الخاصة او للكفیف الذي یحمل عصا بیضاء",
+            "عند وجود اشارة ضوئیة حمراء متقطعة او صفراء متقطعة او شاخصة قف على تقاطع الطرق",
+            "عندما تكون الاشارة الضوئیة الخاصة بمرور المشاة خضراء",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "For people with special needs or for a blind person who carries a white cane",
+            "When there is a red, yellow, or yellow traffic light, stop at the intersection",
+            "When the pedestrian traffic light is green",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الاولى .",
+            "الفئة الثانیة.",
+            "الفئة الثالثة.",
+            "الفئة السابعة"
+        ],
+        "options_en": [
+            "First Class.",
+            "Second Class.",
+            "Third Class.",
+            "Seventh Class"
+        ],
+        "correctIndex": 2,
+        "imgName": "8.14"
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الاولى .",
+            "الفئة الثانیة.",
+            "الفئة الثالثة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "First Class.",
+            "Second Class.",
+            "Third Class.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "8.15"
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الأولى (1)",
+            "الفئة الثانیة.",
+            "الفئة الثالثة.",
+            "الفئة الرابعة"
+        ],
+        "options_en": [
+            "First Class (1)",
+            "Second Class.",
+            "Third Class.",
+            "Fourth Class"
+        ],
+        "correctIndex": 0,
+        "imgName": "8.16"
+    },
+    {
+        "text_ar": "عند وصول السائق الى تقاطع طرق منظم بإشارة مرور ضوئیة علیه:",
+        "text_en": "When the driver reaches an intersection with a traffic light:",
+        "options_ar": [
+            "الوقوف بمركبته قبل خط التوقف المخصص لذلك عند ظھور الضوء الاحمر",
+            "الاستعداد للحركة بمركبته عند ظھور الضوء الاصفر بعد الضوء الاحمر",
+            "الانطلاق بمركبته عند ظھور الضوء الاخضر",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Stop your vehicle before the designated stop line when a red light appears",
+            "Prepare to move your vehicle when a yellow light appears after a red light",
+            "Start your vehicle when a green light appears",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "اعطاء الاولویة یساعد الاخرین على القیادة بأمان.",
+        "text_en": "Giving priority helps others drive safely.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على السائق الإصرار على اخذ اولویة الطریق إذا كانت أولویة المرور له ویوجد مركبات اخرى تعیقه داخل التقاطع.",
+        "text_en": "The driver must insist on taking the right-of-way if he has the right-of-way and there are other vehicles obstructing him inside the intersection.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "الضوء المخصص لعبور المشاة من خلال الاشارات الضوئیة ھو:",
+        "text_en": "The light designated for pedestrian crossing through traffic lights is:",
+        "options_ar": [
+            "الضوء الاخضر.",
+            "الضوء الاحمر.",
+            "الضوء الاصفر.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Green light.",
+            "Red light.",
+            "Yellow light.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "من واجبات المشاة عدم المسیر على الجسور المخصصة للمركبات اذا لم یكن ھناك رصیف مخصص",
+        "text_en": "Pedestrians are required not to walk on bridges designated for vehicles if there is no designated sidewalk.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "الضوء المخصص لمنع عبور المشاة من خلال الاشارة الضوئیة ھو:",
+        "text_en": "The light designated to prevent pedestrians from crossing through the traffic light is:",
+        "options_ar": [
+            "الضوء الاخضر المخصص للمشاة.",
+            "الضوء الاخضر المتقطع المخصص للمشاة.",
+            "الضوء الاحمر المخصص للمشاة.",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "Green light for pedestrians.",
+            "Burning green light for pedestrians.",
+            "Red light for pedestrians.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "عند وصول السائق الى تقاطع طرق علیه ان:",
+        "text_en": "When the driver reaches an intersection, he must:",
+        "options_ar": [
+            "یتوخي الحیطة والحذر التامین",
+            "التحدید المسبق للمسرب الذي سیسلكه والالتزام به",
+            "تحدید الاتجاه الذي سیسلكه في التقاطع",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Exercise extreme caution and care",
+            "Pre-determine the lane to be used and adhere to it",
+            "Determine the direction to be taken at the intersection",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة حافلة متوسطة ھي:",
+        "text_en": "The driving license category that qualifies you to drive a medium-duty bus is:",
+        "options_ar": [
+            "الفئة الثالثة.",
+            "الفئة الرابعة",
+            "الفئة الخامسة",
+            "الفئة السابعة"
+        ],
+        "options_en": [
+            "Category Three",
+            "Category Four",
+            "Category Five",
+            "Category Seven"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "یسمح للمشاة النزول عن الرصیف بصورة فجائیة.",
+        "text_en": "Pedestrians are allowed to step off the sidewalk suddenly.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "التقاطعات تشمل تقاطع الطرق مع خطوط السكك الحدیدیة:",
+        "text_en": "Intersections include the intersection of roads with railway lines:",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة سیارة التاكسي المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the taxi shown is:",
+        "options_ar": [
+            "الفئة الاولى .",
+            "الفئة الثانیة.",
+            "الفئة الثالثة.",
+            "الفئة الرابعة"
+        ],
+        "options_en": [
+            "First Class.",
+            "Second Class.",
+            "Third Class.",
+            "Fourth Class"
+        ],
+        "correctIndex": 3,
+        "imgName": "8.27"
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة في الصورة:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown in the picture:",
+        "options_ar": [
+            "الفئة الاولى .",
+            "الفئة الثانیة ( 1 ).",
+            "الفئة الثانیة ( ٢ )",
+            "الفئة الثالثة.",
+            "الفئة الرابعة"
+        ],
+        "options_en": [
+            "First Class.",
+            "Second Class (1).",
+            "Second Class (2).",
+            "Third Class.",
+            "Fourth Class"
+        ],
+        "correctIndex": 1,
+        "imgName": "8.28"
+    },
+    {
+        "text_ar": "یعطى المشاة حق المرور عند مباشرتھم بقطع الطریق على التقاطعات التي لا تحكمھا اشارات ضوئیة او شواخص مروریة",
+        "text_en": "Pedestrians are given the right-of-way when crossing the road at intersections that are not controlled by traffic lights or signs.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الأولى (2)",
+            "الفئة الثانیة.",
+            "الفئة الثالثة.",
+            "الفئة الرابعة"
+        ],
+        "options_en": [
+            "First Class (2)",
+            "Second Class",
+            "Third Class",
+            "Fourth Class"
+        ],
+        "correctIndex": 0,
+        "imgName": "8.30"
+    },
+    {
+        "text_ar": "من الارشادات العامة لسلامة المشاة:",
+        "text_en": "General guidelines for pedestrian safety:",
+        "options_ar": [
+            "تجنب العبور بین السیارات المتوقفة أو من أمام الحافلات",
+            "ارتداء ملابس ذات ألوان فاتحة ومشرقة في المساء أو في الظروف التي تقل فیھا الرؤیة",
+            "الإشراف على الأطفال دون سن العاشرة في الأماكن المزدحمة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Avoid crossing between parked cars or in front of buses",
+            "Wear light-colored clothing at night or in conditions with reduced visibility",
+            "Supervise children under the age of 10 in crowded places",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الاولى .",
+            "الفئة الثانیه (2)",
+            "الفئة الثالثة.",
+            "الفئة الرابعة"
+        ],
+        "options_en": [
+            "First Class.",
+            "Second Class (2)",
+            "Third Class.",
+            "Fourth Class"
+        ],
+        "correctIndex": 1,
+        "imgName": "8.32"
+    },
+    {
+        "text_ar": "إذا كانت المركبه المبینه یبلغ وزنھا الإجمالي ١٩ طن فإن فئة رخصة السوق التي تؤھلك لقیادتھا ھي:",
+        "text_en": "If the vehicle shown has a gross weight of 19 tons, the driving license category that qualifies you to drive it is:",
+        "options_ar": [
+            "الفئة الثالثة.",
+            "الفئة الرابعة",
+            "الفئة الخامسة.",
+            "الفئة السابعة."
+        ],
+        "options_en": [
+            "Category Three.",
+            "Category Four.",
+            "Category Five.",
+            "Category Seven."
+        ],
+        "correctIndex": 2,
+        "imgName": "8.33"
+    },
+    {
+        "text_ar": "على السائق عند وصوله الى تقاطع طرق منظم بواسطة شرطي مرور:",
+        "text_en": "When a driver arrives at an intersection regulated by a traffic policeman:",
+        "options_ar": [
+            "أن یقوم بالمرور بمركبته بدون ان یسمح له الشرطي .",
+            "عدم المرور بمركبته الا عندما یسمح له الشرطي .",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "To pass his vehicle without the policeman's permission.",
+            "Not to pass his vehicle unless the policeman gives him permission.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "یمتلك المشاة حق الاولویة عند",
+        "text_en": "Pedestrians have the right of way at",
+        "options_ar": [
+            "اجتیاز الممرات المخصصة لھم",
+            "عند دخول المدرسة او الخروج منھا.",
+            "اعطاء شرطي المرور الاولویة للمشاة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Walking in designated lanes",
+            "When entering or leaving school",
+            "Giving the traffic police officer the right of way to pedestrians",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "التقاطع ھو مكان تلاقي اكثر من طریق او تقابلھا او تفرعھا على مستوى واحد.",
+        "text_en": "An intersection is a place where more than one road meets, meets, or branches off at the same level.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من واجبات المشاة:",
+        "text_en": "Pedestrian duties include:",
+        "options_ar": [
+            "الالتزام باستخدام ممرات المشاة حیثما وجدت",
+            "الالتزام والتقید بالاشارات الضوئیة.",
+            "الالتزام باشارات شرطي المرور.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Commit to using pedestrian crossings wherever they are located.",
+            "Commit to and obey traffic lights.",
+            "Commit to traffic police signals.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الثالثة.",
+            "الفئة الرابعة",
+            "الفئة الخامسة.",
+            "الفئة السابعة."
+        ],
+        "options_en": [
+            "Category Three.",
+            "Category Four.",
+            "Category Five.",
+            "Category Seven."
+        ],
+        "correctIndex": 3,
+        "imgName": "8.38"
+    },
+    {
+        "text_ar": "من الارشادات العامة لسلامة المشاة:",
+        "text_en": "General guidelines for pedestrian safety:",
+        "options_ar": [
+            "فكر قبل عبور الطریق فیما إذا كان بإمكان السائق رؤیتك أم لا",
+            "توقف قبل عبور الطریق وأنظر جیدا وًاستمع وفكر",
+            "لا تفترض مطلقاً ان اي مركبة تقترب منك تكون قادرة على الوقوف",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Think before crossing the road whether the driver can see you or not.",
+            "Stop before crossing the road and look carefully, listen, and think.",
+            "Never assume that any vehicle approaching you is able to stop.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "فئة رخصة السوق التي تؤھلك لقیادة المركبة المبینة ھي:",
+        "text_en": "The driving license category that qualifies you to drive the vehicle shown is:",
+        "options_ar": [
+            "الفئة الرابعة",
+            "الفئة الخامسة.",
+            "الفئة السادسة (1)",
+            "الفئة السادسه (2)"
+        ],
+        "options_en": [
+            "Category Four",
+            "Category Five",
+            "Category Six (1)",
+            "Category Six (2)"
+        ],
+        "correctIndex": 2,
+        "imgName": "8.40"
+    }
+]

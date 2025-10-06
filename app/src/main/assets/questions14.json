@@ -1,0 +1,332 @@
+[
+    {
+        "text_ar": "ان الریاح التي تؤثر على المركبة اثناء عملیة التجاوز كما ھو مبین بالرسم",
+        "text_en": "The wind affecting the vehicle during overtaking, as shown in the diagram, is:",
+        "options_ar": ["ریاح طبیعیة", "ریاح التفریغ", "لاشئ مما ذكر"],
+        "options_en": ["Natural wind", "Draft wind", "None of the above"],
+        "correctIndex": 0,
+        "imgName": "14.1"
+    },
+    {
+        "text_ar": "ان سائق المركبة الحمراء یزعج بضوئه سائق المركبة الموجودة في الأمام (الزرقاء) و ذلك لأنه لا یسیر ملاصقا له",
+        "text_en": "The red vehicle driver disturbs the driver of the vehicle in front (blue) with his lights because he is not driving closely next to it:",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.2"
+    },
+    {
+        "text_ar": "في الصورة التي امامك يريد السائق التوجه:",
+        "text_en": "In the picture in front of you, the driver wants to go:",
+        "options_ar": ["الى اليمين", "الى اليسار", "تخفيف السرعة"],
+        "options_en": ["To the right", "To the left", "Slow down"],
+        "correctIndex": 1,
+        "imgName": "14.3"
+    },
+    {
+        "text_ar": "في الصورة التي امامك وقوف المركبة رقم ( ١ ) صحیح:",
+        "text_en": "In the picture in front of you, is the parking of vehicle No. 1 correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.4"
+    },
+    {
+        "text_ar": "في الصورة التي امامك ھل تتجاوز المركبة الزرقاء بشكل صحیح:",
+        "text_en": "In the picture in front of you, is the blue vehicle overtaking correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.5"
+    },
+    {
+        "text_ar": "في الصورة التي امامك الوقوف صحیح:",
+        "text_en": "In the picture in front of you, is the parking correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.6"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تكون الاولویة:",
+        "text_en": "In the picture in front of you, who has the right of way?",
+        "options_ar": ["للمركبة رقم ( ١ )", "للمركبة رقم ( ٢ )"],
+        "options_en": ["Vehicle No. 1", "Vehicle No. 2"],
+        "correctIndex": 0,
+        "imgName": "14.7"
+    },
+    {
+        "text_ar": "السیارة الزرقاء بحسب الرسم تأخذ المسرب الصحیح:",
+        "text_en": "According to the diagram, the blue car is taking the correct lane:",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.8"
+    },
+    {
+        "text_ar": "ان الریاح التي تؤثر على المركبة اثناء عملیة التجاوز كما ھو مبین بالرسم",
+        "text_en": "The wind affecting the vehicle during overtaking, as shown in the diagram, is:",
+        "options_ar": ["ریاح طبیعیة", "ریاح التفریغ", "لاشئ مما ذكر"],
+        "options_en": ["Natural wind", "Draft wind", "None of the above"],
+        "correctIndex": 0,
+        "imgName": "14.9"
+    },
+    {
+        "text_ar": "في الصورة التي امامك الوقوف صحیح:",
+        "text_en": "In the picture in front of you, is the parking correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.10"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تكون الاولویة:",
+        "text_en": "In the picture in front of you, who has the right of way?",
+        "options_ar": ["للمركبة رقم ( ١ )", "للمركبة رقم ( ٢ )"],
+        "options_en": ["Vehicle No. 1", "Vehicle No. 2"],
+        "correctIndex": 0,
+        "imgName": "14.11"
+    },
+    {
+        "text_ar": "في الصورة التي امامك الى یرید السائق:",
+        "text_en": "In the picture in front of you, what does the driver want to do?",
+        "options_ar": ["التوجه الى الیمین.", "التوجه الى الیسار.", "تخفیف السرعة."],
+        "options_en": ["Turn right", "Turn left", "Slow down"],
+        "correctIndex": 2,
+        "imgName": "14.12"
+    },
+    {
+        "text_ar": "إذا كانت المركبة التي امامك تقف على منحدر فإن وضعیة عجلات المركبة تكون كما في الشكل:",
+        "text_en": "If the vehicle in front of you is parked on a slope, should the wheel position be as shown?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.13"
+    },
+    {
+        "text_ar": "في الصورة التي امامك التصرف الذي تقوم به المركبة صحیح:",
+        "text_en": "In the picture in front of you, is the vehicle’s action correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.14"
+    },
+    {
+        "text_ar": "ان سائق المركبة الحمراء لا یزعج بضوئه سائق المركبة الموجودة في الأمام (الزرقاء) و ذلك لأنه لا یسیر ملاصقا له",
+        "text_en": "The red vehicle driver does not disturb the driver in front (blue) with his lights because he is not driving closely:",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.15"
+    },
+    {
+        "text_ar": "استخدام الضوء الرباعي (الفلشر) یعني:",
+        "text_en": "Using the hazard lights (flasher) means:",
+        "options_ar": ["التوجه الى الیمین.", "التوجه الى الیسار.", "تخفیف السرعة یوجد خطر أمامك."],
+        "options_en": ["Turn right", "Turn left", "Slow down – hazard ahead"],
+        "correctIndex": 2,
+        "imgName": "14.16"
+    },
+    {
+        "text_ar": "في الصورة التي امامك یجب على المركبة رقم ( ١) اخذ اقصى الیمین:",
+        "text_en": "In the picture in front of you, should vehicle No. 1 keep as far right as possible?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.17"
+    },
+    {
+        "text_ar": "إذا كانت المركبة التي امامك تقف على منحدر فإن وضعیة عجلات المركبة تكون كما في الشكل:",
+        "text_en": "If the vehicle in front of you is parked on a slope, is the wheel position correct as shown?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.18"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تقف المركبة الصفراء في المكان الصحیح:",
+        "text_en": "In the picture in front of you, is the yellow vehicle parked in the correct spot?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.19"
+    },
+    {
+        "text_ar": "في الصورة التي امامك المركبة الزرقاء تتجاوز بشكل صحیح:",
+        "text_en": "In the picture in front of you, is the blue vehicle overtaking correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.20"
+    },
+    {
+        "text_ar": "في الصورة التي امامك المركبة الزرقاء تتجاوز بشكل صحیح:",
+        "text_en": "In the picture in front of you, is the blue vehicle overtaking correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.21"
+    },
+    {
+        "text_ar": "الإجراء الذي یجب ان یقوم به سائق المركبة رقم (١):",
+        "text_en": "The action that vehicle No. 1 driver should take is:",
+        "options_ar": ["تخفیف السرعة وإتخاذ اقصى الیمین", "زیادة السرعة وإتخاذ اقصى الیمین", "لاشئ مما ذكر."],
+        "options_en": ["Slow down and keep as far right as possible", "Speed up and keep as far right as possible", "None of the above"],
+        "correctIndex": 0,
+        "imgName": "14.22"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تكون الاولویة:",
+        "text_en": "In the picture in front of you, who has the right of way?",
+        "options_ar": ["للمركبة رقم ( ١ )", "للمركبة رقم ( ٢ )"],
+        "options_en": ["Vehicle No. 1", "Vehicle No. 2"],
+        "correctIndex": 0,
+        "imgName": "14.23"
+    },
+    {
+        "text_ar": "في الصورة التي امامك وقوف المركبة صحیح:",
+        "text_en": "In the picture in front of you, is the vehicle parked correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.24"
+    },
+    {
+        "text_ar": "في الصورة التي امامك المركبة رقم ( ٢ ) یعتبر تجاوزھا صحیحا:",
+        "text_en": "In the picture in front of you, is overtaking by vehicle No. 2 correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.25"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تكون الاولویة:",
+        "text_en": "In the picture in front of you, who has the right of way?",
+        "options_ar": ["للمركبة رقم ( ١ )", "للمركبة رقم ( ٢ )"],
+        "options_en": ["Vehicle No. 1", "Vehicle No. 2"],
+        "correctIndex": 0,
+        "imgName": "14.26"
+    },
+    {
+        "text_ar": "من خلال الرسم الموضح نجد أن:",
+        "text_en": "From the diagram shown, we find that:",
+        "options_ar": [
+            "السیارة الصفراء ضمن رؤیة المركبة الزرقاء.",
+            "السیارة الحمراء ضمن رؤیة المركبة الزرقاء.",
+            "السیارتین الصفراء او الحمراء خارج رؤیة السیارة الزرقاء وتسمى ھذه الحالة بالنقطة العمیاء.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "The yellow car is within the blue vehicle's view.",
+            "The red car is within the blue vehicle's view.",
+            "Both yellow and red cars are outside the blue vehicle's view, called the blind spot.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "14.27"
+    },
+    {
+        "text_ar": "في الصورة التي امامك یرید السائق التوجه:",
+        "text_en": "In the picture in front of you, the driver wants to go:",
+        "options_ar": ["الى الیمین.", "الى الیسار.", "تخفیف السرعة"],
+        "options_en": ["To the right", "To the left", "Slow down"],
+        "correctIndex": 1,
+        "imgName": "14.28"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تكون الاولویة:",
+        "text_en": "In the picture in front of you, who has the right of way?",
+        "options_ar": ["للمركبة رقم ( ١ )", "للمركبة رقم ( ٢ )"],
+        "options_en": ["Vehicle No. 1", "Vehicle No. 2"],
+        "correctIndex": 0,
+        "imgName": "14.29"
+    },
+    {
+        "text_ar": "إذا كانت المركبة التي امامك تقف على منحدر فإن وضعیة عجلات المركبة تكون كما في الشكل:",
+        "text_en": "If the vehicle in front of you is parked on a slope, is the wheel position correct as shown?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.30"
+    },
+    {
+        "text_ar": "في الصورة التي امامك ھل تصرف المركبة الزرقاء صحیح:",
+        "text_en": "In the picture in front of you, is the blue vehicle's action correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.31"
+    },
+    {
+        "text_ar": "في الصورة التي امامك المركبة الصفراء تتجاوز بشكل صحیح:",
+        "text_en": "In the picture in front of you, is the yellow vehicle overtaking correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.32"
+    },
+    {
+        "text_ar": "في الصورة التي امامك وقوف المركبات صحیح:",
+        "text_en": "In the picture in front of you, are the vehicles parked correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.33"
+    },
+    {
+        "text_ar": "في الصورة التي امامك وقوف المركبة صحیح:",
+        "text_en": "In the picture in front of you, is the vehicle parked correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.34"
+    },
+    {
+        "text_ar": "في الصورة التي امامك تكون الاولویة:",
+        "text_en": "In the picture in front of you, who has the right of way?",
+        "options_ar": ["للمركبة رقم ( ١ )", "للمركبة رقم ( ٢ )"],
+        "options_en": ["Vehicle No. 1", "Vehicle No. 2"],
+        "correctIndex": 0,
+        "imgName": "14.35"
+    },
+    {
+        "text_ar": "في الصورة التي امامك یجب على المركبة الصفراء:",
+        "text_en": "In the picture in front of you, the yellow vehicle should:",
+        "options_ar": ["التوقف للإفساح للشاحنة بالالتفاف.", "الالتفاف إلى الیمین."],
+        "options_en": ["Stop to give way to the truck turning.", "Turn to the right."],
+        "correctIndex": 0,
+        "imgName": "14.36"
+    },
+    {
+        "text_ar": "في الصورة التي امامك الوقوف صحیح:",
+        "text_en": "In the picture in front of you, is the vehicle parked correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 0,
+        "imgName": "14.37"
+    },
+    {
+        "text_ar": "في الصورة التي امامك التصرف الذي تقوم به المركبة صحیح:",
+        "text_en": "In the picture in front of you, is the vehicle's action correct?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.38"
+    },
+    {
+        "text_ar": "في الصورة التي امامك یريد السائق التوجه:",
+        "text_en": "In the picture in front of you, the driver wants to go:",
+        "options_ar": ["الى الیمین.", "الى الیسار.", "تخفیف السرعة ."],
+        "options_en": ["To the right", "To the left", "Slow down"],
+        "correctIndex": 1,
+        "imgName": "14.39"
+    },
+    {
+        "text_ar": "في الصورة التي امامك وقوف المركبة صحیح:",
+        "text_en": "In the picture in front of you, is the vehicle parked correctly?",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "correctIndex": 1,
+        "imgName": "14.40"
+    }
+]

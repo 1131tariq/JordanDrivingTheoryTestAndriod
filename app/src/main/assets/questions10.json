@@ -1,0 +1,612 @@
+[
+    {
+        "text_ar": "تعطى الاولویة للمركبة المتجھة باستقامة على تقاطع الطرق الذي یكون على شكل حرف (T).",
+        "text_en": "Priority is given to the vehicle proceeding straight at a T-junction.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "اذا اعطى السائق الذي یقود مركبته في الطریق أي اشارة ضوئیة (غماز) فعلى كل سائق یسیر خلفه ان:",
+        "text_en": "If a driver gives a light signal (indicator), every driver following him must:",
+        "options_ar": [
+            "زیادة سرعة مركبته وعدم فسح المجال للمركبة الاخرى.",
+            "یخفف من سرعة مركبته وفسح المجال للمركبة الاخرى.",
+            "متابعة سیره.",
+            "لا شيئ مما ذكر."
+        ],
+        "options_en": [
+            "Increase his speed and not give way to the other vehicle.",
+            "Reduce his speed and give way to the other vehicle.",
+            "Continue driving.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "تكون الاولویة لمركبات الاطفاء اثناء قیامھا بالواجب واستخدامھا الاشارات او المنبھات الدالة على ذلك.",
+        "text_en": "Firefighting vehicles have priority while performing their duty when using signals or sirens.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجب على السائق الإلتزام بالجانب الایمن من الطریق في حال:",
+        "text_en": "The driver must keep to the right side of the road in the following cases:",
+        "options_ar": [
+            "الإنتقال الى طریق اخر یقع على یمینه",
+            "تمكین المركبات القادمة من الخلف بتجاوز مركبته",
+            "الاقتراب من المنعطفات او من رؤوس المرتفعات",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Turning onto another road located to his right.",
+            "Allowing vehicles approaching from behind to overtake.",
+            "Approaching curves or hill crests.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "تكون الأولویة للمركبات الموجودة داخل الدوار وعلى سائق المركبة التي تسیر خارج ھذا الدوار انتظار المركبات التي تسیر بداخل الدوار والدخول إلیه عند خلوه من المركبات .",
+        "text_en": "Vehicles already inside the roundabout have priority; drivers outside must wait and enter only when it is clear.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "تكون الاولویة لمركبات الاسعاف اثناء قیامھا بالواجب واستخدامھا الاشارات او المنبھات الدالة على ذلك.",
+        "text_en": "Ambulances have priority while performing their duty when using signals or sirens.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "إذا اراد السائق التوجه نحو الیسار بمركبته مع عدم وجود علامات ارضیة على الطریق فعلیه :",
+        "text_en": "If the driver intends to turn left and there are no road markings, he must:",
+        "options_ar": [
+            "الالتزام باقصى مسرب الیسار باتجاه السیر في الطریق ذي الاتجاه الواحد.",
+            "الالتزام بالجانب الایمن من الطریق ذي الاتجاھین والذي له مسرب واحد باتجاه السیر.",
+            "الالتزام باقصى مسرب الیسار باتجاه السیر من الطریق ذي الاتجاھین والذي له اكثر من مسرب.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Keep to the far-left lane on a one-way road.",
+            "Keep to the right side on a two-way road with one lane each way.",
+            "Keep to the far-left lane on a two-way road that has multiple lanes.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "المسرب ھو أي جزء من الاجزاء الطولیة للطریق یسمح بمرور صف واحد من المركبات المتتابعة",
+        "text_en": "A lane is any longitudinal part of the road that allows the passage of a single line of vehicles.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من واجبات السائق على الطرق عدم استعمال مكابح مركبته بصورة مفاجئة لتخفیف سرعتھا.",
+        "text_en": "It is the driver's duty not to use the vehicle's brakes suddenly to reduce speed.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من الامور التي یجب على السائق التأكد منھا قبل البدء بالدوران على شكل U:",
+        "text_en": "Before making a U-turn, the driver must ensure:",
+        "options_ar": [
+            "النظر في المرایا الخارجیة والداخلیة",
+            "فحص النقاط العمیاء والتحقق من رؤیة المركبات القادمة بوضوح",
+            "البدء بالدوران على شكل U بعد التحقق من أن القیام بذلك لن یؤدي إلى إعاقة حركة المركبات",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Checking the external and internal mirrors.",
+            "Checking blind spots and ensuring oncoming vehicles are clearly visible.",
+            "Starting the U-turn only after ensuring it will not obstruct traffic.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "لا یجوز لسائق مركبة الطوارئ أن یبث نورا متقطعا (اللواح) أو أن یطلق صوتا بواسطة أجھزة التنبیه الصوتیة إلا إذا كان ذلك ضروریا لتأدیة واجب",
+        "text_en": "An emergency vehicle driver must not operate flashing lights or sound warning devices unless it is necessary to perform duty.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند تقاطع طرق مع سكة حدید فإن الاولویة تكون:",
+        "text_en": "At an intersection with a railway line, priority is given to:",
+        "options_ar": [
+            "للمركبات .",
+            "للقطار .",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Vehicles",
+            "The train",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "التقاطع المتكافئ ھو:",
+        "text_en": "An equal (uncontrolled) intersection is:",
+        "options_ar": [
+            "تقاطع غیر محكوم بشرطي مرور ولا ضوابط مروریة كالإشارات الضوئیة والشواخص المروریة والعلامات الأرضیة .",
+            "تقاطع محكوم بشراضي مرور وضوابط مروریة كالإشارات الضوئیة والشواخص المروریة والعلامات الأرضیة .",
+            "تقاطع غیر محكوم بشرطي مرور ولكن یوجد ضوابط مروریة كالإشارات الضوئیة والشواخص المروریة والعلامات الأرضیة .",
+            "لاشئ مما ذكر."
+        ],
+        "options_en": [
+            "An intersection not controlled by a traffic officer and without traffic controls such as lights, signs, or road markings.",
+            "An intersection controlled by a traffic officer and traffic controls such as lights, signs, or road markings.",
+            "An intersection not controlled by a traffic officer but with traffic controls such as lights, signs, or road markings.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند اقتراب السائق من الدوار علیه ان یدخل الدوار في حال وجود مساحه فارغة كافیة لمروره.",
+        "text_en": "When approaching a roundabout, the driver must enter only if there is sufficient clear space for passage.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "عند وصول السائق الى تقاطع طرق منظم بإشارة مرور ضوئیة علیه:",
+        "text_en": "When arriving at an intersection controlled by traffic lights, the driver must:",
+        "options_ar": [
+            "السیر بمركبته بحذر وانتباه في المواقع التي تكون فیھا الاشارة الضوئیة صفراء متقطعة",
+            "التخفیف من السرعة",
+            "الوقوف قبل خط الوقوف المخصصواعطاء الاولویة للمركبات الاخرى اذا كانت الاشارة الضوئیة حمراء والعبور اذا كانت خضراء.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Drive cautiously and attentively where the traffic light is flashing yellow.",
+            "Reduce speed.",
+            "Stop before the designated stop line and give priority to other vehicles if the light is red; proceed if it is green.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "في حال وجود مركبتان متقابلتان على التقاطع تقع كل منھما على یسار الاخرى\nوكانت احداھما تشیر الى انھا ستتجه الى یمینھا والاخرى الى الیسار تكون الاولویة:",
+        "text_en": "If two vehicles face each other at an intersection and one signals to turn right while the other signals to turn left, priority is given to:",
+        "options_ar": [
+            "للمركبة المتجھةُ الى الیمین .",
+            "للمركبة المتجھةُ الى الیسار.",
+            "لاشيء مما ذكر."
+        ],
+        "options_en": [
+            "The vehicle turning right.",
+            "The vehicle turning left.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "في حال تعددت المسارب فعلى سائق المركبة السیر في مسرب محدد.",
+        "text_en": "When multiple lanes exist, the driver must remain in a designated lane.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند وصول السائق إلى تقاطع طرق منظم بإشارة مرور ضوئیة علیه التوقف بمركبته قبل خط التوقف المخصص لذلك عند ظھور الضوء الأحمر",
+        "text_en": "At an intersection controlled by traffic lights, the driver must stop the vehicle before the designated stop line when the red light appears.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على السائق قبل التحرك بمركبته او ایقافھا او تغییر اتجاھھا او تحویلھا من مسرب لاخر النظر في المراة الداخلیة والمراة الجانبیة للتأكد من ان الوضع امن.",
+        "text_en": "Before moving, stopping, changing direction, or changing lanes, the driver must check the internal and side mirrors to ensure the situation is safe.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "تكون الاولویة لمركبات المواكب الرسمیة اثناء قیامھا بالواجب واستخدامھا الاشارات او المنبھات الدالة على ذلك.",
+        "text_en": "Official convoy vehicles have priority while performing their duty when using signals or sirens.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند وصول السائق الى تقاطع طرق منظم بإشارة مرور ضوئیة علیه الاستعداد للحركة بمركبته عند ظھور الضوء الاصفر بعد الضوء الأحمر.",
+        "text_en": "At a traffic-light controlled intersection, the driver should be prepared to move when the yellow light appears after the red.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "اذا كان سائق المركبة متخذ مسرب خاطئ داخل الدوار فعلیه اكمال دورة كاملة حول الدوار ثم تغیر مسربه بشكل تدریجي.",
+        "text_en": "If the driver is in the wrong lane inside a roundabout, he must complete a full circuit of the roundabout and then change lanes gradually.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من واجبات السائق على الطرق:",
+        "text_en": "Driver obligations on the road include:",
+        "options_ar": [
+            "عدم التجاوز بمركبته السرعة القصوى المحددة على الطریق",
+            "التخفیف من سرعة مركبته عند مروره بالمناطق المأھولة بالسكان",
+            "عدم السیر ببطء غیر عادي دون مبرر وبصورة تعیق حركة المرور الطبیعیة لباقي المركبات",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Not exceeding the maximum speed limit on the road.",
+            "Reducing speed when passing through populated areas.",
+            "Not driving unusually slowly without reason in a way that obstructs normal traffic.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "یجب على السائق الإلتزام بالجانب الایمن من الطریق لتمكین المركبات القادمة من الخلف بتجاوز مركبته.",
+        "text_en": "The driver must keep to the right side of the road to allow vehicles coming from behind to overtake.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "اذا كان ھناك مركبتان متقابلتان على التقاطع تقع كل منھما على یسار الاخرى وكانت احداھما تشیر الى انھا ستتجه الى الیسار والاخرى بإستقامة تكون الاولویة:",
+        "text_en": "If two vehicles face each other at an intersection and one signals to turn left while the other goes straight, priority is given to:",
+        "options_ar": [
+            "للمركبة المتجه بإستقامة.",
+            "للمركبة المتجه الى الیسار.",
+            "لمن یسبق قبل الاخر .",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "The vehicle going straight.",
+            "The vehicle turning left.",
+            "Whoever proceeds first.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على السائق عند استخدامھ الطریق الرئیسي، مفصول الاتجاھات, عدم الدوران للاتجاه المعاكس إلا في الأماكن المخصصة لذلك",
+        "text_en": "When using a divided main road, the driver must not make a U-turn except in places designated for that purpose.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من الحالات التي لا یجوز للسائق الدوران بالاتجاه المعاكس.",
+        "text_en": "Cases in which the driver is not permitted to make a U-turn:",
+        "options_ar": [
+            "اذا كان الدوران یعیق حركة السیر او یعرض مستخدمي الطریق للخطر",
+            "اذا كان الدوران بالقرب من منعطف او قمة منحدرة",
+            "في مكان یتعذر مشاھدة مركبته من قبل سائق مركبة اخرى.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "If the turn would obstruct traffic or endanger road users.",
+            "If the turn is near a curve or the crest of a hill.",
+            "In a place where the vehicle cannot be seen by another driver.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "تصنف تقاطعات الطرق إلى:",
+        "text_en": "Intersections are classified into:",
+        "options_ar": [
+            "تقاطعات على مستوى واحد",
+            "تقاطع متعدد المستویات",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Single-level (at-grade) intersections.",
+            "Multi-level intersections.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "یجب على السائق الإلتزام بالجانب الایمن من الطریق للانتقال الى طریق اخر یقع على یمینه.",
+        "text_en": "The driver must keep to the right side of the road when moving to another road located on his right.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجب على السائق الإلتزام بالجانب الایمن من الطریق عند الاقتراب من المنعطفات او من رؤوس المرتفعات.",
+        "text_en": "The driver must keep to the right side of the road when approaching bends or hill crests.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یشترط في التقاطع المتكافئ أن تكون جمیع طرقھ معبدة أو مسفلتة",
+        "text_en": "An equal intersection requires that all its roads be paved or asphalted.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "تخفیف السرعة و الاستعداد للوقوف من الامور التي على السائق التقید بھا عند رؤیته للضوء الاخضر المتقطع .",
+        "text_en": "Reducing speed and preparing to stop are measures the driver must take when seeing a flashing green light.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على السائق في حال استخدامه الطریق الرئیسي، مفصول الاتجاھات، عدم التوقف بمركبته على مسارب الطریق.",
+        "text_en": "When using a divided main road, the driver must not stop his vehicle on the traffic lanes.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند وجود مركبة قادمة من طریق رئیسي على تقاطع واخرى قادمة من طریق فرعی تكون الاولویة :",
+        "text_en": "When a vehicle approaches an intersection from a main road and another from a side road, priority is given to:",
+        "options_ar": [
+            "للقادم من الطریق الفرعي.",
+            "للقادم من الطریق الرئیسي",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "The vehicle coming from the side road.",
+            "The vehicle coming from the main road.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "یمنع السائق من التحول بمركبته نحو الیمین اذا وجدت مركبة على یمینة تمنعھ من الالتفاف یمینا.",
+        "text_en": "The driver is prohibited from turning right if there is a vehicle on his right that prevents him from making the turn.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجوز لسائق مركبة الطوارئ أن یبث نورا متقطعا (اللواح) أو أن یطلق صفارة الإنذار في الأوقات العادیة",
+        "text_en": "An emergency vehicle driver is permitted to operate flashing lights or sound the siren during normal times.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "تكون الاولویة لمركبات الانقاذ والشرطة اثناء قیامھا بالواجب واستخدامھا الاشارات او المنبھات الدالة على ذلك.",
+        "text_en": "Rescue and police vehicles have priority while performing their duties when using signals or sirens.",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على السائق قبل التحرك بمركبته او ایقافھا او تغییر اتجاھھا او تحویلھا من مسرب لاخر اعطاء اشارة الاتجاه الضوئیة (الغماز)",
+        "text_en": "Before moving, stopping, changing direction, or changing lanes, the driver must give a light signal (indicator).",
+        "options_ar": [
+            "نعم",
+            "لا"
+        ],
+        "options_en": [
+            "Yes",
+            "No"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "على السائق قبل التحرك بمركبته او ایقافھا او تغییر اتجاھھا او تحویلھا من مسرب لاخر:",
+        "text_en": "Before moving, stopping, changing direction, or changing lanes, the driver must:",
+        "options_ar": [
+            "النظر في المراة الداخلیة والمراة الجانبیة للتأكد من ان الوضع امن .",
+            "اعطاء اشارة الاتجاه الضوئیة (الغماز) وفي حال تعطل الغماز علیه استعمال الاشارة الیدویة قبل المباشرة بالحركة بوقت كاف.",
+            "جمیع ماذكر ."
+        ],
+        "options_en": [
+            "Check the internal and side mirrors to ensure the situation is safe.",
+            "Give the light signal (indicator), and if the indicator is not working, use a hand signal sufficiently in advance.",
+            "All of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "اذا كان تقاطع الطرق غیر منظم بواسطة شرطي مرور او اشارة ضوئیة او شواخص او علامات ارضیة تكون الاولویة عند تساوي الاولویات :",
+        "text_en": "If an intersection is not controlled by a traffic officer, traffic light, signs, or road markings, priority when priorities are equal is given to:",
+        "options_ar": [
+            "للمركبة القادمة على التقاطع من یمینك.",
+            "للمركبة القادمة على التقاطع من یسارك.",
+            "لأي مركبه موجودة على التقاطع.",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "The vehicle approaching the intersection from your right.",
+            "The vehicle approaching the intersection from your left.",
+            "Any vehicle already in the intersection.",
+            "None of the above."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    }
+]

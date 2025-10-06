@@ -1,0 +1,650 @@
+[
+    {
+        "text_ar": "من طرق الإسعافات الأولیة للجروح (إیقاف النزیف):",
+        "text_en": "Methods of first aid for wounds (stopping bleeding):",
+        "options_ar": [
+            "الضغط المباشر بالأصابع على مكان النزیف",
+            "الربط بواسطة رباط شاش أو الرباط الضاغط",
+            "رفع الجزء المصاب أعلى من مستوى القلب في حالات جروح الأطراف",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Direct finger pressure on the bleeding site",
+            "Bandaging with gauze or a pressure bandage",
+            "Raising the injured part above heart level in limb wounds",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "لایجوز لأي شخص فتح أبواب المركبة ولا یجوز لسائقھا السماح لركابھا بفتحھا أو تركھا مفتوحة أو النزول من المركبة قبل التأكد من أن ذلك لا یعرض سلامة مستخدمي الطریق للخطر",
+        "text_en": "No one may open the vehicle doors, nor may the driver allow passengers to open, leave them open, or exit without ensuring the safety of road users.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحرص سائق المركبة على تشغیل الاضواء الامامیة عند:",
+        "text_en": "The driver must switch on the headlights when:",
+        "options_ar": [
+            "القیادة في الفترة بین غروب الشمس وشروقھا",
+            "القیادة في أي وقت آخر من الیوم عندما یكون الضوء غیر كافٍ لرؤیة شخص من مسافة ١٠٠ مترا",
+            "جمیع ماذكر"
+        ],
+        "options_en": [
+            "Driving between sunset and sunrise",
+            "Driving at any other time of day when light is insufficient to see a person at 100 meters",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "یحتوي صندوق الإسعافات الأولیة على مشابك عدة احجام.",
+        "text_en": "The first aid kit contains clips of various sizes.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجب على السائق في حال ارتكب حادث مروري نجم عنه وفاة شخص او إصابته:",
+        "text_en": "If a traffic accident caused death or injury, the driver must:",
+        "options_ar": [
+            "نقل المصاب في مركبة اخرى اذا تعذر اسعافه بسیارة اسعاف",
+            "استدعاء سیارة الاسعاف والشرطة والاطفاء",
+            "الانتظار الى جانب المصاب حتى وصول خدمات الانقاذ الیه",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Transport the injured in another vehicle if an ambulance is not available",
+            "Call an ambulance, police, and fire services",
+            "Wait next to the injured until rescue services arrive",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "المسعف ھو الشخص الذي یقوم بتقدیم الإسعافات الأولیة والعنایة بالمصاب ممن تعرض لحالة مرضیة مفاجئة بشرط ان یكون مؤھلا للقیام بھذا العمل .",
+        "text_en": "A first aider is a person who provides first aid and care to someone with a sudden medical condition, provided they are qualified to do so.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحظر على السائق استعمال انوار الطریق العالیة للسیارات المقابلة لاي سبب كان وضمن المناطق المنارة سواء اكانت الطریق مأھولة بالسكان ام غیر مأھولة.",
+        "text_en": "The driver is prohibited from using high beams toward oncoming vehicles for any reason, even in lit areas, whether populated or not.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من أولویات الاسعافات الاولیة:",
+        "text_en": "Priorities of first aid include:",
+        "options_ar": [
+            "فتح وإزالة العوائق من مجاري التنفس.",
+            "إجراء التنفس الاصطناعي.",
+            "العنایة بإصابات الجھاز الدوراني من حیث القیام بتدلیك القلب.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Clearing airway obstructions",
+            "Performing artificial respiration",
+            "Caring for circulatory injuries by heart massage",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "یحظر على السائق استعمال اجھزة التنبیه الصوتیة:",
+        "text_en": "The driver is prohibited from using sound horns:",
+        "options_ar": [
+            "ضمن المناطق المأھولة بالسكان الا عند الضرورة وبصورة خفیفة متقطعة",
+            "بین غروب الشمس وشروقھا وعلى السائق الاكتفاء خلال تلك المدة باستعمال اجھزة التنبیه الضوئیة",
+            "جمیع ماذكر"
+        ],
+        "options_en": [
+            "In populated areas except when necessary, and lightly, intermittently",
+            "Between sunset and sunrise, using only light signals instead",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "عند صعود الركاب الى المركبة او النزول منھا یجب ان یكون:",
+        "text_en": "When passengers board or exit the vehicle, it must be:",
+        "options_ar": [
+            "من المكان المخصص للصعود ونزول الركاب اذا كان في المركبة مثل ھذا المكان.",
+            "من الجانب الایمن لسیارة الركوب العمومي.",
+            "من الجانب الایمن اذا كانت واقفة على الجانب الایمن من الطریق",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "From the designated boarding/alighting point if available",
+            "From the right side of a public transport vehicle",
+            "From the right side if parked on the right side of the road",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من طرق الإسعافات الأولیة للجروح (إیقاف النزیف):",
+        "text_en": "Methods of first aid for wounds (stopping bleeding):",
+        "options_ar": [
+            "الضغط المباشر بالأصابع على مكان النزیف",
+            "الربط بواسطة رباط شاش أو الرباط الضاغط",
+            "رفع الجزء المصاب أعلى من مستوى القلب في حالات جروح الأطراف",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Direct finger pressure on the bleeding site",
+            "Bandaging with gauze or a pressure bandage",
+            "Raising the injured part above heart level in limb wounds",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "لایجوز لأي شخص فتح أبواب المركبة ولا یجوز لسائقھا السماح لركابھا بفتحها أو تركھا مفتوحة أو النزول من المركبة قبل التأكد من أن ذلك لا یعرض سلامة مستخدمي الطریق للخطر",
+        "text_en": "No one may open the vehicle doors, nor may the driver allow passengers to open, leave them open, or exit without ensuring the safety of road users.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحرص سائق المركبة على تشغیل الاضواء الامامیة عند:",
+        "text_en": "The driver must switch on the headlights when:",
+        "options_ar": [
+            "القیادة في الفترة بین غروب الشمس وشروقھا",
+            "القیادة في أي وقت آخر من الیوم عندما یكون الضوء غیر كافٍ لرؤیة شخص من مسافة ١٠٠ مترا",
+            "جمیع ماذكر"
+        ],
+        "options_en": [
+            "Driving between sunset and sunrise",
+            "Driving at any other time of day when light is insufficient to see a person at 100 meters",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "یحتوي صندوق الإسعافات الأولیة على مشابك عدة احجام.",
+        "text_en": "The first aid kit contains clips of various sizes.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجب على السائق في حال ارتكب حادث مروري نجم عنه وفاة شخص او إصابته:",
+        "text_en": "If a traffic accident caused death or injury, the driver must:",
+        "options_ar": [
+            "نقل المصاب في مركبة اخرى اذا تعذر اسعافه بسیارة اسعاف",
+            "استدعاء سیارة الاسعاف والشرطة والاطفاء",
+            "الانتظار الى جانب المصاب حتى وصول خدمات الانقاذ الیه",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Transport the injured in another vehicle if an ambulance is not available",
+            "Call an ambulance, police, and fire services",
+            "Wait next to the injured until rescue services arrive",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "المسعف ھو الشخص الذي یقوم بتقدیم الإسعافات الأولیة والعنایة بالمصاب ممن تعرض لحالة مرضیة مفاجئة بشرط ان یكون مؤھلا للقیام بھذا العمل .",
+        "text_en": "A first aider is a person who provides first aid and care to someone with a sudden medical condition, provided they are qualified to do so.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحظر على السائق استعمال انوار الطریق العالیة للسیارات المقابلة لاي سبب كان وضمن المناطق المنارة سواء اكانت الطریق مأھولة بالسكان ام غیر مأھولة.",
+        "text_en": "The driver is prohibited from using high beams toward oncoming vehicles for any reason, even in lit areas, whether populated or not.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من أولویات الاسعافات الاولیة:",
+        "text_en": "Priorities of first aid include:",
+        "options_ar": [
+            "فتح وإزالة العوائق من مجاري التنفس.",
+            "إجراء التنفس الاصطناعي.",
+            "العنایة بإصابات الجھاز الدوراني من حیث القیام بتدلیك القلب.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Clearing airway obstructions",
+            "Performing artificial respiration",
+            "Caring for circulatory injuries by heart massage",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "یحظر على السائق استعمال اجھزة التنبیه الصوتیة:",
+        "text_en": "The driver is prohibited from using sound horns:",
+        "options_ar": [
+            "ضمن المناطق المأھولة بالسكان الا عند الضرورة وبصورة خفیفة متقطعة",
+            "بین غروب الشمس وشروقھا وعلى السائق الاكتفاء خلال تلك المدة باستعمال اجھزة التنبیه الضوئیة",
+            "جمیع ماذكر"
+        ],
+        "options_en": [
+            "In populated areas except when necessary, and lightly, intermittently",
+            "Between sunset and sunrise, using only light signals instead",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "عند صعود الركاب الى المركبة او النزول منھا یجب ان یكون:",
+        "text_en": "When passengers board or exit the vehicle, it must be:",
+        "options_ar": [
+            "من المكان المخصص للصعود ونزول الركاب اذا كان في المركبة مثل ھذا المكان.",
+            "من الجانب الایمن لسیارة الركوب العمومي.",
+            "من الجانب الایمن اذا كانت واقفة على الجانب الایمن من الطریق",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "From the designated boarding/alighting point if available",
+            "From the right side of a public transport vehicle",
+            "From the right side if parked on the right side of the road",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یقصد بأولویات الاسعاف بأنھا الترتیب في إجراءات الإسعاف من الاھم الى الاقل اھمیة.",
+        "text_en": "First aid priorities mean arranging aid procedures from most important to least important.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجب على السائق في حال ارتكب حادث مروري نجم عنه وفاة شخص أو اصابتة",
+        "text_en": "If a traffic accident causes death or injury, the driver must:",
+        "options_ar": [
+            "تبلیغ شرطة السیر او اقرب مركز امني عن الحادث",
+            "الحرص على منع أي ضرر اضافي للمصاب",
+            "تقدیم الاسعاف الاولي الضروري للمصاب.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Report the accident to the traffic police or nearest security center",
+            "Ensure no additional harm comes to the injured",
+            "Provide necessary first aid to the injured",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "عند صعود الركاب إلى المركبة أو النزول منھایجب أن یكون من جانبھا الأیمن إذا كانت واقفة على الجانب الایمن من الطریق.",
+        "text_en": "When passengers board or exit the vehicle, it should be from the right side if it is parked on the right side of the road.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحتوي صندوق الإسعافات الأولیة على وسادة إسفنجیة صغیرة.",
+        "text_en": "The first aid kit contains a small sponge pad.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یجب على المسعف أن یكون مؤھلاً للقیام بھذا العمل بحصوله على التدریب المناسب بالمراكز الصحیة المتخصصة ولدیه المعلومات التي تمكنه من تقدیم الإسعافات الأولیة للمصاب.",
+        "text_en": "The first aider must be qualified, having received proper training at specialized health centers and possess the knowledge to provide first aid to the injured.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحظر على السائق أن ینقل في مركبته المخصصة لنقل البضائع:",
+        "text_en": "It is forbidden for the driver to transport in a goods vehicle:",
+        "options_ar": [
+            "حمولة یتصاعد منھا الغبار او تنساب منھا أي مادة",
+            "فحما او رمادا جافا الا في مركبة مخصصة لذلك وبعد ان تغطى الحمولة بشكل یمنع الغبار او انسیاب أي مادة منھا",
+            "رمادا متطایرا او اسمنتا الا في مركبة مخصصة لذلك ومعتمدة من الجھات المختصة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Cargo that produces dust or leaks any material",
+            "Coal or dry ash only in a vehicle designed for that, with the load covered to prevent dust or leakage",
+            "Flying ash or cement only in an authorized vehicle approved by competent authorities",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "لا یجوز للسائق استخدام انوار الطوارئ (الغمازات الرباعیة) عند وجود الضباب والغبار الكثیف وفي ھذه الحالة علیه استخدام انوار الطریق المنخفضة.",
+        "text_en": "The driver must not use hazard lights (quad flashers) in dense fog or dust; in this case, low beam headlights must be used.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحتوي صندوق الإسعافات الأولیة على:",
+        "text_en": "The first aid kit contains:",
+        "options_ar": [
+            "رباط مثلث",
+            "علاقات وجبائر صغیرة",
+            "قفاز مطاطي",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Triangular bandage",
+            "Small splints and slings",
+            "Rubber gloves",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "من الإسعافات الأولیة للصدمة:",
+        "text_en": "First aid for shock includes:",
+        "options_ar": [
+            "أبقاء المصاب في وضع تمدد مع خفض الرأس أسفل مستوى الجسم ورفع الأطراف السفلى للأعلى",
+            "الحفاظ على المصاب دافئا وًذلك من خلال وضع البطانیات والملابس الإضافیة فوق وتحت المصاب",
+            "طلب المساعدة الطبیة بأقصى سرعة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Keep the patient lying down with head lower than body and elevate legs",
+            "Keep the patient warm using blankets or extra clothing above and below",
+            "Call for medical help as quickly as possible",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "یجوز للسائق استخدام انوار الطوارئ (الغمازات الرباعیة) عند وجود الضباب والغبار الكثیف.",
+        "text_en": "The driver may use hazard lights (quad flashers) in dense fog or dust.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "یحتوي صندوق الإسعافات الأولیة على:",
+        "text_en": "The first aid kit contains:",
+        "options_ar": [
+            "تشكیلة قطع مربعة من الشاش المعقم الجاف بأحجام مختلفة",
+            "ضمادات شاش باحجام مختلفة",
+            "ضمادات عیون بیضاویة الشكل",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Set of dry sterile gauze squares of various sizes",
+            "Gauze bandages of different sizes",
+            "Oval-shaped eye pads",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "اذا كانت عجلات المركبة من الجنزیر او ما یماثلھا فلا یجوز لھا ان تسیر على طریق معبد.",
+        "text_en": "If the vehicle has tracks or similar, it must not travel on paved roads.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند صعود الركاب الى المركبة او النزول منھا یجب ان یكون:",
+        "text_en": "When passengers board or exit the vehicle, it must be:",
+        "options_ar": [
+            "من المكان المخصص للصعود ونزول الركاب اذا كان في المركبة مثل ھذا المكان",
+            "من الجانب الایسر لسیارة الركوب العمومي",
+            "من الجانب الأیسر إذا كانت واقفة على الجانب الایمن من الطریق",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "From the designated boarding/alighting point if available",
+            "From the left side of a public transport vehicle",
+            "From the left side if parked on the right side of the road",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند صعود الركاب الى المركبة او النزول منھا یجب ان تكون واقفة.",
+        "text_en": "When passengers board or exit the vehicle, it must be stationary.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "یحظر على السائق استعمال اجھزة التنبیه الصوتیة:",
+        "text_en": "It is forbidden for the driver to use sound warning devices:",
+        "options_ar": [
+            "أثناء وقوف المركبة.",
+            "بالقرب من المستشفیات والمدارس واماكن العبادة.",
+            "بصفة مستمرة وبدون مبرر وبطریقة تزعج المشاة او تقلق راحة الآخرین.",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "While the vehicle is parked",
+            "Near hospitals, schools, and places of worship",
+            "Continuously and without reason in a way that annoys pedestrians or disturbs others",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "الصدمة ھي:",
+        "text_en": "Shock is:",
+        "options_ar": [
+            "حالة مرضیة تحدث بسبب ھبوط حاد في الدورة الدمویة مما یؤدي إلى عدم وصول الأوكسجین بكمیات كافیة إلى أنسجة الجسم وخاصة أنسجة المخ",
+            "حالة مرضیة تحدث بسبب ھبوط في الدورة الدمویة مما یؤدي إلى وصول الأوكسجین بكمیات كافیة إلى أنسجة الجسم وخاصة أنسجة المخ.",
+            "حالة مرضیة تحدث بسبب إرتفاع في الدورة الدمویة مما یؤدي إلى وصول الأوكسجین بكمیات كافیة إلى أنسجة الجسم وخاصة أنسجة المخ.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "A medical condition caused by a severe drop in blood circulation leading to insufficient oxygen reaching body tissues, especially the brain",
+            "A medical condition caused by a drop in blood circulation leading to sufficient oxygen reaching body tissues, especially the brain",
+            "A medical condition caused by increased blood circulation leading to sufficient oxygen reaching body tissues, especially the brain",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من مسؤولیة المسعف الأولي:",
+        "text_en": "It is the responsibility of the first aider to:",
+        "options_ar": [
+            "تقییم الموقف",
+            "طمأنة المصاب",
+            "محاولة إیقاف النزیف إذا وجد",
+            "جمیع ما ذكر"
+        ],
+        "options_en": [
+            "Assess the situation",
+            "Reassure the patient",
+            "Try to stop bleeding if present",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "من الإصابات التي تتطلب إسعافات أولیة:",
+        "text_en": "Injuries that require first aid include:",
+        "options_ar": [
+            "الجروح – النزیف – الكسور والحروق",
+            "ضربات الشمس والإجھاد الحراري والتشنجات الحراریة",
+            "أ + ب.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Wounds, bleeding, fractures, and burns",
+            "Sunstroke, heat exhaustion, and heat cramps",
+            "A + B",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "من الأمور التي یتوجب على السائق القیام بھا إذا ارتكب حادث مروري نجم عنه أضرار مادیة وكان سائق المركبة الأخرى أو الجسم المتضرر غیر موجود في مكان الحادث:",
+        "text_en": "Actions the driver must take if involved in an accident causing material damage and the other vehicle’s driver or damaged property owner is not present:",
+        "options_ar": [
+            "التبلیغ عن ھذا الحادث واعطاء المعلومات اللازمة لذلك خلال ( ٤٨ ) ساعة.",
+            "ترك اشعار خطي في مكان ظاھر للعیان من المركبة المتضررة او الجسم المتضرر في حالة كان سائق المركبة المتضررة او الجسم المتضرر غیر موجود.",
+            "جمیع ماذكر"
+        ],
+        "options_en": [
+            "Report the accident and provide necessary information within 48 hours",
+            "Leave a written notice in a visible place on the damaged vehicle or property if the other party is absent",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "یحظر سوق أي مركبة على الطریق بصورة تلحق ضررا به او بمستخدمی الطریق سواء اكان ذلك ناجما عن خلل بالمركبة ام بسبب حمولتھا.",
+        "text_en": "It is forbidden to drive any vehicle on the road in a way that causes harm to the road or its users, whether due to a vehicle defect or its load.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "عند صعود الركاب إلى المركبة أو النزول منھا یجب أن یكون من جانبھا الأیمن إذا كانت واقفة على الجانب الایسر من الطریق.",
+        "text_en": "When passengers board or exit the vehicle, it should be from the right side if the vehicle is parked on the left side of the road.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "یحتوي صندوق الإسعافات الأولیة على سافلون أو دیتول.",
+        "text_en": "The first aid kit contains Savlon or Dettol.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "لا یجوز للسائق قیادة مركبته الا اذا كانت ابوابھا مغلقة وعلیه اتخاذ جمیع تدابیر الحذر اللازمة لضمان سلامة ركابھا ومن ھم على مقربة منھا.",
+        "text_en": "The driver must not drive the vehicle unless its doors are closed and must take all necessary precautions to ensure the safety of its passengers and nearby people.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من خطوات عمل المسعف:",
+        "text_en": "Steps in the first aider’s work include:",
+        "options_ar": [
+            "أن یتصرف في حدود معلوماته الطبیة التي تمكنه من تقدیم الإسعافات الأولیة",
+            "أن یطمئن المصاب ویھدىء من روعه ویزیل اضطرابه وتشجیعه ومعاملته بلطف والتخفیف من انزعاجه",
+            "أن لا یسمح بتزاحم الناس حول المصاب لیساعده على التنفس وتھدئة المصاب",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Act within their medical knowledge to provide first aid",
+            "Reassure and calm the patient, reduce their anxiety, encourage them, and treat them gently",
+            "Prevent crowding around the patient to help them breathe and stay calm",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "یحظر تركیب أو استعمال أي نوع من الأجھزة التي تخرج صوتا على ماسورة غاز العادم",
+        "text_en": "It is forbidden to install or use any device that produces sound on the exhaust pipe.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من الإصابات التي تتطلب إسعافات أولیة الجروح – النزیف – الكسور والحروق.",
+        "text_en": "Injuries that require first aid include wounds, bleeding, fractures, and burns.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من الإصابات التي تتطلب إسعافات أولیة:",
+        "text_en": "Injuries that require first aid include:",
+        "options_ar": [
+            "إصابات الجھاز التنفسي مثل الإختناق وفشل التنفس",
+            "إصابات القلب مثل الذبحة الصدریة وتوقف القلب",
+            "الإغماء – الغيبوبة – الصدمة",
+            "جمیع ما ذكر."
+        ],
+        "options_en": [
+            "Respiratory system injuries such as choking and respiratory failure",
+            "Heart injuries such as angina and cardiac arrest",
+            "Fainting, coma, shock",
+            "All of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 3
+    },
+    {
+        "text_ar": "یحظر على السائق استعمال اجھزة التنبیه الصوتیة:",
+        "text_en": "It is forbidden for the driver to use sound warning devices:",
+        "options_ar": [
+            "اثناء وقوف المركبة.",
+            "في الشوارع الرئیسیة .",
+            "لاشئ ماذكر"
+        ],
+        "options_en": [
+            "While the vehicle is parked",
+            "On main streets",
+            "None of the above"
+        ],
+        "imageURL": null,
+        "correctIndex": 2
+    },
+    {
+        "text_ar": "تتم الإسعافات الأولیة من خلال إیقاف النزیف والسیطرة علیه في حالات الجروح والكسور و الحروق أو من خلال تجبیر وتثبیت الكسور.",
+        "text_en": "First aid is performed by stopping and controlling bleeding in cases of wounds, fractures, and burns, or by splinting and stabilizing fractures.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "من الإصابات التي تتطلب إسعافات أولیة إصابات خاصة مثل إصابات العین وإصابات الأنف.",
+        "text_en": "Injuries that require first aid include special injuries such as eye injuries and nose injuries.",
+        "options_ar": ["نعم", "لا"],
+        "options_en": ["Yes", "No"],
+        "imageURL": null,
+        "correctIndex": 0
+    }
+]

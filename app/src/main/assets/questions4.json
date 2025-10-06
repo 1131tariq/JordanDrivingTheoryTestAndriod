@@ -1,0 +1,722 @@
+[
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "مرتفع حاد.",
+            "منحدر حاد.",
+            "منحدر خطر.",
+            "لاشيء مما ذكر."
+        ],
+        "options_en": [
+            "Sharp incline.",
+            "Sharp slope.",
+            "Dangerous slope.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.1"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك سكة حدید مع حاجز.",
+            "امامك سكة حدید دون حاجز.",
+            "امامك قطار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Railway crossing with a barrier ahead.",
+            "Railway crossing without a barrier ahead.",
+            "Train ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.2"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممر مشاة.",
+            "وجود أطفال.",
+            "ممنوع المرور.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Pedestrian crossing.",
+            "Children present.",
+            "No through traffic.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.3"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق مفصول.",
+            "طریق ذو اتجاھین.",
+            "إنتھاء الطریق المفصول بجزیرة وسطیة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Separated road.",
+            "Two-way road.",
+            "End of separated road with a median island.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.4"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "منطقة جبلیة",
+            "ریاح شدیدة من الیمین.",
+            "ریاح شدیدة من الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mountainous area",
+            "Strong wind from the right.",
+            "Strong wind from the left.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.5"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الشحن ذات الوزن الاجمالي ( ٢) طن او اقل على الطرق الفرعیة والتي یقع علیھا مدارس ھو :",
+        "text_en": "The maximum speed for cargo cars with a total weight of (2) tons or less on rural roads where schools are located is:",
+        "options_ar": [
+            "30 كم/ساعة.",
+            "40 كم/ساعة.",
+            "50 كم/ساعة.",
+            "60 كم/ساعة."
+        ],
+        "options_en": [
+            "30 km/h.",
+            "40 km/h.",
+            "50 km/h.",
+            "60 km/h."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "منطقة جبلیة",
+            "ریاح شدیدة من الیمین.",
+            "ریاح شدیدة من الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Mountainous area",
+            "Strong wind from the right.",
+            "Strong wind from the left.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.7"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "منعطف للیسار.",
+            "منعطف للیمین.",
+            "منعطف خطر.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Curve to the left.",
+            "Curve to the right.",
+            "Dangerous curve.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.8"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "تساقط حجارة من الیمین.",
+            "تساقط حجارة من الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Dangerous road.",
+            "Falling rocks from the right.",
+            "Falling rocks from the left.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.9"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق غیر مستوى.",
+            "یجب الانتباه.",
+            "اعمال على الطریق.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Uneven road.",
+            "Attention required.",
+            "Roadworks.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.10"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "تساقط حجارة من الیمین.",
+            "تساقط حجارة من الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Dangerous road.",
+            "Falling rocks from the right.",
+            "Falling rocks from the left.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.11"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "تضیق الطریق من الیسار.",
+            "تضیق الطریق من الیمین.",
+            "تضیق خطر.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Road narrows from the left.",
+            "Road narrows from the right.",
+            "Dangerous narrowing.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.12"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك سكة حدید مع حاجز زجاجي",
+            "امامك سكة حدید دون حاجز.",
+            "امامك قطار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Railway crossing with a barrier ahead",
+            "Railway crossing without a barrier ahead.",
+            "Train ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.13"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الشحن ذات الوزن الاجمالي اكثر من ( ٢) طن على الطرق الفرعیة داخل المدن والقرى ھو:",
+        "text_en": "The maximum speed for cargo cars with a total weight of more than (2) tons on rural roads inside cities and villages is:",
+        "options_ar": [
+            "40 كم/ساعة.",
+            "50 كم/ساعة.",
+            "60 كم/ساعة.",
+            "70 كم/ساعة."
+        ],
+        "options_en": [
+            "40 km/h.",
+            "50 km/h.",
+            "60 km/h.",
+            "70 km/h."
+        ],
+        "imageURL": null,
+        "correctIndex": 0
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق مفصول.",
+            "طریق ذو اتجاھین.",
+            "أمامك طریق مفصول بجزیرة وسطیة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Separated road.",
+            "Two-way road.",
+            "Separated road with a median island ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.15"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق غیر مستوى.",
+            "طریق ینتھي إلى رصیف بحر او نھر.",
+            "أمامك شاطئ بحر.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Uneven road.",
+            "Road ends at a river or sea dock.",
+            "Beach ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.16"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "اكتاف خطرة.",
+            "طریق زلقة",
+            "تناثر حصى.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Dangerous shoulders.",
+            "Slippery road.",
+            "Loose gravel.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.17"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "طریق زلقة",
+            "تناثر حصى.",
+            "اكتاف خطرة."
+        ],
+        "options_en": [
+            "Dangerous road.",
+            "Slippery road.",
+            "Loose gravel.",
+            "Dangerous shoulders."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.18"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "انخفاض في مستوى الطریق.",
+            "طریق غیر مستوي.",
+            "مطب.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Dip in the road.",
+            "Uneven road.",
+            "Speed bump.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.19"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك مدرسة.",
+            "وجود طلاب مدارس.",
+            "ممر مشاة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "School ahead.",
+            "Presence of school students.",
+            "Pedestrian crossing.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.20"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الشحن ذات الوزن الاجمالي اكثر من ( ٢) طن خارج\nالمدن والقرى على الطرق الرئیسیة ذات الاتجاھین وغیر المفصولة بجزیرة وسیطة ھو:",
+        "text_en": "The maximum speed for cargo cars with a total weight of more than (2) tons outside cities and villages on two-way main roads without a median island is:",
+        "options_ar": [
+            "١٠٠ كم/ساعة.",
+            "٩٠ كم/ساعة.",
+            "٨٠ كم/ساعة.",
+            "110 كم/ساعة."
+        ],
+        "options_en": [
+            "100 km/h.",
+            "90 km/h.",
+            "80 km/h.",
+            "110 km/h."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.21"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "منعطفات اولھا للیسار.",
+            "منعطفات اولھا للیمین.",
+            "منعطفات خطرة.",
+            "منعطف للیسار."
+        ],
+        "options_en": [
+            "Series of curves, first to the left.",
+            "Series of curves, first to the right.",
+            "Dangerous curves.",
+            "Curve to the left."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.22"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "منعطفات اولھا للیسار.",
+            "منعطفات اولھا للیمین.",
+            "منعطفات خطرة.",
+            "منعطف للیمین."
+        ],
+        "options_en": [
+            "Series of curves, first to the left.",
+            "Series of curves, first to the right.",
+            "Dangerous curves.",
+            "Curve to the right."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.23"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "تضیق الطریق من جھتین.",
+            "امامك جسر.",
+            "تضیق خطر.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Road narrows from both sides.",
+            "Bridge ahead.",
+            "Dangerous narrowing.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.24"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الركوب المتوسطة على الطرق الفرعیة والتي یقع علیھا مدارس ھو :",
+        "text_en": "The maximum speed for medium-sized passenger cars on rural roads where schools are located is:",
+        "options_ar": [
+            "30 كم/ساعة.",
+            "40 كم/ساعة.",
+            "50 كم/ساعة.",
+            "60 كم/ساعة."
+        ],
+        "options_en": [
+            "30 km/h.",
+            "40 km/h.",
+            "50 km/h.",
+            "60 km/h."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الشحن ذات الوزن الاجمالي اكثر من ( ٢) طن داخل المدن والقرى على الطرق الرئیسیة ذات الاتجاھین وغیر المفصولة بجزیرة وسیطة ھو:",
+        "text_en": "The maximum speed for cargo cars with a total weight of more than (2) tons inside cities and villages on two-way main roads without a median island is:",
+        "options_ar": [
+            "70 كم/ساعة.",
+            "50 كم/ساعة.",
+            "60 كم/ساعة.",
+            "40 كم/ساعة."
+        ],
+        "options_en": [
+            "70 km/h.",
+            "50 km/h.",
+            "60 km/h.",
+            "40 km/h."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.26"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "تضیق الطریق من الیسار.",
+            "تضیق الطریق من الیمین.",
+            "تضیق خطر.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Road narrows from the left.",
+            "Road narrows from the right.",
+            "Dangerous narrowing.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.27"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة الحافلات على الطرق الفرعیة والتي یقع علیھا مدارس ھو:",
+        "text_en": "The maximum speed for buses on rural roads with schools is:",
+        "options_ar": [
+            "٣٠ كم/ساعة.",
+            "٤٠ كم/ساعة.",
+            "50 كم/ساعة.",
+            "60 كم/ساعة."
+        ],
+        "options_en": [
+            "30 km/h.",
+            "40 km/h.",
+            "50 km/h.",
+            "60 km/h."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الشحن ذات الوزن الاجمالي اكثر من ( ٢) طن خارج\nالمدن والقرى على الطرق الرئیسیة ذات المسربین او اكثر في كل اتجاه والمفصولة بجزیرة وسیطة ھو:",
+        "text_en": "The maximum speed for cargo cars with a total weight of more than (2) tons outside cities and villages on main roads with two or more lanes in each direction and a median island is:",
+        "options_ar": [
+            "100 كم/ساعة.",
+            "90 كم/ساعة.",
+            "110 كم/ساعة.",
+            "120 كم/ساعة."
+        ],
+        "options_en": [
+            "100 km/h.",
+            "90 km/h.",
+            "110 km/h.",
+            "120 km/h."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.29"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك مطار.",
+            "منطقة طیران منخفض.",
+            "منطقة خطرة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Airport ahead.",
+            "Low-flying aircraft area.",
+            "Dangerous area.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.30"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور الحیوانات.",
+            "منطقة خطرة.",
+            "عبور حیوانات.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No animal traffic.",
+            "Dangerous area.",
+            "Animal crossing.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.31"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الركوب الصغرة على الطرق الفرعیة والتي یقع علیھا مدارس ھو :",
+        "text_en": "The maximum speed for small passenger cars on rural roads where schools are located is:",
+        "options_ar": [
+            "٣٠ كم/ساعة.",
+            "٤٠ كم/ساعة.",
+            "٥٠ كم/ساعة.",
+            "٦٠ كم/ساعة."
+        ],
+        "options_en": [
+            "30 km/h.",
+            "40 km/h.",
+            "50 km/h.",
+            "60 km/h."
+        ],
+        "imageURL": null,
+        "correctIndex": 1
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "منعطف للیسار.",
+            "منعطف للیمین.",
+            "منعطف خطر.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Curve to the left.",
+            "Curve to the right.",
+            "Dangerous curve.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.33"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "تضیق جسر.",
+            "تضیق الطریق من جھتین.",
+            "تضیق الطریق من الیمین.",
+            "تضیق من الیسار."
+        ],
+        "options_en": [
+            "Bridge narrows.",
+            "Road narrows from both sides.",
+            "Road narrows from the right.",
+            "Road narrows from the left."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.34"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "انخفاض في مستوى الطریق.",
+            "طریق غیر مستوي.",
+            "مطب.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Dip in the road.",
+            "Uneven road.",
+            "Speed bump.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.35"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "امامك نفق.",
+            "امامك جسر.",
+            "أمامك طریق مفصول بجزیرة وسطیة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Tunnel ahead.",
+            "Bridge ahead.",
+            "Separated road with a median island ahead.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "4.36"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أطفال.",
+            "ممر او مدخل دراجات",
+            "ممر مشاة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Children.",
+            "Cyclist crossing or entrance.",
+            "Pedestrian crossing.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.37"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "مرتفع حاد.",
+            "منحدر حاد.",
+            "منحدر خطر.",
+            "لاشيء مما ذكر."
+        ],
+        "options_en": [
+            "Sharp incline.",
+            "Sharp slope.",
+            "Dangerous slope.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.38"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "انخفاض في مستوى الطریق.",
+            "طریق غیر مستوي.",
+            "مطب",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Dip in the road.",
+            "Uneven road.",
+            "Speed bump.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "4.39"
+    },
+    {
+        "text_ar": "الحد الاقصى لسرعة سیارات الشحن ذات الوزن الاجمالي اكثر من ( ٢) طن داخل\nالمدن والقرى على الطرق الرئیسیة ذات المسربین او اكثر في كل اتجاه والمفصولة بجزیرة وسیطة ھو:",
+        "text_en": "The maximum speed for cargo cars with a total weight of more than (2) tons inside cities and villages on main roads with two or more lanes in each direction and a median island is:",
+        "options_ar": [
+            "60 كم/ساعة.",
+            "70 كم/ساعة.",
+            "80 كم/ساعة.",
+            "90 كم/ساعة."
+        ],
+        "options_en": [
+            "60 km/h.",
+            "70 km/h.",
+            "80 km/h.",
+            "90 km/h."
+        ],
+        "correctIndex": 2,
+        "imgName": "4.40"
+    }
+]

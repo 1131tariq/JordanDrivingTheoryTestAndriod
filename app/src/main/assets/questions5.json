@@ -1,0 +1,720 @@
+[
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "ممنوع مرور المركبات القاطرة والمقطورة.",
+            "ممنوع مرور المقطورات.",
+            "ممنوع مرور المركبات المعدة لنقل البضائع ."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "Tractor-trailers are prohibited.",
+            "Trailers are prohibited.",
+            "Vehicles for transporting goods are prohibited."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.1"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "ممنوع مرور الدراجات الناریة.",
+            "ممنوع المرور.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "Motorcycles are prohibited.",
+            "No entry.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.2"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة الطریق ذات الاولویة.",
+            "أمامك شاخصة اعطي الاولویة.",
+            "طریق ذو اولویة .",
+            "كن حذراً."
+        ],
+        "options_en": [
+            "End of the priority road.",
+            "Give way sign ahead.",
+            "Priority road.",
+            "Be careful."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.3"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "ممنوع مرور الدراجات الناریة.",
+            "ممنوع مرور الدراجات ذات المحرك الصغیر.",
+            "ممنوع مرور الدراجات الھوائیة ."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "Motorcycles are prohibited.",
+            "Mopeds are prohibited.",
+            "Bicycles are prohibited."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.4"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع الانعطاف إلى الیسار.",
+            "ممنوع الانعطاف إلى الیمین.",
+            "مسموح الانعطاف الى الیسار.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No left turn.",
+            "No right turn.",
+            "Left turn is allowed.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.5"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "تقاطع طریق رئیسي مع فرعي من جھة الیسار.",
+            "تقاطع طریق رئیسي مع طریقین فرعیین.",
+            "تقاطع طریق رئیسي مع طریق رئیسي.",
+            "تقاطع طریق رئیسي مع فرعي من جھة الیمین."
+        ],
+        "options_en": [
+            "Main road intersecting with a side road from the left.",
+            "Main road intersecting with two side roads.",
+            "Main road intersecting with another main road.",
+            "Main road intersecting with a side road from the right."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.6"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "ممنوع مرور المركبات القاطرة والمقطورة.",
+            "ممنوع المرور.",
+            "ممنوع مرور المركبات المعدة لنقل البضائع ."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "Tractor-trailers are prohibited.",
+            "No entry.",
+            "Vehicles for transporting goods are prohibited."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.7"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات التي یزید عرضھا عن ٨م",
+            "ممنوع مرور المركبات التي یزید ارتفاعھا عن ٨م",
+            "ممنوع مرور المركبات التي یزید وزنھا عن ٨طن",
+            "ممنوع مرور المركبات التي تزن اكثر من ٨طن على المحور."
+        ],
+        "options_en": [
+            "Vehicles wider than 8m are prohibited.",
+            "Vehicles taller than 8m are prohibited.",
+            "Vehicles heavier than 8 tons are prohibited.",
+            "Vehicles with an axle load exceeding 8 tons are prohibited."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.8"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة الطریق ذات الاولویة.",
+            "أمامك شاخصة اعطي الاولویة.",
+            "بدایة طریق ذو اولویة.",
+            "كن حذراً ."
+        ],
+        "options_en": [
+            "End of the priority road.",
+            "Give way sign ahead.",
+            "Beginning of a priority road.",
+            "Be careful."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.9"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "تقاطع طریق رئیسي مع فرعي من جھة الیسار.",
+            "تقاطع طریق رئیسي مع طریقین فرعیین.",
+            "تقاطع طریق رئیسي مع طریق رئیسي.",
+            "تقاطع طریق رئیسي مع فرعي من جھة الیمین."
+        ],
+        "options_en": [
+            "Main road intersecting with a side road from the left.",
+            "Main road intersecting with two side roads.",
+            "Main road intersecting with another main road.",
+            "Main road intersecting with a side road from the right."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.10"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق غیر خطر.",
+            "خفض السرعة.",
+            "أخطار مختلفة.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No hazardous road.",
+            "Reduce speed.",
+            "Various hazards.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.11"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك تقاطع.",
+            "تقاطع طریق رئیسي مع طریقین فرعیین.",
+            "تقاطع فرعي.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Intersection ahead.",
+            "Main road intersecting with two side roads.",
+            "Side road intersection.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.12"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات التي یقل وزنھا عن ١٢ طن.",
+            "ممنوع مرور المركبات التي تزن اكثر من ( ١٢ ) طن على المحور",
+            "ممنوع مرور المركبات التي یزید طولھا عن ١٢ م.",
+            "ممنوع مرور المركبات التي یزید وزنھا عن ١٢ طن."
+        ],
+        "options_en": [
+            "Vehicles weighing less than 12 tons are prohibited.",
+            "Vehicles with an axle load exceeding 12 tons are prohibited.",
+            "Vehicles longer than 12m are prohibited.",
+            "Vehicles heavier than 12 tons are prohibited."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.13"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور العربات التي تجرھا الحیوانات.",
+            "ممنوع مرور المشاة.",
+            "ممنوع المرور.",
+            "لا شيء مما ذكر"
+        ],
+        "options_en": [
+            "Animal-drawn vehicles are prohibited.",
+            "Pedestrians are prohibited.",
+            "No entry.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.14"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع الانعطاف إلى الیسار.",
+            "ممنوع الدوران.",
+            "مسموح الدوران.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No left turn.",
+            "No U-turn.",
+            "U-turn is allowed.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.15"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "امامك شاخصة اعط الاولویة.",
+            "طریق رئیسي.",
+            "لاشئ مما ذكر"
+        ],
+        "options_en": [
+            "Hazardous road.",
+            "Give way sign ahead.",
+            "Main road.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.16"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات التي یزید عرضھا عن ٣٫٥ م.",
+            "ممنوع مرور المركبات التي یزید ارتفاعھا عن ٣٫٥ م.",
+            "ممنوع مرور المركبات التي یزید طولھا عن ٣٫٥ م.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Vehicles wider than 3.5m are prohibited.",
+            "Vehicles taller than 3.5m are prohibited.",
+            "Vehicles longer than 3.5m are prohibited.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.17"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات بالاتجاھین",
+            "أفضلیة المرور لك.",
+            "ممنوع المرور.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Vehicles from both directions are prohibited.",
+            "You have the right of way.",
+            "No entry.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.18"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "امامك تقاطع.",
+            "امامك دوار.",
+            "أمامك شاخصة قف.",
+            "وجوب الوقوف"
+        ],
+        "options_en": [
+            "Intersection ahead.",
+            "Roundabout ahead.",
+            "Stop sign ahead.",
+            "Mandatory stop."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.19"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "ممنوع مرور المركبات.",
+            "ممنوع المرور.",
+            "ممنوع مرور المركبات المعدة لنقل البضائع ."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "Vehicles are prohibited.",
+            "No entry.",
+            "Vehicles for transporting goods are prohibited."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.20"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك سكة حدید مع حاجز.",
+            "مقاطع سكة حدید على أبعاد مختلفة من التقاطع.",
+            "قطع سكة حدید(خط واحد)",
+            "مقطع سكة حدید (أكثر من خط)."
+        ],
+        "options_en": [
+            "Level crossing with a barrier ahead.",
+            "Level crossings at different distances from the intersection.",
+            "Single railway track.",
+            "Multiple railway tracks."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.21"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع التجاوز.",
+            "نھایة منطقة منع التجاوز.",
+            "ممنوع التجاوز للشاحنات.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No overtaking.",
+            "End of no-overtaking zone.",
+            "No overtaking for trucks.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.22"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممر مشاة.",
+            "ممنوع مرور المشاة.",
+            "انتظر مرور المشاة",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Pedestrian crossing.",
+            "Pedestrians are prohibited.",
+            "Wait for pedestrians to pass.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.23"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "طریق رئیسي.",
+            "اعطي الاولویة."
+        ],
+        "options_en": [
+            "Hazardous road.",
+            "Main road.",
+            "Give way."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.24"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات التي یزید عرضھا عن ١٢ م.",
+            "ممنوع مرور المركبات التي یزید ارتفاعھا عن ١٢ م.",
+            "ممنوع مرور المركبات التي یزید طولھا عن ١٢ م.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Vehicles wider than 12m are prohibited.",
+            "Vehicles taller than 12m are prohibited.",
+            "Vehicles longer than 12m are prohibited.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.25"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "أفضلیة المرور لك.",
+            "یسمح بمرور الالیات",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "You have the right of way.",
+            "Motor vehicles are allowed.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.26"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك سكة حدید مع حاجز.",
+            "مقاطع سكة حدید على أبعاد مختلفة من التقاطع.",
+            "مقطع سكة حدید(خط واحد)",
+            "مقطع سكة حدید (أكثر من خط)."
+        ],
+        "options_en": [
+            "Level crossing with a barrier ahead.",
+            "Level crossings at different distances from the intersection.",
+            "Single railway track.",
+            "Multiple railway tracks."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.27"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة طریق رئیسي.",
+            "أفضلیة المرور لك.",
+            "طریق رئیسي.",
+            "الأولویة للقادمین."
+        ],
+        "options_en": [
+            "End of a main road.",
+            "You have the right of way.",
+            "Main road.",
+            "Oncoming traffic has the right of way."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.28"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك تقاطع.",
+            "امامك دوار.",
+            "أمامك شاخصة قف",
+            "قف."
+        ],
+        "options_en": [
+            "Intersection ahead.",
+            "Roundabout ahead.",
+            "Stop sign ahead.",
+            "Stop."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.29"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "خفض السرعة.",
+            "أخطار مختلفة.",
+            "تقاطع متكافئ الحقوق."
+        ],
+        "options_en": [
+            "Hazardous road.",
+            "Reduce speed.",
+            "Various hazards.",
+            "Intersection with equal rights."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.30"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور عربات الید.",
+            "ممنوع مرور المركات الزراعیة .",
+            "ممنوع مرور العربات التي تجرھا الحیوانات .",
+            "لا شيء مما ذكر"
+        ],
+        "options_en": [
+            "Handcarts are prohibited.",
+            "Agricultural vehicles are prohibited.",
+            "Animal-drawn vehicles are prohibited.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.31"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "طریق خطر.",
+            "خفض السرعة.",
+            "أمامك دوار.",
+            "یجب الدوران."
+        ],
+        "options_en": [
+            "Hazardous road.",
+            "Reduce speed.",
+            "Roundabout ahead.",
+            "Must turn."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.32"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات بالاتجاھین",
+            "أفضلیة المرور لك.",
+            "ممنوع المرور.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Vehicles from both directions are prohibited.",
+            "You have the right of way.",
+            "No entry.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.33"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور عربات الید.",
+            "ممنوع مرور المشاة.",
+            "الطریق لعربات الید",
+            "لا شيء مما ذكر"
+        ],
+        "options_en": [
+            "Handcarts are prohibited.",
+            "Pedestrians are prohibited.",
+            "Road for handcarts.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.34"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات الآلیة",
+            "ممنوع مرور الدراجات الناریة.",
+            "ممنوع المرور.",
+            "ممنوع مرور الدراجات الھوائیة ."
+        ],
+        "options_en": [
+            "Motor vehicles are prohibited.",
+            "Motorcycles are prohibited.",
+            "No entry.",
+            "Bicycles are prohibited."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.35"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع الانعطاف إلى الیسار.",
+            "ممنوع الانعطاف إلى الیمین.",
+            "مسموح الانعطاف الى الیمین.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No left turn.",
+            "No right turn.",
+            "Right turn is allowed.",
+            "None of the above."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.36"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "أمامك سكة حدید مع حاجز.",
+            "مقاطع سكة حدید على أبعاد مختلفة من التقاطع.",
+            "مقطع سكة حدید(خط واحد)",
+            "مقطع سكة حدید (أكثر من خط)."
+        ],
+        "options_en": [
+            "Level crossing with a barrier ahead.",
+            "Level crossings at different distances from the intersection.",
+            "Single railway track.",
+            "Multiple railway tracks."
+        ],
+        "correctIndex": 1,
+        "imgName": "5.37"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع التجاوز.",
+            "نھایة منطقة منع التجاوز.",
+            "ممنوع التجاوز للشاحنات.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "No overtaking.",
+            "End of no-overtaking zone.",
+            "No overtaking for trucks.",
+            "None of the above."
+        ],
+        "correctIndex": 2,
+        "imgName": "5.38"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "ممنوع مرور المركبات التي یزید عرضھا عن ٢٫٢ م.",
+            "ممنوع مرور المركبات التي یزید ارتفاعھا عن ٢٫٢ م.",
+            "ممنوع مرور المركبات التي یزید طولھا عن ٢٫٢ م.",
+            "لا شيء مما ذكر."
+        ],
+        "options_en": [
+            "Vehicles wider than 2.2m are prohibited.",
+            "Vehicles taller than 2.2m are prohibited.",
+            "Vehicles longer than 2.2m are prohibited.",
+            "None of the above."
+        ],
+        "correctIndex": 0,
+        "imgName": "5.39"
+    },
+    {
+        "text_ar": "ھذه الشاخصة التحذیریة تعني",
+        "text_en": "This warning sign means",
+        "options_ar": [
+            "نھایة طریق رئیسي.",
+            "أفضلیة المرور لك.",
+            "طریق بمسربین.",
+            "الأولولیة للقادمین من الجھة المقابلة."
+        ],
+        "options_en": [
+            "End of a main road.",
+            "You have the right of way.",
+            "Two-lane road.",
+            "Oncoming traffic has the right of way."
+        ],
+        "correctIndex": 3,
+        "imgName": "5.40"
+    }
+]

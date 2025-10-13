@@ -12,7 +12,7 @@ class LanguageManager {
     var language by mutableStateOf("en")
         private set
 
-    fun setLanguage(lang: String) {
+    fun updateLanguage(lang: String) {
         language = lang
     }
 }

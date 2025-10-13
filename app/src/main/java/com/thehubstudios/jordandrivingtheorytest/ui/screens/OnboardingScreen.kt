@@ -35,7 +35,7 @@ fun OnboardingScreen(
         when (currentPage) {
             0 -> LanguageSelectionPage(
                 onLanguageSelected = { lang ->
-                    languageManager.setLanguage(lang)
+                    languageManager.updateLanguage(lang)
                     currentPage = 1
                 }
             )

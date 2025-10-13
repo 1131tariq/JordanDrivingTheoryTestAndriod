@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Jordan Driving Theory Test</string>
+    <string name="main_action_title">Choose an exam</string>
+    <string name="no_connection_title">No Wi-Fi Connection</string>
+    <string name="no_connection_message">Please connect to Wi-Fi to use this app.</string>
+    <string name="choose_language">Choose your language</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_body">Practice the Jordanian driving theory test in Arabic and English with real questions.</string>
+    <string name="next">Next</string>
+    <string name="get_reminders">Get Reminders</string>
+    <string name="reminder_body">Would you like to receive reminders to practice?</string>
+    <string name="allow_notifications">Allow Notifications</string>
+    <string name="ready_title">You\'\re all set!</string>
+    <string name="ready_body">Start practicing and good luck with your test.</string>
+    <string name="lets_start">Let’s Start!</string>
+    <string name="test_complete">Test Complete</string>
+    <string name="your_score_was">Your Score Was</string>
+    <string name="you_scored_percent">You Scored</string>
+    <string name="try_again">Try Again</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="ads_removed">Ads Removed ✅</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="score">Score</string>
+    <string name="reminder_title">JO Driving Test</string>
+    <string name="reminder_message">Practice your driving theory test!</string>
+    <string name="setLanguage">Language</string>
 </resources>

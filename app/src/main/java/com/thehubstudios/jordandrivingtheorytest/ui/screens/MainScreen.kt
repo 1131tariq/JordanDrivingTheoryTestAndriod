@@ -1,5 +1,6 @@
 package com.thehubstudios.jordandrivingtheorytest.ui.screens
 
+import android.app.Activity
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
@@ -14,6 +15,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
@@ -23,25 +25,27 @@ import com.thehubstudios.jordandrivingtheorytest.R
 import com.thehubstudios.jordandrivingtheorytest.model.Exam
 import com.thehubstudios.jordandrivingtheorytest.viewmodel.LanguageManager
 import com.thehubstudios.jordandrivingtheorytest.viewmodel.PurchaseManager
-import com.thehubstudios.jordandrivingtheorytest.viewmodel.NetworkMonitor
+import com.thehubstudios.jordandrivingtheorytest.ui.ads.BannerAdView
+import com.thehubstudios.jordandrivingtheorytest.ui.ads.InterstitialAdManager
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MainScreen(
     languageManager: LanguageManager,
     purchaseManager: PurchaseManager,
-    navController: NetworkMonitor
+    navController: NavController
 ) {
-    val freeExamIds = setOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
-    val exams = remember {
-        (1..15).map { Exam(it, "exam_$it", "questions$it") }
+    val activity = LocalContext.current as Activity
+    val interstitialAdManager = remember {
+        InterstitialAdManager(
+            activity,
+            "ca-app-pub-5866389650741773/1194057628" // replace with your interstitial ad unit ID
+        )
     }
 
-    var showAdDialog by remember { mutableStateOf(false) }
-    var pendingExamId by remember { mutableStateOf<Int?>(null) }
+    val freeExamIds = (1..15).toSet()
+    val exams = remember { (1..15).map { Exam(it, "exam_$it", "questions$it") } }
 
     Box(modifier = Modifier.fillMaxSize()) {
-        // Background image
         Image(
             painter = painterResource(id = R.drawable.backdrop2),
             contentDescription = null,
@@ -53,9 +57,9 @@ fun MainScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(horizontal = 80.dp)
+                .padding(horizontal = 16.dp)
         ) {
-            // Top bar with language picker and settings
+            // Language and settings row
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -63,63 +67,41 @@ fun MainScreen(
                 horizontalArrangement = Arrangement.SpaceBetween,
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                // Language Picker
-                Row(
-                    modifier = Modifier.width(220.dp),
-                    horizontalArrangement = Arrangement.spacedBy(8.dp)
-                ) {
+                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                     Button(
-                        onClick = { languageManager.setLanguage("en") },
+                        onClick = { languageManager.updateLanguage("en") },
                         colors = ButtonDefaults.buttonColors(
-                            containerColor = if (languageManager.language == "en")
-                                Color(0xFFFF9800) else Color.Gray
-                        ),
-                        modifier = Modifier.weight(1f)
-                    ) {
-                        Text("English")
-                    }
+                            containerColor = if (languageManager.language == "en") Color(0xFFFF9800) else Color.Gray
+                        )
+                    ) { Text("English") }
 
                     Button(
-                        onClick = { languageManager.setLanguage("ar") },
+                        onClick = { languageManager.updateLanguage("ar") },
                         colors = ButtonDefaults.buttonColors(
-                            containerColor = if (languageManager.language == "ar")
-                                Color(0xFFFF9800) else Color.Gray
-                        ),
-                        modifier = Modifier.weight(1f)
-                    ) {
-                        Text("العربية")
-                    }
+                            containerColor = if (languageManager.language == "ar") Color(0xFFFF9800) else Color.Gray
+                        )
+                    ) { Text("العربية") }
                 }
 
                 IconButton(onClick = { navController.navigate("settings") }) {
-                    Icon(
-                        imageVector = Icons.Default.Settings,
-                        contentDescription = "Settings",
-                        tint = MaterialTheme.colorScheme.onBackground
-                    )
+                    Icon(Icons.Default.Settings, contentDescription = "Settings", tint = Color.White)
                 }
             }
 
-            Spacer(modifier = Modifier.height(32.dp))
-
-            // Title
             Text(
                 text = stringResource(R.string.main_action_title),
-                style = MaterialTheme.typography.headlineLarge,
+                style = MaterialTheme.typography.headlineMedium,
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(bottom = 16.dp),
+                    .padding(vertical = 16.dp),
                 textAlign = TextAlign.Center
             )
 
-            // Exam Grid
             LazyVerticalGrid(
                 columns = GridCells.Fixed(2),
                 horizontalArrangement = Arrangement.spacedBy(16.dp),
                 verticalArrangement = Arrangement.spacedBy(16.dp),
-                modifier = Modifier
-                    .weight(1f)
-                    .padding(horizontal = 20.dp)
+                modifier = Modifier.weight(1f)
             ) {
                 items(exams) { exam ->
                     val isLocked = !freeExamIds.contains(exam.id) && !purchaseManager.hasRemovedAds
@@ -131,9 +113,11 @@ fun MainScreen(
                             if (isLocked) {
                                 purchaseManager.purchaseRemoveAds()
                             } else {
-                                pendingExamId = exam.id
                                 if (!purchaseManager.hasRemovedAds) {
-                                    showAdDialog = true
+                                    // ✅ Show interstitial ad, then go to exam
+                                    interstitialAdManager.showAd {
+                                        navController.navigate("test/${exam.id}")
+                                    }
                                 } else {
                                     navController.navigate("test/${exam.id}")
                                 }
@@ -142,26 +126,13 @@ fun MainScreen(
                     )
                 }
             }
-        }
 
-        // Ad Dialog
-        if (showAdDialog) {
-            AlertDialog(
-                onDismissRequest = {
-                    showAdDialog = false
-                    pendingExamId?.let { navController.navigate("test/$it") }
-                },
-                title = { Text("Loading Ad...") },
-                text = { Text("Please wait") },
-                confirmButton = {
-                    TextButton(onClick = {
-                        showAdDialog = false
-                        pendingExamId?.let { navController.navigate("test/$it") }
-                    }) {
-                        Text("Skip")
-                    }
-                }
-            )
+            Spacer(modifier = Modifier.height(20.dp))
+
+            // ✅ Banner Ad at bottom
+            if (!purchaseManager.hasRemovedAds) {
+                BannerAdView(adUnitId = "ca-app-pub-5866389650741773/9319959659")
+            }
         }
     }
 }
@@ -179,30 +150,18 @@ fun ExamCard(
         ),
         modifier = Modifier
             .fillMaxWidth()
-            .height(120.dp),
-        enabled = !isLocked || true // Allow clicking locked to trigger purchase
+            .height(120.dp)
     ) {
-        Column(
-            horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.Center
-        ) {
+        Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.Center) {
             Text(
-                text = if (isLocked)
-                    "Exam ${exam.id}\nComing Soon"
-                else
-                    "Exam ${exam.id}",
+                text = if (isLocked) "Exam ${exam.id}\nComing Soon" else "Exam ${exam.id}",
                 style = MaterialTheme.typography.titleMedium,
                 textAlign = TextAlign.Center,
                 color = Color.White
             )
-
             if (isLocked) {
                 Spacer(modifier = Modifier.height(8.dp))
-                Icon(
-                    imageVector = Icons.Default.Lock,
-                    contentDescription = "Locked",
-                    tint = Color.White
-                )
+                Icon(Icons.Default.Lock, contentDescription = "Locked", tint = Color.White)
             }
         }
     }

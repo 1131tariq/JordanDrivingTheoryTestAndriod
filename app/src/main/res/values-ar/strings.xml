@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار القيادة النظري الأردني</string>
+    <string name="main_action_title">اختر امتحاناً</string>
+    <string name="no_connection_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="no_connection_message">يرجى الاتصال بالإنترنت لاستخدام هذا التطبيق.</string>
+    <string name="choose_language">اختر لغتك</string>
+    <string name="welcome_title">مرحباً بك!</string>
+    <string name="welcome_body">تدرّب على اختبار القيادة النظري الأردني باللغتين العربية والإنجليزية باستخدام أسئلة حقيقية.</string>
+    <string name="next">التالي</string>
+    <string name="get_reminders">الحصول على تذكيرات</string>
+    <string name="reminder_body">هل ترغب في تلقي تذكيرات للتدرب؟</string>
+    <string name="allow_notifications">السماح بالإشعارات</string>
+    <string name="ready_title">كل شيء جاهز!</string>
+    <string name="ready_body">ابدأ التدريب ونتمنى لك التوفيق في الامتحان.</string>
+    <string name="lets_start">لنبدأ</string>
+    <string name="test_complete">اكتمل الاختبار</string>
+    <string name="your_score_was">كانت نتيجتك</string>
+    <string name="you_scored_percent">لقد حصلت على</string>
+    <string name="try_again">حاول مرة أخرى</string>
+    <string name="main_menu">القائمة الرئيسية</string>
+    <string name="remove_ads">إزالة الإعلانات</string>
+    <string name="ads_removed">تمت إزالة الإعلانات ✅</string>
+    <string name="restore_purchases">استعادة المشتريات</string>
+    <string name="correct">صحيح</string>
+    <string name="wrong">خطأ</string>
+    <string name="score">النتيجة</string>
+    <string name="reminder_title">اختبار القيادة الأردني</string>
+    <string name="reminder_message">تدرّب على اختبار القيادة النظري الخاص بك!</string>
+    <string name="setLanguage">اللغة</string>
+</resources>
+

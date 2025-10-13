@@ -13,6 +13,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.thehubstudios.jordandrivingtheorytest.R
+import com.thehubstudios.jordandrivingtheorytest.ui.ads.BannerAdView
 import com.thehubstudios.jordandrivingtheorytest.viewmodel.LanguageManager
 import com.thehubstudios.jordandrivingtheorytest.viewmodel.PurchaseManager
 
@@ -22,7 +23,8 @@ fun ResultView(
     score: Int,
     total: Int,
     onRestart: () -> Unit,
-    onExit: () -> Unit
+    onExit: () -> Unit,
+    purchaseManager: PurchaseManager,
 ) {
     val percentage = (score.toFloat() / total.toFloat() * 100).toInt()
     val passed = percentage >= 80
@@ -30,7 +32,7 @@ fun ResultView(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .padding(32.dp),
+            .padding(22.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
@@ -81,6 +83,12 @@ fun ResultView(
             ) {
                 Text(stringResource(R.string.main_menu))
             }
+        }
+        Spacer(modifier = Modifier.height(32.dp))
+
+        // ✅ Banner Ad at bottom
+        if (!purchaseManager.hasRemovedAds) {
+            BannerAdView(adUnitId = "ca-app-pub-5866389650741773/9319959659")
         }
     }
 }

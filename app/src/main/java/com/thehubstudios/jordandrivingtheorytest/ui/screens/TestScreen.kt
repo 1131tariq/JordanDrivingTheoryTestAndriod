@@ -21,6 +21,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import coil.compose.AsyncImage
 import com.thehubstudios.jordandrivingtheorytest.R
+import com.thehubstudios.jordandrivingtheorytest.ui.ads.BannerAdView
 import com.thehubstudios.jordandrivingtheorytest.viewmodel.*
 
 @Composable
@@ -39,6 +40,7 @@ fun TestScreen(
     var showBackDialog by remember { mutableStateOf(false) }
     var selectedImageUrl by remember { mutableStateOf<String?>(null) }
 
+
     Box(modifier = Modifier.fillMaxSize()) {
         Image(
             painter = painterResource(id = R.drawable.backdrop2),
@@ -51,7 +53,7 @@ fun TestScreen(
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(horizontal = 85.dp, vertical = 35.dp)
+                .padding(horizontal = 8.dp, vertical = 5.dp)
         ) {
             // Back button
             Row(
@@ -73,7 +75,8 @@ fun TestScreen(
                         viewModel.restart()
                         isFinished = false
                     },
-                    onExit = { showBackDialog = true }
+                    onExit = { showBackDialog = true },
+                    purchaseManager = purchaseManager
                 )
             } else {
                 Column(
@@ -195,6 +198,14 @@ fun TestScreen(
                         text = "${stringResource(R.string.score)}: ${viewModel.score}",
                         style = MaterialTheme.typography.headlineMedium
                     )
+
+                    Spacer(modifier = Modifier.height(16.dp))
+
+
+                    // ✅ Banner Ad at bottom
+                    if (!purchaseManager.hasRemovedAds) {
+                        BannerAdView(adUnitId = "ca-app-pub-5866389650741773/9319959659")
+                    }
                 }
             }
         }
